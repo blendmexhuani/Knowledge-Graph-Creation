@@ -1,0 +1,172 @@
+@prefix rml: 	<http://semweb.mmlab.be/ns/rml#> .
+@prefix carml:  <http://carml.taxonic.com/carml/> .
+@prefix rr: 	<http://www.w3.org/ns/r2rml#> .
+@prefix ql: 	<http://semweb.mmlab.be/ns/ql#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: 	<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix : 		<http://semantics.id/ns/example/movie#> .
+@prefix ex: 	<http://semantics.id/ns/example#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix fno:    <http://semweb.datasciencelab.be/ns/function#> .
+@prefix func:   <http://semantics.id/ns/function#> .
+@prefix param:  <http://semantics.id/ns/parameter#> .
+
+<#MovieMappingDetails>
+    rml:logicalSource [
+        rml:source [ a carml:Stream; ];
+        rml:referenceFormulation ql:CSV;
+    ];
+    
+    rr:subjectMap [
+        rr:template "http://semantics.id/ns/example#movie_{imdb_title_id}";
+        rr:class :Movie;
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate rdfs:label;
+        rr:objectMap [
+            rml:reference "title";
+            rr:datatype xsd:string;
+            rr:language "en";
+        ];
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate :releaseYear;
+        rr:objectMap [
+            rml:reference "year";
+            rr:datatype xsd:gYear;
+        ];
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate :hasRating;
+        rr:objectMap [
+            rml:reference "avg_vote";
+            rr:datatype xsd:decimal;
+        ];
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate :hasFilmStudio;
+        rr:objectMap [
+            rr:template "http://semantics.id/ns/example#{production_company}";
+            rr:class :FilmStudio, owl:NamedIndividual;
+        ];
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate :hasMovieDirector;
+        rr:objectMap [
+            carml:multiFunctionValue [
+                rr:subjectMap [ rr:template "functionExec" ];
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes;
+                    rr:object func:splitToURL
+                ];
+                rr:predicateObjectMap [
+                    rr:predicate param:data;
+                    rr:objectMap [ rml:reference "director" ];
+                ];
+                rr:predicateObjectMap [
+                    rr:predicate param:ns;
+                    rr:objectMap [ rr:constant "http://semantics.id/ns/example#" ];
+                ];
+            ];
+            rr:termType rr:IRI;
+            rr:class :MovieDirector, owl:NamedIndividual;
+        ];
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate :hasWriter;
+        rr:objectMap [
+            carml:multiFunctionValue [
+                rr:subjectMap [ rr:template "functionExec" ];
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes;
+                    rr:object func:splitToURL
+                ];
+                rr:predicateObjectMap [
+                    rr:predicate param:data;
+                    rr:objectMap [ rml:reference "writer" ];
+                ];
+                rr:predicateObjectMap [
+                    rr:predicate param:ns;
+                    rr:objectMap [ rr:constant "http://semantics.id/ns/example#" ];
+                ];
+            ];
+            rr:termType rr:IRI;
+            rr:class :Writer, owl:NamedIndividual;
+        ];
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate :hasActor;
+        rr:objectMap [
+            carml:multiFunctionValue [
+                rr:subjectMap [ rr:template "functionExec" ];
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes;
+                    rr:object func:splitToURL
+                ];
+                rr:predicateObjectMap [
+                    rr:predicate param:data;
+                    rr:objectMap [ rml:reference "actors" ];
+                ];
+                rr:predicateObjectMap [
+                    rr:predicate param:ns;
+                    rr:objectMap [ rr:constant "http://semantics.id/ns/example#" ];
+                ];
+            ];
+            rr:termType rr:IRI;
+        	rr:class :Actor, owl:NamedIndividual;
+        ];
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate :hasGenre;
+        rr:objectMap [
+            carml:multiFunctionValue [
+                rr:subjectMap [ rr:template "functionExec" ];
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes;
+                    rr:object func:splitToURL
+                ];
+                rr:predicateObjectMap [
+                    rr:predicate param:data;
+                    rr:objectMap [ rml:reference "genre" ];
+                ];
+                rr:predicateObjectMap [
+                    rr:predicate param:ns;
+                    rr:objectMap [ rr:constant "http://semantics.id/ns/example/movie#" ];
+                ];
+            ];
+            rr:termType rr:IRI;
+            rr:class :Genre;
+        ];
+    ];
+  	
+    rr:predicateObjectMap [
+        rr:predicate :locatedIn;
+        rr:objectMap [
+            carml:multiFunctionValue [
+                rr:subjectMap [ rr:template "functionExec" ];
+                rr:predicateObjectMap [
+                    rr:predicate fno:executes;
+                    rr:object func:splitToURL
+                ];
+                rr:predicateObjectMap [
+                    rr:predicate param:data;
+                    rr:objectMap [ rml:reference "country" ];
+                ];
+                rr:predicateObjectMap [
+                    rr:predicate param:ns;
+                    rr:objectMap [ rr:constant "http://semantics.id/ns/example#" ];
+                ];
+            ];
+            rr:termType rr:IRI;
+            rr:class :Location;
+        ];
+    ];
+.

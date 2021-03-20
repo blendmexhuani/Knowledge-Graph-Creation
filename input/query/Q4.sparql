@@ -1,0 +1,7 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX : <http://semantics.id/ns/example/movie#>
+CONSTRUCT { ?director :directed ?movie . }
+WHERE { ?movie rdf:type :Movie ;
+               :hasMovieDirector ?director .
+    	?director rdf:type :MovieDirector .
+}

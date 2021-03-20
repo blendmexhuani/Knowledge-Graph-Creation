@@ -1,0 +1,13 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX : <http://semantics.id/ns/example/movie#>
+CONSTRUCT { ?genre :totalMoviesCreated ?movies_created . }
+WHERE { 
+    {
+        SELECT ?genre (count(?movie) as ?movies_created) 
+        WHERE { ?movie rdf:type :Movie ;
+                       :hasGenre ?genre .
+            	?genre rdf:type :Genre .
+        }
+        GROUP BY ?genre
+    }
+}

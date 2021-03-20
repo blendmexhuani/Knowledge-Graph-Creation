@@ -1,0 +1,13 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX : <http://semantics.id/ns/example/movie#>
+CONSTRUCT { ?actor rdf:type :Actor .
+			?writer rdf:type :Writer . 
+			?director rdf:type :MovieDirector . }
+WHERE { ?movie rdf:type :Movie ;
+               :hasActor ?actor ;
+			   :hasWriter ?writer ;
+			   :hasMovieDirector ?director .
+        ?actor rdf:type <http://xmlns.com/foaf/0.1/Person> .
+		?writer rdf:type <http://xmlns.com/foaf/0.1/Person> .
+		?actor rdf:type <http://xmlns.com/foaf/0.1/Person> .
+}

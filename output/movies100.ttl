@@ -1,0 +1,1900 @@
+
+<http://semantics.id/ns/example#movie_tt1702014> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#BÃ¡rbara%20Pereira>,
+    <http://semantics.id/ns/example#Eucir%20de%20Souza>, <http://semantics.id/ns/example#Fabio%20Audi>,
+    <http://semantics.id/ns/example#Ghilherme%20Lobo>, <http://semantics.id/ns/example#Guga%20Auricchio>,
+    <http://semantics.id/ns/example#Isabela%20Guasco>, <http://semantics.id/ns/example#Julio%20Machado>,
+    <http://semantics.id/ns/example#LÃºcia%20Romano>, <http://semantics.id/ns/example#Matheus%20Abreu>,
+    <http://semantics.id/ns/example#Naruna%20Costa>, <http://semantics.id/ns/example#Pedro%20Carvalho>,
+    <http://semantics.id/ns/example#Renata%20Novaes>, <http://semantics.id/ns/example#Selma%20Egrei>,
+    <http://semantics.id/ns/example#Tess%20Amorim>, <http://semantics.id/ns/example#Victor%20Filgueiras>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Lacuna%20Filmes>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Daniel%20Ribeiro>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.9;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Daniel%20Ribeiro>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Brazil>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Hoje Eu Quero Voltar Sozinho"@en .
+
+<http://semantics.id/ns/example#movie_tt1705772> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ajith%20Kumar>,
+    <http://semantics.id/ns/example#Andrea%20Jeremiah>, <http://semantics.id/ns/example#Anjali>,
+    <http://semantics.id/ns/example#Aravind%20Akash>, <http://semantics.id/ns/example#Arjun%20Sarja>,
+    <http://semantics.id/ns/example#Ashwin%20Kakumanu>, <http://semantics.id/ns/example#Boys%20Rajan>,
+    <http://semantics.id/ns/example#Mahat%20Raghavendra>, <http://semantics.id/ns/example#Premgi%20Amaren>,
+    <http://semantics.id/ns/example#Raai%20Laxmi>, <http://semantics.id/ns/example#Ramya%20Subramanian>,
+    <http://semantics.id/ns/example#Subbu%20Panchu>, <http://semantics.id/ns/example#Trisha%20Krishnan>,
+    <http://semantics.id/ns/example#V.%20Jayaprakash>, <http://semantics.id/ns/example#Vaibhav%20Reddy>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Cloud%20Nine%20Movies>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Crime>, <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Venkat%20Prabhu>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.6;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Venkat%20Prabhu>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mankatha"@en .
+
+<http://semantics.id/ns/example#movie_tt1707386> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aaron%20Tveit>,
+    <http://semantics.id/ns/example#Adam%20Jones>, <http://semantics.id/ns/example#Amanda%20Seyfried>,
+    <http://semantics.id/ns/example#Anne%20Hathaway>, <http://semantics.id/ns/example#Cavin%20Cornwall>,
+    <http://semantics.id/ns/example#Daniel%20Huttlestone>, <http://semantics.id/ns/example#Dave%20Hawley>,
+    <http://semantics.id/ns/example#Eddie%20Redmayne>, <http://semantics.id/ns/example#Helena%20Bonham%20Carter>,
+    <http://semantics.id/ns/example#Hugh%20Jackman>, <http://semantics.id/ns/example#John%20Barr>,
+    <http://semantics.id/ns/example#Josef%20Altin>, <http://semantics.id/ns/example#Russell%20Crowe>,
+    <http://semantics.id/ns/example#Sacha%20Baron%20Cohen>, <http://semantics.id/ns/example#Samantha%20Barks>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Universal%20Pictures>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#History>, <http://semantics.id/ns/example/movie#Musical>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Tom%20Hooper>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.6;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Alain%20Boublil>,
+    <http://semantics.id/ns/example#William%20Nicholson>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#UK>,
+    <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Les MisÃ©rables"@en .
+
+<http://semantics.id/ns/example#movie_tt1703049> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Bin%20Shimada>,
+    <http://semantics.id/ns/example#Charles%20Baker>, <http://semantics.id/ns/example#Christopher%20Bevins>,
+    <http://semantics.id/ns/example#Ed%20Blaylock>, <http://semantics.id/ns/example#Fumihiko%20Tachiki>,
+    <http://semantics.id/ns/example#Hiromi%20Tsuru>, <http://semantics.id/ns/example#Kikuko%20Inoue>,
+    <http://semantics.id/ns/example#Maaya%20Sakamoto>, <http://semantics.id/ns/example#Masaya%20Onosaka>,
+    <http://semantics.id/ns/example#Nobuo%20Tobita>, <http://semantics.id/ns/example#Robert%20Bell>,
+    <http://semantics.id/ns/example#Satsuki%20Yukino>, <http://semantics.id/ns/example#Show%20Hayami>,
+    <http://semantics.id/ns/example#Taiten%20Kusunoki>, <http://semantics.id/ns/example#Tsutomu%20Isobe>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Flying%20Dog>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Animation>, <http://semantics.id/ns/example/movie#Sci-Fi>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Satoshi%20Nishimura>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.5;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Satoshi%20Nishimura>,
+    <http://semantics.id/ns/example#Yasuhiro%20Nightow>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Trigun: Badlands Rumble"@en .
+
+<http://semantics.id/ns/example#movie_tt1706691> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ana%20Chirita>,
+    <http://semantics.id/ns/example#Anatol%20DurbalÃ£>, <http://semantics.id/ns/example#Angus%20Deayton>,
+    <http://semantics.id/ns/example#Igor%20Babiac>, <http://semantics.id/ns/example#Igor%20Caras>,
+    <http://semantics.id/ns/example#Inna%20Cebotari>, <http://semantics.id/ns/example#Ion%20Grosu>,
+    <http://semantics.id/ns/example#Laura%20Solon>, <http://semantics.id/ns/example#Morwenna%20Banks>,
+    <http://semantics.id/ns/example#Peter%20Bailey>, <http://semantics.id/ns/example#Sandu%20Grecu>,
+    <http://semantics.id/ns/example#Silvia%20Luca>, <http://semantics.id/ns/example#Stephen%20Frost>,
+    <http://semantics.id/ns/example#Tony%20Hawks>, <http://semantics.id/ns/example#Viorel%20Cornescu>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Tony%20Hawks%20Productions>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Mikolaj%20Jaroszewicz>,
+    <http://semantics.id/ns/example#Tony%20Hawks>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.5;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Tony%20Hawks>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Moldova>,
+    <http://semantics.id/ns/example#UK>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Playing the Moldovans at Tennis"@en .
+
+<http://semantics.id/ns/example#movie_tt1705120> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Delyan%20Dabov>,
+    <http://semantics.id/ns/example#Diana%20Dobreva>, <http://semantics.id/ns/example#Dilyana%20Popova>,
+    <http://semantics.id/ns/example#Evgenia%20Vasileva>, <http://semantics.id/ns/example#Hristo%20Shopov>,
+    <http://semantics.id/ns/example#John%20Lawton>, <http://semantics.id/ns/example#Koyna%20Ruseva>,
+    <http://semantics.id/ns/example#Lilia%20Marvilya>, <http://semantics.id/ns/example#Lora%20Cheshmedjieva>,
+    <http://semantics.id/ns/example#Mick%20Box>, <http://semantics.id/ns/example#Teodor%20Avramov>,
+    <http://semantics.id/ns/example#Vladimir%20Penev>, <http://semantics.id/ns/example#Yordan%20Slaveikov>,
+    <http://semantics.id/ns/example#Yordanka%20Kuzmanova>, <http://semantics.id/ns/example#Zachary%20Baharov>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Miramar%20Film>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Ilian%20Djevelekov>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.4;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Matey%20Konstantinov>,
+    <http://semantics.id/ns/example#Nelly%20Dimitrova>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Bulgaria>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Love.net"@en .
+
+<http://semantics.id/ns/example#movie_tt1704137> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Bhargavi>,
+    <http://semantics.id/ns/example#Hema>, <http://semantics.id/ns/example#Inturi%20Vasu>,
+    <http://semantics.id/ns/example#Jhansi>, <http://semantics.id/ns/example#Madhumani>,
+    <http://semantics.id/ns/example#Nani>, <http://semantics.id/ns/example#Rachakonda%20Vidyasagar>,
+    <http://semantics.id/ns/example#Ragini>, <http://semantics.id/ns/example#Sivannarayana>,
+    <http://semantics.id/ns/example#Srinivas%20Avasarala>, <http://semantics.id/ns/example#Swathi%20Reddy>,
+    <http://semantics.id/ns/example#Tanikella%20Bharani>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Art%20Beat%20Capital>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Mohana%20Krishna%20Indraganti>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.3;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Mohana%20Krishna%20Indraganti>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ashta Chamma"@en .
+
+<http://semantics.id/ns/example#movie_tt1705786> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Carolina%20Hsu>,
+    <http://semantics.id/ns/example#Claudio%20Torres>, <http://semantics.id/ns/example#Derli%20Prada>,
+    <http://semantics.id/ns/example#Eduardo%20Jin%20Lin>, <http://semantics.id/ns/example#Gustavo%20Comini>,
+    <http://semantics.id/ns/example#Ignacio%20Huang>, <http://semantics.id/ns/example#IvÃ¡n%20Romanelli>,
+    <http://semantics.id/ns/example#JoaquÃ­n%20Bouzas>, <http://semantics.id/ns/example#Liliana%20Cuomo>,
+    <http://semantics.id/ns/example#Muriel%20Santa%20Ana>, <http://semantics.id/ns/example#Pablo%20Seijo>,
+    <http://semantics.id/ns/example#Pochi%20Ducasse>, <http://semantics.id/ns/example#Ricardo%20DarÃ­n>,
+    <http://semantics.id/ns/example#SebastiÃ¡n%20Codega>, <http://semantics.id/ns/example#Yu%20Sheng%20Liao>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Aliwood%20MediterrÃ¡neo%20Producciones>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#SebastiÃ¡n%20Borensztein>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.3;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#SebastiÃ¡n%20Borensztein>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Argentina>,
+    <http://semantics.id/ns/example#Spain>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cosa piove dal cielo?"@en .
+
+<http://semantics.id/ns/example#movie_tt1706433> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aleksey%20Komashko>,
+    <http://semantics.id/ns/example#Denis%20Shvedov>, <http://semantics.id/ns/example#Konstantin%20Strelnikov>,
+    <http://semantics.id/ns/example#Sergey%20Belyaev>, <http://semantics.id/ns/example#Sergey%20Sosnovskiy>,
+    <http://semantics.id/ns/example#Sergey%20Zharkov>, <http://semantics.id/ns/example#Vladislav%20Toldykov>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Crime>, <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Yuriy%20Bykov>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.2;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Yuriy%20Bykov>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Zhit"@en .
+
+<http://semantics.id/ns/example#movie_tt1704144> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Bharath%20Reddy>,
+    <http://semantics.id/ns/example#Brahmanandam>, <http://semantics.id/ns/example#Harshavardhan>,
+    <http://semantics.id/ns/example#Kumaravel>, <http://semantics.id/ns/example#M.S.%20Bhaskar>,
+    <http://semantics.id/ns/example#Melkote>, <http://semantics.id/ns/example#Nagarjuna%20Akkineni>,
+    <http://semantics.id/ns/example#Poonam%20Kaur>, <http://semantics.id/ns/example#Prakash%20Raj>,
+    <http://semantics.id/ns/example#Prithvi>, <http://semantics.id/ns/example#Ravi%20Prakash>,
+    <http://semantics.id/ns/example#Sana%20Khaan>, <http://semantics.id/ns/example#Satyam%20Rajesh>,
+    <http://semantics.id/ns/example#Sri%20Lakshmi>, <http://semantics.id/ns/example#Thalaivasal%20Vijay>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Matinee%20Entertainments>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Crime>, <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Radha%20Mohan>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Radha%20Mohan>,
+    <http://semantics.id/ns/example#Umarji%20Anuradha>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gaganam"@en .
+
+<http://semantics.id/ns/example#movie_tt1706620> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Adnan%20Haskovic>,
+    <http://semantics.id/ns/example#Alison%20Pill>, <http://semantics.id/ns/example#Chris%20Evans>,
+    <http://semantics.id/ns/example#Ed%20Harris>, <http://semantics.id/ns/example#Emma%20Levie>,
+    <http://semantics.id/ns/example#Ewen%20Bremner>, <http://semantics.id/ns/example#Jamie%20Bell>,
+    <http://semantics.id/ns/example#John%20Hurt>, <http://semantics.id/ns/example#Kang-ho%20Song>,
+    <http://semantics.id/ns/example#Ko%20Asung>, <http://semantics.id/ns/example#Luke%20Pasqualino>,
+    <http://semantics.id/ns/example#Octavia%20Spencer>, <http://semantics.id/ns/example#Steve%20Park>,
+    <http://semantics.id/ns/example#Tilda%20Swinton>, <http://semantics.id/ns/example#Vlad%20Ivanov>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#SnowPiercer>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#Sci-Fi>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Bong%20Joon%20Ho>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Benjamin%20Legrand>,
+    <http://semantics.id/ns/example#Jacques%20Lob>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Czech%20Republic>,
+    <http://semantics.id/ns/example#South%20Korea>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Snowpiercer"@en .
+
+<http://semantics.id/ns/example#movie_tt1702543> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Brenda%20Ngxoli>,
+    <http://semantics.id/ns/example#Jabu%20Tshabalala>, <http://semantics.id/ns/example#James%20Ngcobo>,
+    <http://semantics.id/ns/example#Jayashree%20Basavaraj>, <http://semantics.id/ns/example#Kavitha%20Siverpersad>,
+    <http://semantics.id/ns/example#Magdaline%20le%20Roux>, <http://semantics.id/ns/example#Mary%20Twala>,
+    <http://semantics.id/ns/example#Mduduzi%20Mabaso>, <http://semantics.id/ns/example#Ronnie%20Nyakale>,
+    <http://semantics.id/ns/example#Sihle%20Dlamini>, <http://semantics.id/ns/example#Vusi%20Kunene>,
+    <http://semantics.id/ns/example#Yule%20Masiteng>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#How%20Town%20Film%20Productions>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Avie%20Luthra>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Avie%20Luthra>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Africa>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lucky"@en .
+
+<http://semantics.id/ns/example#movie_tt1703048> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Chie%20Nakamura>,
+    <http://semantics.id/ns/example#Daichi%20Endo>, <http://semantics.id/ns/example#Fujiko%20Takimoto>,
+    <http://semantics.id/ns/example#Junko%20Takeuchi>, <http://semantics.id/ns/example#Keiko%20Nemoto>,
+    <http://semantics.id/ns/example#Kenji%20Hamada>, <http://semantics.id/ns/example#Mayuki%20Makiguchi>,
+    <http://semantics.id/ns/example#Mutsumi%20Tamura>, <http://semantics.id/ns/example#Nobuaki%20Fukuda>,
+    <http://semantics.id/ns/example#Rikiya%20Koyama>, <http://semantics.id/ns/example#RyÃ´%20Iwasaki>,
+    <http://semantics.id/ns/example#Saori%20Hayami>, <http://semantics.id/ns/example#Satoshi%20Hino>,
+    <http://semantics.id/ns/example#Yumi%20TÃ´ma>, <http://semantics.id/ns/example#YÃ»ko%20Kobayashi>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Aniplex>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Adventure>, <http://semantics.id/ns/example/movie#Animation>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Masahiko%20Murata>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Junki%20Takegami>,
+    <http://semantics.id/ns/example#Masashi%20Kishimoto>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Naruto Shippuden il film: La torre perduta"@en .
+
+<http://semantics.id/ns/example#movie_tt1703068> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aki%20Nakazato>,
+    <http://semantics.id/ns/example#Ayako%20Moriya>, <http://semantics.id/ns/example#Hiromi%20Kuronuma>,
+    <http://semantics.id/ns/example#Jun%20Murakami>, <http://semantics.id/ns/example#Kaho%20Minami>,
+    <http://semantics.id/ns/example#Kaoru%20Kobayashi>, <http://semantics.id/ns/example#Masaki%20Miura>,
+    <http://semantics.id/ns/example#Mitsuki%20Tanimura>, <http://semantics.id/ns/example#Morio%20Agata>,
+    <http://semantics.id/ns/example#Pistol%20Takehara>, <http://semantics.id/ns/example#RyÃ´%20Kase>,
+    <http://semantics.id/ns/example#Shigeki%20Nishibori>, <http://semantics.id/ns/example#Takashi%20Yamanaka>,
+    <http://semantics.id/ns/example#Tatsushi%20Ohmori>, <http://semantics.id/ns/example#YÃ»ko%20ItÃ´>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Cinema%20Iris>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Kazuyoshi%20Kumakiri>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Takashi%20Ujita>,
+    <http://semantics.id/ns/example#Yasushi%20SatÃ´>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kaitanshi jokei"@en .
+
+<http://semantics.id/ns/example#movie_tt1703807> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Akshay%20Asopa>,
+    <http://semantics.id/ns/example#Alina%20Lapteva>, <http://semantics.id/ns/example#Ariel%20Dasrath>,
+    <http://semantics.id/ns/example#Gurbir%20Bal%20Gogo>, <http://semantics.id/ns/example#Guru%20Bhatt>,
+    <http://semantics.id/ns/example#Jasmine%20Sawant>, <http://semantics.id/ns/example#Kamal%20Nandi>,
+    <http://semantics.id/ns/example#Krzysztof%20Abbas>, <http://semantics.id/ns/example#Lina%20Yakovlieva>,
+    <http://semantics.id/ns/example#Mukesh%20Asopa>, <http://semantics.id/ns/example#Omar%20Al%20Aufy>,
+    <http://semantics.id/ns/example#Raina%20Desai>, <http://semantics.id/ns/example#Sean%20C.%20Dwyer>,
+    <http://semantics.id/ns/example#Siobhan%20Johnson>, <http://semantics.id/ns/example#Steve%20Kasan>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Asopa%20Films%20Incorporation>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Crime>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#Family>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Charles%20Ross>,
+    <http://semantics.id/ns/example#Mukesh%20Asopa>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Mukesh%20Asopa>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Depth of Pyaar"@en .
+
+<http://semantics.id/ns/example#movie_tt1706593> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Adrian%20Collins>,
+    <http://semantics.id/ns/example#Alex%20Russell>, <http://semantics.id/ns/example#Anna%20Wood>,
+    <http://semantics.id/ns/example#Armand%20Aucamp>, <http://semantics.id/ns/example#Ashley%20Hinshaw>,
+    <http://semantics.id/ns/example#Bo%20Petersen>, <http://semantics.id/ns/example#Crystal-Donna%20Roberts>,
+    <http://semantics.id/ns/example#Dane%20DeHaan>, <http://semantics.id/ns/example#Grant%20Powell>,
+    <http://semantics.id/ns/example#Luke%20Tyler>, <http://semantics.id/ns/example#Lynita%20Crofford>,
+    <http://semantics.id/ns/example#Michael%20B.%20Jordan>, <http://semantics.id/ns/example#Michael%20Kelly>,
+    <http://semantics.id/ns/example#Nicole%20Bailey>, <http://semantics.id/ns/example#Rudi%20Malcolm>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Twentieth%20Century%20Fox>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Sci-Fi>, <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Josh%20Trank>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Max%20Landis>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Chronicle"@en .
+
+<http://semantics.id/ns/example#movie_tt1708135> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Anna%20Unterberger>,
+    <http://semantics.id/ns/example#Burghart%20KlauÃŸner>, <http://semantics.id/ns/example#Christian%20Friedel>,
+    <http://semantics.id/ns/example#Cornelia%20KÃ¶ndgen>, <http://semantics.id/ns/example#David%20Zimmerschied>,
+    <http://semantics.id/ns/example#Felix%20Eitner>, <http://semantics.id/ns/example#Gerti%20Drassl>,
+    <http://semantics.id/ns/example#Johann%20von%20BÃ¼low>, <http://semantics.id/ns/example#Katharina%20SchÃ¼ttler>,
+    <http://semantics.id/ns/example#Lissy%20Pernthaler>, <http://semantics.id/ns/example#Martin%20Maria%20Abram>,
+    <http://semantics.id/ns/example#Michael%20Kranz>, <http://semantics.id/ns/example#RÃ¼diger%20Klink>,
+    <http://semantics.id/ns/example#Simon%20Licht>, <http://semantics.id/ns/example#Valentina%20Repetto>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Lucky%20Bird%20Pictures>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Biography>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#War>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Oliver%20Hirschbiegel>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Fred%20Breinersdorfer>,
+    <http://semantics.id/ns/example#LÃ©onie-Claire%20Breinersdorfer>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>,
+    <http://semantics.id/ns/example#Italy>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Elser - 13 minuti che non cambiarono la storia"@en .
+
+<http://semantics.id/ns/example#movie_tt1708453> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Abhishek%20Singh%20Er>,
+    <http://semantics.id/ns/example#Ajay%20Devgn>, <http://semantics.id/ns/example#Akshaye%20Khanna>,
+    <http://semantics.id/ns/example#Amita%20Pathak>, <http://semantics.id/ns/example#Ashraf%20Ul%20Haq>,
+    <http://semantics.id/ns/example#Atul%20Tiwari>, <http://semantics.id/ns/example#Bipasha%20Basu>,
+    <http://semantics.id/ns/example#Jaideep%20Ahlawat>, <http://semantics.id/ns/example#Jayant%20Gadekar>,
+    <http://semantics.id/ns/example#Paresh%20Rawal>, <http://semantics.id/ns/example#Rajendra%20Gupta>,
+    <http://semantics.id/ns/example#Rajesh%20Bakshi>, <http://semantics.id/ns/example#Raymond%20D'Souza>,
+    <http://semantics.id/ns/example#Reema%20Sen>, <http://semantics.id/ns/example#Sameera%20Reddy>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Big%20Screen%20Entertainment>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Crime>, <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Priyadarshan>;
+  <http://semantics.id/ns/example/movie#hasRating> 7.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Aditya%20Dhar>,
+    <http://semantics.id/ns/example#Robin%20Bhatt>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Aakrosh"@en .
+
+<http://semantics.id/ns/example#movie_tt1703914> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Chia-Kuei%20Chen>,
+    <http://semantics.id/ns/example#Hsi-Sheng%20Chen>, <http://semantics.id/ns/example#Kuo-Hung%20Li>,
+    <http://semantics.id/ns/example#Lei%20Hao>, <http://semantics.id/ns/example#Leon%20Dai>,
+    <http://semantics.id/ns/example#Na-Dou%20Lin>, <http://semantics.id/ns/example#Pei-An%20Lo>,
+    <http://semantics.id/ns/example#Shiao%20Hai%20Pi>, <http://semantics.id/ns/example#Shih-Chieh%20King>,
+    <http://semantics.id/ns/example#Terri%20Kwan>, <http://semantics.id/ns/example#Vincent%20Liang>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#3%20Ng%20Film>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Mong-Hong%20Chung>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.9;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Hsiang-Wen%20Tu>,
+    <http://semantics.id/ns/example#Mong-Hong%20Chung>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Taiwan>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Di si zhang hua"@en .
+
+<http://semantics.id/ns/example#movie_tt1706596> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alberte%20Elvira%20NÃ¸rregaard>,
+    <http://semantics.id/ns/example#Charlotte%20Amalie%20Kirkegaard%20Kehlet>, <http://semantics.id/ns/example#Frederikke%20Cecilie%20Berthelsen>,
+    <http://semantics.id/ns/example#Kristian%20Halken>, <http://semantics.id/ns/example#Lars%20Brygmann>,
+    <http://semantics.id/ns/example#Lars%20Ranthe>, <http://semantics.id/ns/example#Laura%20Bro>,
+    <http://semantics.id/ns/example#Laura%20Christensen>, <http://semantics.id/ns/example#Malou%20Reymann>,
+    <http://semantics.id/ns/example#Marie%20Dietz>, <http://semantics.id/ns/example#Martin%20Buch>,
+    <http://semantics.id/ns/example#Morten%20Kirkskov>, <http://semantics.id/ns/example#Nikolaj%20Lie%20Kaas>,
+    <http://semantics.id/ns/example#Sarah%20GrÃ¼newald>, <http://semantics.id/ns/example#Silja%20Eriksen%20Jensen>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Danmarks%20Radio%20%28DR%29>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Biography>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Martin%20Zandvliet>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.9;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Anders%20Frithiof%20August>,
+    <http://semantics.id/ns/example#Martin%20Zandvliet>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Denmark>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Dirch"@en .
+
+<http://semantics.id/ns/example#movie_tt1701186> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aggeliki%20Anagnostopoulou>,
+    <http://semantics.id/ns/example#Anna%20Marangaki>, <http://semantics.id/ns/example#Giorgos%20Georgopoulos>,
+    <http://semantics.id/ns/example#Kora%20Karvouni>, <http://semantics.id/ns/example#Kostas%20Kourtaras>,
+    <http://semantics.id/ns/example#Lida%20Sivissidi>, <http://semantics.id/ns/example#Marilena%20Savvakou>,
+    <http://semantics.id/ns/example#Nikos%20Margaris>, <http://semantics.id/ns/example#Omiros%20Poulakis>,
+    <http://semantics.id/ns/example#Panagiotis%20Antypas>, <http://semantics.id/ns/example#Prometheus%20Aleifer>,
+    <http://semantics.id/ns/example#Tasos%20Nousias>, <http://semantics.id/ns/example#Thanos%20Mitropoulos>,
+    <http://semantics.id/ns/example#Vangelis%20Mourikis>, <http://semantics.id/ns/example#Yorgos%20Roussakis>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Multivision>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Giorgos%20Georgopoulos>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Giorgos%20Georgopoulos>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Greece>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tungsten"@en .
+
+<http://semantics.id/ns/example#movie_tt1704573> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Brady%20Coleman>,
+    <http://semantics.id/ns/example#Brandon%20Smith>, <http://semantics.id/ns/example#Fern%20Luker>,
+    <http://semantics.id/ns/example#Jack%20Black>, <http://semantics.id/ns/example#Jack%20Payne>,
+    <http://semantics.id/ns/example#Larry%20Jack%20Dotson>, <http://semantics.id/ns/example#Marjorie%20Dome>,
+    <http://semantics.id/ns/example#Mathew%20Greer>, <http://semantics.id/ns/example#Matthew%20McConaughey>,
+    <http://semantics.id/ns/example#Merrilee%20McCommas>, <http://semantics.id/ns/example#Richard%20Robichaux>,
+    <http://semantics.id/ns/example#Rick%20Dial>, <http://semantics.id/ns/example#Shirley%20MacLaine>,
+    <http://semantics.id/ns/example#Sonny%20Carl%20Davis>, <http://semantics.id/ns/example#Tim%20Cariker>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Mandalay%20Vision>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Biography>,
+    <http://semantics.id/ns/example/movie#Comedy>, <http://semantics.id/ns/example/movie#Crime>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Richard%20Linklater>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Richard%20Linklater>,
+    <http://semantics.id/ns/example#Skip%20Hollandsworth>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bernie"@en .
+
+<http://semantics.id/ns/example#movie_tt1708473> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Antoine%20DesRochers>,
+    <http://semantics.id/ns/example#Capucine%20Delaby>, <http://semantics.id/ns/example#Eugene%20Brotto>,
+    <http://semantics.id/ns/example#Jassen%20Charron>, <http://semantics.id/ns/example#Jonas%20Tomalty>,
+    <http://semantics.id/ns/example#Laurent%20Lucas>, <http://semantics.id/ns/example#Louis-David%20Morasse>,
+    <http://semantics.id/ns/example#Luc%20Proulx>, <http://semantics.id/ns/example#Madeleine%20PÃ©loquin>,
+    <http://semantics.id/ns/example#Marc-FranÃ§ois%20Blondin>, <http://semantics.id/ns/example#Mario%20Saint-Amand>,
+    <http://semantics.id/ns/example#Mathieu%20Lepage>, <http://semantics.id/ns/example#Roberto%20Mei>,
+    <http://semantics.id/ns/example#Ã‰ric%20Bruneau>, <http://semantics.id/ns/example#Ã‰rika%20Gagnon>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Christal%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Biography>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Alain%20Desrochers>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Nathalie%20Petrowski>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gerry"@en .
+
+<http://semantics.id/ns/example#movie_tt1701210> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Akin%20Gazi>,
+    <http://semantics.id/ns/example#Antonio%20Banderas>, <http://semantics.id/ns/example#Corey%20Johnson>,
+    <http://semantics.id/ns/example#Driss%20Roukhe>, <http://semantics.id/ns/example#Eriq%20Ebouaney>,
+    <http://semantics.id/ns/example#Freida%20Pinto>, <http://semantics.id/ns/example#Hichem%20Rostom>,
+    <http://semantics.id/ns/example#Jan%20Uddin>, <http://semantics.id/ns/example#Liya%20Kebede>,
+    <http://semantics.id/ns/example#Lotfi%20Dziri>, <http://semantics.id/ns/example#Mark%20Strong>,
+    <http://semantics.id/ns/example#Mostafa%20Gaafar>, <http://semantics.id/ns/example#Riz%20Ahmed>,
+    <http://semantics.id/ns/example#Tahar%20Rahim>, <http://semantics.id/ns/example#Taoufik%20Ayeb>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Quinta%20Communications>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#History>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Jean-Jacques%20Annaud>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Jean-Jacques%20Annaud>,
+    <http://semantics.id/ns/example#Menno%20Meyjes>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>,
+    <http://semantics.id/ns/example#Italy>, <http://semantics.id/ns/example#Qatar>, <http://semantics.id/ns/example#Tunisia>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Il principe del deserto"@en .
+
+<http://semantics.id/ns/example#movie_tt1702439> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#David%20Lyons>,
+    <http://semantics.id/ns/example#Giulia%20Pagano>, <http://semantics.id/ns/example#Irene%20Ziegler>,
+    <http://semantics.id/ns/example#Jasper%20Grey>, <http://semantics.id/ns/example#Jon%20Kohler>,
+    <http://semantics.id/ns/example#Josh%20Duhamel>, <http://semantics.id/ns/example#Juan%20Piedrahita>,
+    <http://semantics.id/ns/example#Julianne%20Hough>, <http://semantics.id/ns/example#Mimi%20Kirkland>,
+    <http://semantics.id/ns/example#Noah%20Lomax>, <http://semantics.id/ns/example#Red%20West>,
+    <http://semantics.id/ns/example#Robin%20Mullins>, <http://semantics.id/ns/example#Tim%20Parati>,
+    <http://semantics.id/ns/example#Tora%20HallstrÃ¶m>, <http://semantics.id/ns/example#Wendy%20Wilmot>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Relativity%20Media>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Romance>, <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Lasse%20HallstrÃ¶m>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Dana%20Stevens>,
+    <http://semantics.id/ns/example#Gage%20Lansky>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vicino a te non ho paura"@en .
+
+<http://semantics.id/ns/example#movie_tt1703148> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Callan%20Mulvey>,
+    <http://semantics.id/ns/example#Dan%20Spielman>, <http://semantics.id/ns/example#Dan%20Wyllie>,
+    <http://semantics.id/ns/example#Finn%20Woodlock>, <http://semantics.id/ns/example#Frances%20O'Connor>,
+    <http://semantics.id/ns/example#Jacek%20Koman>, <http://semantics.id/ns/example#Jamie%20Timony>,
+    <http://semantics.id/ns/example#John%20Brumpton>, <http://semantics.id/ns/example#Maia%20Thomas>,
+    <http://semantics.id/ns/example#Marc%20Watson-Paul>, <http://semantics.id/ns/example#Morgan%20Davies>,
+    <http://semantics.id/ns/example#Sam%20Neill>, <http://semantics.id/ns/example#Sullivan%20Stapleton>,
+    <http://semantics.id/ns/example#Willem%20Dafoe>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Porchlight%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Adventure>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Daniel%20Nettheim>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Alice%20Addison>,
+    <http://semantics.id/ns/example#Wain%20Fimeri>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Australia>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "The Hunter"@en .
+
+<http://semantics.id/ns/example#movie_tt1704586> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ben%20Youcef>,
+    <http://semantics.id/ns/example#Carol%20Sutton>, <http://semantics.id/ns/example#Dana%20Gourrier>,
+    <http://semantics.id/ns/example#Griff%20Furst>, <http://semantics.id/ns/example#Henry%20Simmons>,
+    <http://semantics.id/ns/example#Hunter%20Burke>, <http://semantics.id/ns/example#J.%20Patrick%20McNamara>,
+    <http://semantics.id/ns/example#James%20Saito>, <http://semantics.id/ns/example#Jaren%20Mitchell>,
+    <http://semantics.id/ns/example#Justin%20Chon>, <http://semantics.id/ns/example#LeToya%20Luckett-Walker>,
+    <http://semantics.id/ns/example#Michael%20Clarke%20Duncan>, <http://semantics.id/ns/example#Robert%20Bailey%20Jr.>,
+    <http://semantics.id/ns/example#Taraji%20P.%20Henson>, <http://semantics.id/ns/example#Tom%20Felton>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#From%20The%20Rough%20Productions>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Sport>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Pierre%20Bagley>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Mike%20Critelli>,
+    <http://semantics.id/ns/example#Pierre%20Bagley>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Un'allenatrice speciale"@en .
+
+<http://semantics.id/ns/example#movie_tt1700458> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Bernd%20Moss>,
+    <http://semantics.id/ns/example#Carsten%20Strauch>, <http://semantics.id/ns/example#Daniel%20Drewes>,
+    <http://semantics.id/ns/example#Fritzi%20Haberlandt>, <http://semantics.id/ns/example#Hans%20Martin%20Stier>,
+    <http://semantics.id/ns/example#Heinz%20W.%20KrÃ¼ckeberg>, <http://semantics.id/ns/example#Jan-Gregor%20Kremp>,
+    <http://semantics.id/ns/example#Johanna%20Gastdorf>, <http://semantics.id/ns/example#Kari%20Ketonen>,
+    <http://semantics.id/ns/example#Kurt%20KrÃ¶mer>, <http://semantics.id/ns/example#Maja%20Beckmann>,
+    <http://semantics.id/ns/example#Nedjo%20Osman>, <http://semantics.id/ns/example#Petra%20Nadolny>,
+    <http://semantics.id/ns/example#Rolf%20Berg>, <http://semantics.id/ns/example#Thierry%20Liebing>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#HUPE%20Film-%20%26%20Fernsehproduktion>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Markus%20Sehr>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.6;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Clemente%20Fernandez-Gil>,
+    <http://semantics.id/ns/example#Markus%20Sehr>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Eine Insel namens Udo"@en .
+
+<http://semantics.id/ns/example#movie_tt1703957> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Angela%20Sant'Albano>,
+    <http://semantics.id/ns/example#Colin%20Firth>, <http://semantics.id/ns/example#Corey%20Johnson>,
+    <http://semantics.id/ns/example#Dominic%20West>, <http://semantics.id/ns/example#Eve%20Bracken>,
+    <http://semantics.id/ns/example#Gillian%20Hanna>, <http://semantics.id/ns/example#Guy%20Pearce>,
+    <http://semantics.id/ns/example#Jude%20Law>, <http://semantics.id/ns/example#Katya%20Watson>,
+    <http://semantics.id/ns/example#Laura%20Linney>, <http://semantics.id/ns/example#Lorna%20Doherty>,
+    <http://semantics.id/ns/example#Makenna%20McBrierty>, <http://semantics.id/ns/example#Miquel%20Brown>,
+    <http://semantics.id/ns/example#Nicole%20Kidman>, <http://semantics.id/ns/example#Vanessa%20Kirby>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Desert%20Wolf%20Productions>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Biography>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Michael%20Grandage>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.6;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#A.%20Scott%20Berg>,
+    <http://semantics.id/ns/example#John%20Logan>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#UK>,
+    <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Genius"@en .
+
+<http://semantics.id/ns/example#movie_tt1701224> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alex%20Damiano>,
+    <http://semantics.id/ns/example#Demi%20Baumann>, <http://semantics.id/ns/example#Domiziano%20Arcangeli>,
+    <http://semantics.id/ns/example#Joseph%20Marsh>, <http://semantics.id/ns/example#Kaliya%20Skye>,
+    <http://semantics.id/ns/example#Katie%20Marsh>, <http://semantics.id/ns/example#Sean%20Cain>,
+    <http://semantics.id/ns/example#Teona%20Dolnikova>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Mad%20Sin%20Cinema>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Crime>,
+    <http://semantics.id/ns/example/movie#Mystery>, <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Shane%20Ryan>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.5;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Shane%20Ryan>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "My Name Is 'A' by Anonymous"@en .
+
+<http://semantics.id/ns/example#movie_tt1701992> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Armen%20Dzhigarkhanyan>,
+    <http://semantics.id/ns/example#Grigoriy%20Anashkin>, <http://semantics.id/ns/example#Khor%20Turetskogo>,
+    <http://semantics.id/ns/example#Konstantin%20Raykin>, <http://semantics.id/ns/example#Lyubov%20Matyushina>,
+    <http://semantics.id/ns/example#Svetlana%20Stepchenko>, <http://semantics.id/ns/example#Vladimir%20Kachan>,
+    <http://semantics.id/ns/example#Vladimir%20Spivakov>, <http://semantics.id/ns/example#Yuliya%20Rutberg>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Stayer%20Studio>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Animation>,
+    <http://semantics.id/ns/example/movie#Family>, <http://semantics.id/ns/example/movie#Musical>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Garri%20Bardin>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.5;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Garri%20Bardin>,
+    <http://semantics.id/ns/example#Hans%20Christian%20Andersen>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gadkiy utyonok"@en .
+
+<http://semantics.id/ns/example#movie_tt1706414> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aleksandr%20Bashirov>,
+    <http://semantics.id/ns/example#Aleksey%20Gorbunov>, <http://semantics.id/ns/example#Anjorka%20Strechel>,
+    <http://semantics.id/ns/example#Anna%20Ukolova>, <http://semantics.id/ns/example#Axel%20Schrick>,
+    <http://semantics.id/ns/example#Boris%20Lapidus>, <http://semantics.id/ns/example#Evgeniy%20Tkachuk>,
+    <http://semantics.id/ns/example#Ruben%20Karapetyan>, <http://semantics.id/ns/example#Sergey%20Garmash>,
+    <http://semantics.id/ns/example#Timm%20Sebastian%20Peltner>, <http://semantics.id/ns/example#Vadim%20Yakovlev>,
+    <http://semantics.id/ns/example#Vladas%20Bagdonas>, <http://semantics.id/ns/example#Vladimir%20Mashkov>,
+    <http://semantics.id/ns/example#Vyacheslav%20Krikunov>, <http://semantics.id/ns/example#Yuliya%20Peresild>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Channel%20One%20Russia>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Adventure>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#History>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Aleksey%20Uchitel>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.5;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Aleksandr%20Gonorovskiy>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kray"@en .
+
+<http://semantics.id/ns/example#movie_tt1708491> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aju%20Varghese>,
+    <http://semantics.id/ns/example#Apoorva%20Bose>, <http://semantics.id/ns/example#Bhagath%20Baby%20Manuel>,
+    <http://semantics.id/ns/example#Harikrishnan>, <http://semantics.id/ns/example#Jagathi%20Sreekumar>,
+    <http://semantics.id/ns/example#Kottayam%20Nazeer>, <http://semantics.id/ns/example#Manikandan>,
+    <http://semantics.id/ns/example#Nedumudi%20Venu>, <http://semantics.id/ns/example#Nivin%20Pauly>,
+    <http://semantics.id/ns/example#Salim%20Kumar>, <http://semantics.id/ns/example#Shraavan>,
+    <http://semantics.id/ns/example#Sreejith>, <http://semantics.id/ns/example#Sreenivasan>,
+    <http://semantics.id/ns/example#Sreeram%20Ramachandran>, <http://semantics.id/ns/example#Suraj%20Venjaramoodu>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Vineeth%20Sreenivasan>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.5;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Vineeth%20Sreenivasan>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Malarvaadi Arts Club"@en .
+
+<http://semantics.id/ns/example#movie_tt1700455> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Adela%20Gleijer>,
+    <http://semantics.id/ns/example#Adriana%20Barraza>, <http://semantics.id/ns/example#Elisa%20Carricajo>,
+    <http://semantics.id/ns/example#Eugenia%20Alonso>, <http://semantics.id/ns/example#Guillermo%20Arengo>,
+    <http://semantics.id/ns/example#InÃ©s%20Efron>, <http://semantics.id/ns/example#Juan%20Barberini>,
+    <http://semantics.id/ns/example#Julio%20Arrieta>, <http://semantics.id/ns/example#Marcela%20Kloosterboer>,
+    <http://semantics.id/ns/example#Nahuel%20PÃ©rez%20Biscayart>, <http://semantics.id/ns/example#Nicolas%20Silberg>,
+    <http://semantics.id/ns/example#VerÃ³nica%20LlinÃ¡s>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#MyS%20ProducciÃ³n>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Victoria%20Galardi>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.4;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Victoria%20Galardi>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Argentina>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cerro Bayo"@en .
+
+<http://semantics.id/ns/example#movie_tt1706679> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alessandra%20Sani>,
+    <http://semantics.id/ns/example#Anna%20Greggi>, <http://semantics.id/ns/example#Blu%20Lepore>,
+    <http://semantics.id/ns/example#Fabio%20Gomiero>, <http://semantics.id/ns/example#Gabriele%20Sisci>,
+    <http://semantics.id/ns/example#Germano%20Gentile>, <http://semantics.id/ns/example#Maurizio%20Tesei>,
+    <http://semantics.id/ns/example#Michele%20Botrugno>, <http://semantics.id/ns/example#Paola%20Marchetti>,
+    <http://semantics.id/ns/example#Paolo%20Perinelli>, <http://semantics.id/ns/example#Riccardo%20Flammini>,
+    <http://semantics.id/ns/example#Sandra%20Conti>, <http://semantics.id/ns/example#Sergio%20Chimenti>,
+    <http://semantics.id/ns/example#Simone%20Crisari>, <http://semantics.id/ns/example#Ughetta%20D'Onorascenzo>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Kimerafilm>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Crime>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Daniele%20Coluccini>,
+    <http://semantics.id/ns/example#Matteo%20Botrugno>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.4;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Matteo%20Botrugno>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Italy>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Et in terra pax"@en .
+
+<http://semantics.id/ns/example#movie_tt1700258> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Anna%20Julia%20Antonucci>,
+    <http://semantics.id/ns/example#Anne-Sophie%20Briest>, <http://semantics.id/ns/example#Friederike%20Kempter>,
+    <http://semantics.id/ns/example#Genoveva%20Mayer>, <http://semantics.id/ns/example#Gode%20Benedix>,
+    <http://semantics.id/ns/example#Jana%20Reinermann>, <http://semantics.id/ns/example#Jasmin%20Gerat>,
+    <http://semantics.id/ns/example#Jessica%20Richter>, <http://semantics.id/ns/example#Meret%20Becker>,
+    <http://semantics.id/ns/example#Mimi%20Fiedler>, <http://semantics.id/ns/example#Misel%20Maticevic>,
+    <http://semantics.id/ns/example#Numan%20Acar>, <http://semantics.id/ns/example#Samuel%20Finzi>,
+    <http://semantics.id/ns/example#SÃ¶nke%20MÃ¶hring>, <http://semantics.id/ns/example#Torsten%20KÃ¼nstler>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Barefoot%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Til%20Schweiger>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.3;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#BÃ©la%20Jarzyk>,
+    <http://semantics.id/ns/example#Til%20Schweiger>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "KokowÃ¤Ã¤h"@en .
+
+<http://semantics.id/ns/example#movie_tt1701993> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Hui%20Wang>,
+    <http://semantics.id/ns/example#Jinfeng%20Bai>, <http://semantics.id/ns/example#Lei%20Bao>,
+    <http://semantics.id/ns/example#Naqi%20Zhang>, <http://semantics.id/ns/example#Ying%20Xie>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Inner%20Mongolia%20Film%20Studio>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Hongqi%20Li>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.3;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Hongqi%20Li>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Han jia"@en .
+
+<http://semantics.id/ns/example#movie_tt1706450> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Akbar%20Mannani>,
+    <http://semantics.id/ns/example#Alireza%20Kamalinejad>, <http://semantics.id/ns/example#Amin%20Zendegani>,
+    <http://semantics.id/ns/example#Arshia%20Zeinali>, <http://semantics.id/ns/example#Elham%20Hamidi>,
+    <http://semantics.id/ns/example#Hossein%20Mahjoub>, <http://semantics.id/ns/example#Javad%20Taheri>,
+    <http://semantics.id/ns/example#Mahmood%20Pakniat>, <http://semantics.id/ns/example#Mehdi%20Faghih>,
+    <http://semantics.id/ns/example#Sirous%20Saber>, <http://semantics.id/ns/example#Somayyeh%20Rahnemun>,
+    <http://semantics.id/ns/example#Zahra%20Saeedi>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Farabi%20Cinema%20Foundation>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#History>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Shahriar%20Bahrani>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.3;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Shahriar%20Bahrani>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Iran>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Molke Soleiman"@en .
+
+<http://semantics.id/ns/example#movie_tt1708133> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#DamiÃ¡n%20AlcÃ¡zar>,
+    <http://semantics.id/ns/example#Daniel%20PÃ¡ez>, <http://semantics.id/ns/example#Fabio%20Restrepo>,
+    <http://semantics.id/ns/example#Giulio%20Lopes>, <http://semantics.id/ns/example#Margarita%20Rosa%20de%20Francisco>,
+    <http://semantics.id/ns/example#Rui%20Resende>, <http://semantics.id/ns/example#Victor%20Hugo%20Morant>,
+    <http://semantics.id/ns/example#Ximena%20Palau>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Rhayuela%20Cine>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#JosÃ©%20Luis%20Rugeles>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.3;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Diego%20Vivanco>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Brazil>,
+    <http://semantics.id/ns/example#Colombia>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "GarcÃ­a"@en .
+
+<http://semantics.id/ns/example#movie_tt1700423> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Arnoud%20Bos>,
+    <http://semantics.id/ns/example#DaniÃ«l%20Boissevain>, <http://semantics.id/ns/example#Derek%20de%20Lint>,
+    <http://semantics.id/ns/example#Iwan%20Dam>, <http://semantics.id/ns/example#Leopold%20Witte>,
+    <http://semantics.id/ns/example#Lies%20Visschedijk>, <http://semantics.id/ns/example#Linda%20de%20Mol>,
+    <http://semantics.id/ns/example#Lisa%20Bouwman>, <http://semantics.id/ns/example#Maik%20de%20Boer>,
+    <http://semantics.id/ns/example#Oscar%20Aerts>, <http://semantics.id/ns/example#Peter%20Paul%20Muller>,
+    <http://semantics.id/ns/example#Susan%20Visser>, <http://semantics.id/ns/example#Tina%20de%20Bruin>,
+    <http://semantics.id/ns/example#Tjitske%20Reidinga>, <http://semantics.id/ns/example#Treyshawn%20Boutisma>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Column%20Film>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Will%20Koopman>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.2;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Frank%20Houtappels>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Netherlands>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gooische Vrouwen"@en .
+
+<http://semantics.id/ns/example#movie_tt1700808> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Chani%20Bentsi-Enchill>,
+    <http://semantics.id/ns/example#Chloe%20Michaud>, <http://semantics.id/ns/example#Emma%20Fielding>,
+    <http://semantics.id/ns/example#Jahvel%20Hall>, <http://semantics.id/ns/example#Jamie%20Howard>,
+    <http://semantics.id/ns/example#Lenora%20Crichlow>, <http://semantics.id/ns/example#Lily%20James>,
+    <http://semantics.id/ns/example#Louise%20Ford>, <http://semantics.id/ns/example#Mark%20Penfold>,
+    <http://semantics.id/ns/example#Michelle%20Joseph>, <http://semantics.id/ns/example#Miles%20Constable>,
+    <http://semantics.id/ns/example#Phil%20Davis>, <http://semantics.id/ns/example#Richie%20Campbell>,
+    <http://semantics.id/ns/example#Rupert%20Graves>, <http://semantics.id/ns/example#Tiana%20Benjamin>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#British%20Film%20Institute%20%28BFI%29>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Sport>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Regan%20Hall>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.2;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Jay%20Basu>,
+    <http://semantics.id/ns/example#Noel%20Clarke>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#UK>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fast Girls"@en .
+
+<http://semantics.id/ns/example#movie_tt1700844> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ann%20Mitchell>,
+    <http://semantics.id/ns/example#Barbara%20Jefford>, <http://semantics.id/ns/example#Harry%20Hadden-Paton>,
+    <http://semantics.id/ns/example#Jolyon%20Coy>, <http://semantics.id/ns/example#Karl%20Johnson>,
+    <http://semantics.id/ns/example#Mark%20Tandy>, <http://semantics.id/ns/example#Nicholas%20Amer>,
+    <http://semantics.id/ns/example#Oliver%20Ford%20Davies>, <http://semantics.id/ns/example#Rachel%20Weisz>,
+    <http://semantics.id/ns/example#Sarah%20Kants>, <http://semantics.id/ns/example#Simon%20Russell%20Beale>,
+    <http://semantics.id/ns/example#Stuart%20McLoughlin>, <http://semantics.id/ns/example#Tom%20Hiddleston>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Camberwell%20%2f%20Fly%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Terence%20Davies>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.2;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Terence%20Davies>,
+    <http://semantics.id/ns/example#Terence%20Rattigan>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Australia>,
+    <http://semantics.id/ns/example#UK>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Il profondo mare azzurro"@en .
+
+<http://semantics.id/ns/example#movie_tt1702429> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#AlaÃ­n%20Vargas>,
+    <http://semantics.id/ns/example#Alenka%20Rios>, <http://semantics.id/ns/example#Anna%20Knaifel>,
+    <http://semantics.id/ns/example#Cristina%20Velasco%20Lozano>, <http://semantics.id/ns/example#Elmer%20BÃ¤ck>,
+    <http://semantics.id/ns/example#Emiliano%20Morales>, <http://semantics.id/ns/example#Gustavo%20GalvÃ¡n>,
+    <http://semantics.id/ns/example#Jakob%20Ã–hrman>, <http://semantics.id/ns/example#JosÃ©%20Montini>,
+    <http://semantics.id/ns/example#Lisa%20Owen>, <http://semantics.id/ns/example#Luis%20Alberti>,
+    <http://semantics.id/ns/example#Maya%20Zapata>, <http://semantics.id/ns/example#Rasmus%20SlÃ¤tis>,
+    <http://semantics.id/ns/example#Sara%20JuÃ¡rez>, <http://semantics.id/ns/example#Stelio%20Savante>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Submarine>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Biography>,
+    <http://semantics.id/ns/example/movie#Comedy>, <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Peter%20Greenaway>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.2;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Peter%20Greenaway>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Belgium>,
+    <http://semantics.id/ns/example#Finland>, <http://semantics.id/ns/example#France>,
+    <http://semantics.id/ns/example#Mexico>, <http://semantics.id/ns/example#Netherlands>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Eisenstein in Messico"@en .
+
+<http://semantics.id/ns/example#movie_tt1703824> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ane%20Dahl%20Torp>,
+    <http://semantics.id/ns/example#Anne%20Marit%20Jacobsen>, <http://semantics.id/ns/example#Atle%20Antonsen>,
+    <http://semantics.id/ns/example#BÃ¥rd%20Tufte%20Johansen>, <http://semantics.id/ns/example#Egil%20Hegerberg>,
+    <http://semantics.id/ns/example#Else%20KÃ¥ss%20Furuseth>, <http://semantics.id/ns/example#Harald%20Eia>,
+    <http://semantics.id/ns/example#Ingar%20Helge%20Gimle>, <http://semantics.id/ns/example#Jan%20SÃ¦lid>,
+    <http://semantics.id/ns/example#Jon%20Ã˜igarden>, <http://semantics.id/ns/example#Kiran%20Shah>,
+    <http://semantics.id/ns/example#KÃ¥re%20Conradi>, <http://semantics.id/ns/example#Linn%20SkÃ¥ber>,
+    <http://semantics.id/ns/example#Steinar%20Sagen>, <http://semantics.id/ns/example#Ulf%20Brunnberg>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#4%201%2f2%20Film>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Sport>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Ole%20Endresen>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.2;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Atle%20Antonsen>,
+    <http://semantics.id/ns/example#Ole%20Endresen>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Norway>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kong Curling"@en .
+
+<http://semantics.id/ns/example#movie_tt1704161> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Claire%20Scott>,
+    <http://semantics.id/ns/example#Claudia%20Karvan>, <http://semantics.id/ns/example#Clayton%20Watson>,
+    <http://semantics.id/ns/example#Colin%20Burkenshaw>, <http://semantics.id/ns/example#Elaine%20Jin>,
+    <http://semantics.id/ns/example#Gary%20Xu>, <http://semantics.id/ns/example#Guy%20Pearce>,
+    <http://semantics.id/ns/example#Kain%20O'Keeffe>, <http://semantics.id/ns/example#Lincoln%20Lewis>,
+    <http://semantics.id/ns/example#Matt%20Nable>, <http://semantics.id/ns/example#Rhys%20Muldoon>,
+    <http://semantics.id/ns/example#Terry%20Serio>, <http://semantics.id/ns/example#Thomas%20Jackson>,
+    <http://semantics.id/ns/example#Xiang-Yun%20Lin>, <http://semantics.id/ns/example#Zhu%20Lin>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Portal%20Pictures>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Crime>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#Music>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Pauline%20Chan>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.2;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Pauline%20Chan>,
+    <http://semantics.id/ns/example#Philip%20Dalkin>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Australia>,
+    <http://semantics.id/ns/example#China>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "33 Postcards"@en .
+
+<http://semantics.id/ns/example#movie_tt1705064> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Masahiro%20KÃ´moto>,
+    <http://semantics.id/ns/example#Matsuya%20Onoe>, <http://semantics.id/ns/example#Mikako%20Tabe>,
+    <http://semantics.id/ns/example#Miki%20Nakatani>, <http://semantics.id/ns/example#Misako%20Renbutsu>,
+    <http://semantics.id/ns/example#Noriyuki%20Higashiyama>, <http://semantics.id/ns/example#Rena%20Tanaka>,
+    <http://semantics.id/ns/example#Sei%20Ashina>, <http://semantics.id/ns/example#Shigeru%20Muroi>,
+    <http://semantics.id/ns/example#Takaaki%20Enoki>, <http://semantics.id/ns/example#TÃ´ma%20Ikuta>,
+    <http://semantics.id/ns/example#Yasunari%20Takeshima>, <http://semantics.id/ns/example#Yoshiko%20Sakuma>,
+    <http://semantics.id/ns/example#YÃ´ko%20Maki>, <http://semantics.id/ns/example#YÃ´suke%20Kubozuka>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Kadokawa%20Pictures>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Fantasy>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Yasuo%20Tsuruhashi>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.2;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Shikibu%20Murasaki>,
+    <http://semantics.id/ns/example#Yukiko%20Takayama>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Genji monogatari: Sennen no nazo"@en .
+
+<http://semantics.id/ns/example#movie_tt1699758> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Antonis%20Kafetzopoulos>,
+    <http://semantics.id/ns/example#Christos%20Stergioglou>, <http://semantics.id/ns/example#Giorgos%20Kafetzopoulos>,
+    <http://semantics.id/ns/example#Giorgos%20Souxes>, <http://semantics.id/ns/example#Hristos%20Liakopoulos>,
+    <http://semantics.id/ns/example#Konstantinos%20Plemmenos>, <http://semantics.id/ns/example#Kostas%20Falelakis>,
+    <http://semantics.id/ns/example#Lefteris%20Charitos>, <http://semantics.id/ns/example#Makis%20Papadimitriou>,
+    <http://semantics.id/ns/example#Minas%20Hatzisavvas>, <http://semantics.id/ns/example#Nikatsas>,
+    <http://semantics.id/ns/example#Sofia%20Seirli>, <http://semantics.id/ns/example#Stavros%20Markonis>,
+    <http://semantics.id/ns/example#Theodora%20Tzimou>, <http://semantics.id/ns/example#Yorgos%20Tsemberopoulos>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Greek%20Film%20Center>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Crime>, <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Filippos%20Tsitos>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Dora%20Masklavanou>,
+    <http://semantics.id/ns/example#Filippos%20Tsitos>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>,
+    <http://semantics.id/ns/example#Germany>, <http://semantics.id/ns/example#Greece>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Adikos kosmos"@en .
+
+<http://semantics.id/ns/example#movie_tt1700467> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ariane%20Ascaride>,
+    <http://semantics.id/ns/example#Emmanuel%20Mouret>, <http://semantics.id/ns/example#FranÃ§ois%20Cluzet>,
+    <http://semantics.id/ns/example#FrÃ©dÃ©rique%20Bel>, <http://semantics.id/ns/example#Gaspard%20Ulliel>,
+    <http://semantics.id/ns/example#Judith%20GodrÃ¨che>, <http://semantics.id/ns/example#Julie%20Depardieu>,
+    <http://semantics.id/ns/example#Laurent%20Stocker>, <http://semantics.id/ns/example#Louis-Do%20de%20Lencquesaing>,
+    <http://semantics.id/ns/example#MichaÃ«l%20Cohen>, <http://semantics.id/ns/example#MÃ©lanie%20Chaney>,
+    <http://semantics.id/ns/example#Pascale%20Arbillot>, <http://semantics.id/ns/example#Philippe%20Magnan>,
+    <http://semantics.id/ns/example#Stanislas%20Merhar>, <http://semantics.id/ns/example#Ã‰lodie%20Navarre>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Moby%20Dick%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Emmanuel%20Mouret>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Emmanuel%20Mouret>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "L'art d'aimer"@en .
+
+<http://semantics.id/ns/example#movie_tt1700489> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Biserka%20Ipsa>,
+    <http://semantics.id/ns/example#Franjo%20Dijak>, <http://semantics.id/ns/example#Janko%20Popovic%20Volaric>,
+    <http://semantics.id/ns/example#Judita%20Frankovic>, <http://semantics.id/ns/example#Kresimir%20Mikic>,
+    <http://semantics.id/ns/example#Ksenija%20Pajic>, <http://semantics.id/ns/example#Lana%20Baric>,
+    <http://semantics.id/ns/example#Ljiljana%20Bogojevic>, <http://semantics.id/ns/example#Marija%20Skaricic>,
+    <http://semantics.id/ns/example#Niksa%20Butijer>, <http://semantics.id/ns/example#Noa%20Nikolic>,
+    <http://semantics.id/ns/example#Ozren%20Grabaric>, <http://semantics.id/ns/example#Petra%20Maroja>,
+    <http://semantics.id/ns/example#Zeljko%20KÃ¶nigsknecht>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Kinorama>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Dalibor%20Matanic>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Dalibor%20Matanic>,
+    <http://semantics.id/ns/example#Tomislav%20Zajec>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Croatia>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Majka asfalta"@en .
+
+<http://semantics.id/ns/example#movie_tt1700841> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alistair%20Abell>,
+    <http://semantics.id/ns/example#Anders%20Holm>, <http://semantics.id/ns/example#Bill%20Hader>,
+    <http://semantics.id/ns/example#Brian%20Dobson>, <http://semantics.id/ns/example#Ian%20Hanlin>,
+    <http://semantics.id/ns/example#Ian%20James%20Corlett>, <http://semantics.id/ns/example#Iris%20Apatow>,
+    <http://semantics.id/ns/example#James%20Franco>, <http://semantics.id/ns/example#Jonah%20Hill>,
+    <http://semantics.id/ns/example#Maryke%20Hendrikse>, <http://semantics.id/ns/example#Michael%20Cera>,
+    <http://semantics.id/ns/example#Michael%20Daingerfield>, <http://semantics.id/ns/example#Michael%20Dobson>,
+    <http://semantics.id/ns/example#Salma%20Hayek>, <http://semantics.id/ns/example#Sugar%20Lyn%20Beard>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Annapurna%20Pictures>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Adventure>,
+    <http://semantics.id/ns/example/movie#Animation>, <http://semantics.id/ns/example/movie#Comedy>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Conrad%20Vernon>,
+    <http://semantics.id/ns/example#Greg%20Tiernan>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Ariel%20Shaffir>,
+    <http://semantics.id/ns/example#Kyle%20Hunter>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>,
+    <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sausage Party - Vita segreta di una salsiccia"@en .
+
+<http://semantics.id/ns/example#movie_tt1700845> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#David%20Collings>,
+    <http://semantics.id/ns/example#Felicity%20Jones>, <http://semantics.id/ns/example#Gabriel%20Vick>,
+    <http://semantics.id/ns/example#John%20Kavanagh>, <http://semantics.id/ns/example#Joseph%20Paxton>,
+    <http://semantics.id/ns/example#Kristin%20Scott%20Thomas>, <http://semantics.id/ns/example#Mark%20Dexter>,
+    <http://semantics.id/ns/example#Michael%20Marcus>, <http://semantics.id/ns/example#Perdita%20Weeks>,
+    <http://semantics.id/ns/example#Ralph%20Fiennes>, <http://semantics.id/ns/example#Richard%20McCabe>,
+    <http://semantics.id/ns/example#Susanna%20Hislop>, <http://semantics.id/ns/example#Tom%20Attwood>,
+    <http://semantics.id/ns/example#Tom%20Burke>, <http://semantics.id/ns/example#Tommy%20Curson-Smith>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#BBC%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Biography>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#History>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Ralph%20Fiennes>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Abi%20Morgan>,
+    <http://semantics.id/ns/example#Claire%20Tomalin>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#UK>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "The Invisible Woman"@en .
+
+<http://semantics.id/ns/example#movie_tt1701215> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Amy%20Madigan>,
+    <http://semantics.id/ns/example#Anubhav%20Jain>, <http://semantics.id/ns/example#Ernesto%20Rosas>,
+    <http://semantics.id/ns/example#Jennifer%20Layne%20Park>, <http://semantics.id/ns/example#Jenny%20Dare%20Paulin>,
+    <http://semantics.id/ns/example#Jessica%20Hoffman>, <http://semantics.id/ns/example#Lili%20Taylor>,
+    <http://semantics.id/ns/example#Marc%20Forget>, <http://semantics.id/ns/example#Marin%20Ireland>,
+    <http://semantics.id/ns/example#Marlena%20Kalm>, <http://semantics.id/ns/example#Michael%20Porter>,
+    <http://semantics.id/ns/example#Moriah%20Cebollero>, <http://semantics.id/ns/example#Perla%20Haney-Jardine>,
+    <http://semantics.id/ns/example#Peter%20Patrikios>, <http://semantics.id/ns/example#William%20Sadler>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Future%20Weather%20Productions>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Jenny%20Deller>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Jenny%20Deller>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Future Weather"@en .
+
+<http://semantics.id/ns/example#movie_tt1703199> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Arthur%20Corber>,
+    <http://semantics.id/ns/example#Ashleigh%20Gryzko>, <http://semantics.id/ns/example#Ben%20Wilkinson>,
+    <http://semantics.id/ns/example#Bob%20Rathie>, <http://semantics.id/ns/example#Eva%20Gifford>,
+    <http://semantics.id/ns/example#Fred%20Keating>, <http://semantics.id/ns/example#Juan%20Riedinger>,
+    <http://semantics.id/ns/example#Luis%20Javier>, <http://semantics.id/ns/example#Mackenzie%20Gray>,
+    <http://semantics.id/ns/example#Martha%20Eason>, <http://semantics.id/ns/example#Max%20Train>,
+    <http://semantics.id/ns/example#Merwin%20Mondesir>, <http://semantics.id/ns/example#Michele%20Cummins>,
+    <http://semantics.id/ns/example#Sean%20Rogerson>, <http://semantics.id/ns/example#Shawn%20Macdonald>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Digital%20Interference%20Productions>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Adventure>,
+    <http://semantics.id/ns/example/movie#Fantasy>, <http://semantics.id/ns/example/movie#Horror>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Colin%20Minihan>,
+    <http://semantics.id/ns/example#Stuart%20Ortiz>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Stuart%20Ortiz>,
+    <http://semantics.id/ns/example#The%20Vicious%20Brothers>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "ESP - Fenomeni paranormali"@en .
+
+<http://semantics.id/ns/example#movie_tt1705113> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Christopher%20Higgins>,
+    <http://semantics.id/ns/example#Clare%20Grant>, <http://semantics.id/ns/example#Clint%20Catalyst>,
+    <http://semantics.id/ns/example#Dalilah%20Rain>, <http://semantics.id/ns/example#Dan%20Glenn>,
+    <http://semantics.id/ns/example#Darri%20Ingolfsson>, <http://semantics.id/ns/example#David%20Pevsner>,
+    <http://semantics.id/ns/example#Edgar%20Morais>, <http://semantics.id/ns/example#Edward%20Singletary>,
+    <http://semantics.id/ns/example#Elizabeth%20Hirsch-Tauber>, <http://semantics.id/ns/example#Erin%20Daniels>,
+    <http://semantics.id/ns/example#James%20Preston>, <http://semantics.id/ns/example#Jay%20Donnell>,
+    <http://semantics.id/ns/example#Rafael%20Morais>, <http://semantics.id/ns/example#Tony%20Herbert>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Iconoclastic%20Features>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Biography>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#Horror>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Matthew%20Mishory>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Matthew%20Mishory>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Joshua Tree, 1951: A Portrait of James Dean"@en .
+
+<http://semantics.id/ns/example#movie_tt1706598> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Brynne%20Norquist>,
+    <http://semantics.id/ns/example#Clare%20Foley>, <http://semantics.id/ns/example#Curtis%20McClarin>,
+    <http://semantics.id/ns/example#Dakota%20Fanning>, <http://semantics.id/ns/example#Danielle%20Macdonald>,
+    <http://semantics.id/ns/example#Diane%20Lane>, <http://semantics.id/ns/example#Eva%20Grace%20Kellner>,
+    <http://semantics.id/ns/example#Hayden%20Johnson>, <http://semantics.id/ns/example#Lance%20Hubbard%20Jr.>,
+    <http://semantics.id/ns/example#Lily%20Pilblad>, <http://semantics.id/ns/example#Paige%20King>,
+    <http://semantics.id/ns/example#Roslyn%20Ruff>, <http://semantics.id/ns/example#Sarah%20Sokolovic>,
+    <http://semantics.id/ns/example#Skyla%20Rose>, <http://semantics.id/ns/example#Tonye%20Patano>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Hyde%20Park%20Entertainment>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Crime>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#Mystery>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Amy%20Berg>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Laura%20Lippman>,
+    <http://semantics.id/ns/example#Nicole%20Holofcener>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ogni cosa Ã¨ segreta"@en .
+
+<http://semantics.id/ns/example#movie_tt1707384> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Arisa%20Komiya>,
+    <http://semantics.id/ns/example#Elaiza%20Ikeda>, <http://semantics.id/ns/example#Ito%20Ono>,
+    <http://semantics.id/ns/example#Junpei%20Mizobata>, <http://semantics.id/ns/example#Keiko%20Mihira>,
+    <http://semantics.id/ns/example#Masaki%20Suda>, <http://semantics.id/ns/example#Mitsumi%20Hiromura>,
+    <http://semantics.id/ns/example#Muga%20Tsukaji>, <http://semantics.id/ns/example#Rei%20Okamoto>,
+    <http://semantics.id/ns/example#Rina%20Aizawa>, <http://semantics.id/ns/example#Sae%20Miyazawa>,
+    <http://semantics.id/ns/example#Shohei%20Nanba>, <http://semantics.id/ns/example#Yuka%20Masuda>,
+    <http://semantics.id/ns/example#YÃ´ichi%20Nukumizu>, <http://semantics.id/ns/example#YÃ»ki%20Furukawa>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Asmik%20Ace%20Entertainment>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Tsutomu%20Hanabusa>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Kazune%20Kawahara>,
+    <http://semantics.id/ns/example#YÃ»ichi%20Fukuda>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "KÃ´kÃ´ debyÃ»"@en .
+
+<http://semantics.id/ns/example#movie_tt1703923> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alexa%20Davies>,
+    <http://semantics.id/ns/example#Christopher%20Roy%20Turner>, <http://semantics.id/ns/example#Gareth%20Jones>,
+    <http://semantics.id/ns/example#James%20Cartwright>, <http://semantics.id/ns/example#Jamie%20Blackley>,
+    <http://semantics.id/ns/example#Julia%20Ford>, <http://semantics.id/ns/example#Jynine%20James>,
+    <http://semantics.id/ns/example#Kamila%20Janska>, <http://semantics.id/ns/example#Keith%20Allen>,
+    <http://semantics.id/ns/example#Liam%20Manfredonia>, <http://semantics.id/ns/example#Martin%20Gorst>,
+    <http://semantics.id/ns/example#Mike%20Peters>, <http://semantics.id/ns/example#Perry%20Benson>,
+    <http://semantics.id/ns/example#Phil%20Daniels>, <http://semantics.id/ns/example#Steve%20Diggle>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#H2O%20Motion%20Pictures>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Sara%20Sugarman>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Jim%20Cooper>,
+    <http://semantics.id/ns/example#Sara%20Sugarman>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#UK>,
+    <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vinyl"@en .
+
+<http://semantics.id/ns/example#movie_tt1703942> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alfred%20Ntombela>,
+    <http://semantics.id/ns/example#Brent%20Palmer>, <http://semantics.id/ns/example#Chris%20April>,
+    <http://semantics.id/ns/example#Emily%20Child>, <http://semantics.id/ns/example#Guilherme%20Escobar>,
+    <http://semantics.id/ns/example#Helen%20Li>, <http://semantics.id/ns/example#Karl%20Jansen>,
+    <http://semantics.id/ns/example#Leon%20Schuster>, <http://semantics.id/ns/example#Maria%20Velanac>,
+    <http://semantics.id/ns/example#Matthew%20Dylan%20Roberts>, <http://semantics.id/ns/example#Mehboob%20Bawa>,
+    <http://semantics.id/ns/example#Ronald%20France>, <http://semantics.id/ns/example#Sean%20Higgs>,
+    <http://semantics.id/ns/example#Shirley%20Nixon>, <http://semantics.id/ns/example#Siobhan%20Hodgson>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Out%20of%20Africa%20Entertainment>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Gray%20Hofmeyr>;
+  <http://semantics.id/ns/example/movie#hasRating> 6.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Gray%20Hofmeyr>,
+    <http://semantics.id/ns/example#Leon%20Schuster>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Africa>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Schuks Tshabalala's Survival Guide to South Africa"@en .
+
+<http://semantics.id/ns/example#movie_tt1702385> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Adrian%20Topol>,
+    <http://semantics.id/ns/example#Barbara%20Wysocka>, <http://semantics.id/ns/example#Doris%20Kunstmann>,
+    <http://semantics.id/ns/example#Grazyna%20Szapolowska>, <http://semantics.id/ns/example#Henry%20HÃ¼bchen>,
+    <http://semantics.id/ns/example#Leonie%20Brandis>, <http://semantics.id/ns/example#Lukasz%20Garlicki>,
+    <http://semantics.id/ns/example#Paraschiva%20Dragus>, <http://semantics.id/ns/example#Radoslaw%20Krzyzowski>,
+    <http://semantics.id/ns/example#Sigo%20Heinisch>, <http://semantics.id/ns/example#Sylwia%20Oksiuta>,
+    <http://semantics.id/ns/example#Tomek%20Nowicki>, <http://semantics.id/ns/example#Violetta%20Grafin%20Tarnowska%20Bronner>,
+    <http://semantics.id/ns/example#Waldemar%20Cudzik>, <http://semantics.id/ns/example#WalÃ©ra%20Kanischtscheff>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Polyphon%20Film-und%20Fernsehgesellschaft>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Jakob%20Ziemnicki>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Jakob%20Ziemnicki>,
+    <http://semantics.id/ns/example#Katrin%20Milhahn>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>,
+    <http://semantics.id/ns/example#Poland>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Polnische Ostern"@en .
+
+<http://semantics.id/ns/example#movie_tt1703125> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aubrey%20Plaza>,
+    <http://semantics.id/ns/example#Brooke%20Schlosser>, <http://semantics.id/ns/example#Deborah%20Ann%20Woll>,
+    <http://semantics.id/ns/example#Dree%20Hemingway>, <http://semantics.id/ns/example#Ellen%20Burstyn>,
+    <http://semantics.id/ns/example#Gilbert%20Owuor>, <http://semantics.id/ns/example#Jonny%20Weston>,
+    <http://semantics.id/ns/example#Kyle%20Coffman>, <http://semantics.id/ns/example#Lucy%20Liu>,
+    <http://semantics.id/ns/example#Marcia%20Gay%20Harden>, <http://semantics.id/ns/example#Olek%20Krupa>,
+    <http://semantics.id/ns/example#Peter%20Gallagher>, <http://semantics.id/ns/example#Siobhan%20Fallon%20Hogan>,
+    <http://semantics.id/ns/example#Stephen%20Lang>, <http://semantics.id/ns/example#Toby%20Regbo>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Jean%20Vigo%20Italia>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Roberto%20Faenza>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Peter%20Cameron>,
+    <http://semantics.id/ns/example#Roberto%20Faenza>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Italy>,
+    <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Un giorno questo dolore ti sarÃ  utile"@en .
+
+<http://semantics.id/ns/example#movie_tt1705126> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alexi%20Wasser>,
+    <http://semantics.id/ns/example#Ali%20Hillis>, <http://semantics.id/ns/example#Christine%20Barger>,
+    <http://semantics.id/ns/example#Devin%20Barry>, <http://semantics.id/ns/example#Erin%20Chambers>,
+    <http://semantics.id/ns/example#Erin%20Gray>, <http://semantics.id/ns/example#Ian%20Jensen>,
+    <http://semantics.id/ns/example#Jake%20Borelli>, <http://semantics.id/ns/example#John%20Chuldenko>,
+    <http://semantics.id/ns/example#John%20Gerbin>, <http://semantics.id/ns/example#Kevin%20Linehan>,
+    <http://semantics.id/ns/example#Sorel%20Carradine>, <http://semantics.id/ns/example#Todd%20Grinnell>,
+    <http://semantics.id/ns/example#Wes%20Armstrong>, <http://semantics.id/ns/example#Xandra%20Clark>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Danger%20Train%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#John%20Chuldenko>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#John%20Chuldenko>,
+    <http://semantics.id/ns/example#Sean%20Blythe>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nesting"@en .
+
+<http://semantics.id/ns/example#movie_tt1708483> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aachi%20Manorama>,
+    <http://semantics.id/ns/example#Delhi%20Ganesh>, <http://semantics.id/ns/example#Ilavarasu>,
+    <http://semantics.id/ns/example#Lawrence%20Raghavendra>, <http://semantics.id/ns/example#M.S.%20Bhaskar>,
+    <http://semantics.id/ns/example#Mouli>, <http://semantics.id/ns/example#Nassar>, <http://semantics.id/ns/example#Padmapriya>,
+    <http://semantics.id/ns/example#Raai%20Laxmi>, <http://semantics.id/ns/example#Ramesh%20Khanna>,
+    <http://semantics.id/ns/example#Sai%20Kumar>, <http://semantics.id/ns/example#Sandhya>,
+    <http://semantics.id/ns/example#Senthil>, <http://semantics.id/ns/example#V.S.%20Raghavan>,
+    <http://semantics.id/ns/example#Vaiyapuri>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#AGS%20Entertainment>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Chimbudeven>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Chimbudeven>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Irumbukkottai Murattu Singam"@en .
+
+<http://semantics.id/ns/example#movie_tt1701990> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alison%20Woods>,
+    <http://semantics.id/ns/example#Daniel%20Negreanu>, <http://semantics.id/ns/example#Jesse%20Heiman>,
+    <http://semantics.id/ns/example#Joseph%20Keane>, <http://semantics.id/ns/example#Josh%20Breeding>,
+    <http://semantics.id/ns/example#Josh%20Hutcherson>, <http://semantics.id/ns/example#Julie%20Dolan>,
+    <http://semantics.id/ns/example#Logan%20Stalarow>, <http://semantics.id/ns/example#Marco%20Garcia>,
+    <http://semantics.id/ns/example#Marque%20Richardson>, <http://semantics.id/ns/example#Mickey%20River>,
+    <http://semantics.id/ns/example#Parker%20Bagley>, <http://semantics.id/ns/example#Percy%20Daggs%20III>,
+    <http://semantics.id/ns/example#Shanley%20Caswell>, <http://semantics.id/ns/example#Will%20Wallace>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Detention%20Films%20%28II%29>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Horror>, <http://semantics.id/ns/example/movie#Mystery>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Joseph%20Kahn>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Joseph%20Kahn>,
+    <http://semantics.id/ns/example#Mark%20Palermo>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Detention - Terrore al liceo"@en .
+
+<http://semantics.id/ns/example#movie_tt1703231> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Camilla%20Rutherford>,
+    <http://semantics.id/ns/example#Edward%20Halsted>, <http://semantics.id/ns/example#George%20Thomas>,
+    <http://semantics.id/ns/example#Georgina%20Rich>, <http://semantics.id/ns/example#Hannah%20Carson>,
+    <http://semantics.id/ns/example#Henry%20Lloyd-Hughes>, <http://semantics.id/ns/example#James%20Greene>,
+    <http://semantics.id/ns/example#Olivia%20Llewellyn>, <http://semantics.id/ns/example#Patrick%20Godfrey>,
+    <http://semantics.id/ns/example#Richard%20Heffer>, <http://semantics.id/ns/example#Sam%20Harrison>,
+    <http://semantics.id/ns/example#Sean%20Hart>, <http://semantics.id/ns/example#Shaun%20Lucas>,
+    <http://semantics.id/ns/example#SiÃ¢n%20Mayhall-Purvis>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Sculptures%20of%20Dazzling%20Complexity>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Sci-Fi>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Sloane%20U'Ren>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Antony%20Neely>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#UK>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Dimensions"@en .
+
+<http://semantics.id/ns/example#movie_tt1703958> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Akshat%20Verma>,
+    <http://semantics.id/ns/example#Anju%20Mahendru>, <http://semantics.id/ns/example#Ayesha%20DeVitre>,
+    <http://semantics.id/ns/example#Boman%20Irani>, <http://semantics.id/ns/example#Bosco%20Martis>,
+    <http://semantics.id/ns/example#Deepti%20Datt>, <http://semantics.id/ns/example#Imran%20Khan>,
+    <http://semantics.id/ns/example#Kareena%20Kapoor>, <http://semantics.id/ns/example#Manasi%20Scott>,
+    <http://semantics.id/ns/example#Mukul%20Chadda>, <http://semantics.id/ns/example#Rajesh%20Khattar>,
+    <http://semantics.id/ns/example#Ram%20Kapoor>, <http://semantics.id/ns/example#Ratna%20Pathak%20Shah>,
+    <http://semantics.id/ns/example#Soniya%20Mehra>, <http://semantics.id/ns/example#Zenobia%20Shroff>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Dharma%20Productions>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Shakun%20Batra>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Ayesha%20DeVitre>,
+    <http://semantics.id/ns/example#Shakun%20Batra>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ek Main Aur Ekk Tu"@en .
+
+<http://semantics.id/ns/example#movie_tt1704680> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Adam%20Laupus>,
+    <http://semantics.id/ns/example#Adhir%20Bhat>, <http://semantics.id/ns/example#Diksha%20Basu>,
+    <http://semantics.id/ns/example#Lethia%20Nall>, <http://semantics.id/ns/example#Shabana%20Azmi>,
+    <http://semantics.id/ns/example#Shriya%20Sharma>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Secret%20Pact%20Productions>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Sarovar%20Banka>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Sarovar%20Banka>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>,
+    <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "A Decent Arrangement"@en .
+
+<http://semantics.id/ns/example#movie_tt1706470> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ben%20Batt>,
+    <http://semantics.id/ns/example#Carmen%20Muga>, <http://semantics.id/ns/example#Dean%20Andrews>,
+    <http://semantics.id/ns/example#Emily%20Barclay>, <http://semantics.id/ns/example#Fergus%20O'Donnell>,
+    <http://semantics.id/ns/example#Henry%20Lloyd-Hughes>, <http://semantics.id/ns/example#Iain%20McKee>,
+    <http://semantics.id/ns/example#Jack%20O'Connell>, <http://semantics.id/ns/example#Lara%20Goodison>,
+    <http://semantics.id/ns/example#Perry%20Fitzpatrick>, <http://semantics.id/ns/example#Richard%20Riddell>,
+    <http://semantics.id/ns/example#Sam%20Hazeldine>, <http://semantics.id/ns/example#Stephen%20Wight>,
+    <http://semantics.id/ns/example#Tom%20Meeten>, <http://semantics.id/ns/example#Zawe%20Ashton>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Benchmark%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Music>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Karl%20Golden>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.6;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Chris%20Coghill>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#UK>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Weekender"@en .
+
+<http://semantics.id/ns/example#movie_tt1702425> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Adrian%20Martinez>,
+    <http://semantics.id/ns/example#Alejandro%20PatiÃ±o>, <http://semantics.id/ns/example#Diego%20Luna>,
+    <http://semantics.id/ns/example#Eduardo%20Ricard>, <http://semantics.id/ns/example#Efren%20Ramirez>,
+    <http://semantics.id/ns/example#Elijah%20Velarde>, <http://semantics.id/ns/example#Gael%20GarcÃ­a%20Bernal>,
+    <http://semantics.id/ns/example#Genesis%20Rodriguez>, <http://semantics.id/ns/example#Jerry%20Collins>,
+    <http://semantics.id/ns/example#Luis%20Carazo>, <http://semantics.id/ns/example#Manuel%20Urrego>,
+    <http://semantics.id/ns/example#Nick%20Offerman>, <http://semantics.id/ns/example#Pedro%20ArmendÃ¡riz%20Jr.>,
+    <http://semantics.id/ns/example#Sandra%20EcheverrÃ­a>, <http://semantics.id/ns/example#Will%20Ferrell>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#NALA%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Western>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Matt%20Piedmont>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.5;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Andrew%20Steele>,
+    <http://semantics.id/ns/example#Eva%20Maria%20Peters>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Mexico>,
+    <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Casa de mi Padre"@en .
+
+<http://semantics.id/ns/example#movie_tt1707380> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Charlotte%20Gainsbourg>,
+    <http://semantics.id/ns/example#Claude%20Chamberlain>, <http://semantics.id/ns/example#CÃ©line%20Bonnier>,
+    <http://semantics.id/ns/example#Gilbert%20Wahiakeron>, <http://semantics.id/ns/example#Jack%20Fulton>,
+    <http://semantics.id/ns/example#James%20Franco>, <http://semantics.id/ns/example#Jessy%20Gagnon>,
+    <http://semantics.id/ns/example#Lilah%20Fitzgerald>, <http://semantics.id/ns/example#Marie-JosÃ©e%20Croze>,
+    <http://semantics.id/ns/example#Mary%20Katherine%20Harvey>, <http://semantics.id/ns/example#Patrick%20Bauchau>,
+    <http://semantics.id/ns/example#Peter%20Miller>, <http://semantics.id/ns/example#Peter%20Stormare>,
+    <http://semantics.id/ns/example#Philippe%20Vanasse-Paquet>, <http://semantics.id/ns/example#Rachel%20McAdams>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Neue%20Road%20Movies>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Wim%20Wenders>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.4;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#BjÃ¸rn%20Olaf%20Johannessen>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>,
+    <http://semantics.id/ns/example#France>, <http://semantics.id/ns/example#Germany>,
+    <http://semantics.id/ns/example#Norway>, <http://semantics.id/ns/example#Sweden>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ritorno alla vita"@en .
+
+<http://semantics.id/ns/example#movie_tt1699755> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ana%20Gasteyer>,
+    <http://semantics.id/ns/example#Angelee%20Areu>, <http://semantics.id/ns/example#Briana%20Marin>,
+    <http://semantics.id/ns/example#Craig%20Robinson>, <http://semantics.id/ns/example#David%20Alan%20Grier>,
+    <http://semantics.id/ns/example#Diahann%20Carroll>, <http://semantics.id/ns/example#Jerome%20Preston%20Bates>,
+    <http://semantics.id/ns/example#Kali%20Hawk>, <http://semantics.id/ns/example#Kerry%20Washington>,
+    <http://semantics.id/ns/example#Kimrie%20Lewis>, <http://semantics.id/ns/example#Malcolm%20Barrett>,
+    <http://semantics.id/ns/example#Melvin%20Van%20Peebles>, <http://semantics.id/ns/example#S.%20Epatha%20Merkerson>,
+    <http://semantics.id/ns/example#Tuffy%20Questell>, <http://semantics.id/ns/example#Tyler%20James%20Williams>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#34th%20Street%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Tina%20Gordon>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.3;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Tina%20Gordon>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Peeples"@en .
+
+<http://semantics.id/ns/example#movie_tt1705134> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Andy%20Stahl>,
+    <http://semantics.id/ns/example#Bret%20Hopkins>, <http://semantics.id/ns/example#Chris%20Earley>,
+    <http://semantics.id/ns/example#Clay%20Burke>, <http://semantics.id/ns/example#Dan%20Collett>,
+    <http://semantics.id/ns/example#Eddie%20Napier>, <http://semantics.id/ns/example#Gist%20Heinrich>,
+    <http://semantics.id/ns/example#James%20Hendrix>, <http://semantics.id/ns/example#Jay%20Hayden>,
+    <http://semantics.id/ns/example#Kathryn%20Todd%20Norman>, <http://semantics.id/ns/example#Loren%20Albanese>,
+    <http://semantics.id/ns/example#McKenna%20Jones>, <http://semantics.id/ns/example#Philip%20Carson>,
+    <http://semantics.id/ns/example#Scott%20Lilly>, <http://semantics.id/ns/example#Tori%20White>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Clay%20Bros.%20Motion%20Pictures>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Horror>,
+    <http://semantics.id/ns/example/movie#Sci-Fi>, <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Turner%20Clay>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.3;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Turner%20Clay>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "State of Emergency"@en .
+
+<http://semantics.id/ns/example#movie_tt1707392> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alexandra%20Holden>,
+    <http://semantics.id/ns/example#Bethany%20Hoffman>, <http://semantics.id/ns/example#Brandon%20Thane%20Wilson>,
+    <http://semantics.id/ns/example#Bus%20Howard>, <http://semantics.id/ns/example#Camilla%20Zaidee%20Bennett>,
+    <http://semantics.id/ns/example#Dan%20Manning>, <http://semantics.id/ns/example#Daniel%20Ross>,
+    <http://semantics.id/ns/example#Doug%20Roberts>, <http://semantics.id/ns/example#Field%20Blauvelt>,
+    <http://semantics.id/ns/example#Gretchen%20Lodge>, <http://semantics.id/ns/example#Johnny%20Lewis>,
+    <http://semantics.id/ns/example#Josh%20Jones>, <http://semantics.id/ns/example#Ken%20Arnold>,
+    <http://semantics.id/ns/example#Kevin%20Murray>, <http://semantics.id/ns/example#Tara%20Garwood>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Amber%20Entertainment>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Horror>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Eduardo%20SÃ¡nchez>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.3;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Eduardo%20SÃ¡nchez>,
+    <http://semantics.id/ns/example#Jamie%20Nash>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lovely Molly"@en .
+
+<http://semantics.id/ns/example#movie_tt1703919> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Andrea%20Bardos>,
+    <http://semantics.id/ns/example#Jeff%20Otte>, <http://semantics.id/ns/example#Jessica%20De%20Baere>,
+    <http://semantics.id/ns/example#Josse%20De%20Pauw>, <http://semantics.id/ns/example#Korneel%20Hamers>,
+    <http://semantics.id/ns/example#Leah%20Chanmugam>, <http://semantics.id/ns/example#Liesje%20De%20Backer>,
+    <http://semantics.id/ns/example#Marit%20Stocker>, <http://semantics.id/ns/example#Matthias%20Schoenaerts>,
+    <http://semantics.id/ns/example#Nico%20Sturm>, <http://semantics.id/ns/example#Renee%20Sys>,
+    <http://semantics.id/ns/example#Sien%20Eggers>, <http://semantics.id/ns/example#Stefan%20Perceval>,
+    <http://semantics.id/ns/example#Tine%20Van%20den%20Wyngaert>, <http://semantics.id/ns/example#Vincent%20Lecuyer>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Centre%20du%20CinÃ©ma%20et%20de%20l%27Audiovisuel%20de%20la%20FÃ©dÃ©ration%20Wallonie-Bruxelles>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Mystery>, <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Alex%20Stockman>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.2;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Alex%20Stockman>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Belgium>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Pulsar"@en .
+
+<http://semantics.id/ns/example#movie_tt1704142> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Beatrix%20Bilgeri>,
+    <http://semantics.id/ns/example#Birgit%20Melcher>, <http://semantics.id/ns/example#Eisi%20Gulp>,
+    <http://semantics.id/ns/example#Eric%20Judor>, <http://semantics.id/ns/example#Ernst%20Konarek>,
+    <http://semantics.id/ns/example#Erwin%20Leder>, <http://semantics.id/ns/example#Gerd%20BÃ¶ckmann>,
+    <http://semantics.id/ns/example#Jaron%20LÃ¶wenberg>, <http://semantics.id/ns/example#Julia%20Gschnitzer>,
+    <http://semantics.id/ns/example#Krista%20Stadler>, <http://semantics.id/ns/example#Laura%20Bilgeri>,
+    <http://semantics.id/ns/example#Lena%20Reichmuth>, <http://semantics.id/ns/example#Marianne%20Pardeller>,
+    <http://semantics.id/ns/example#Martin%20Maria%20Abram>, <http://semantics.id/ns/example#Michael-Joachim%20Heiss>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Bilgeri%20Films%20Production>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#History>, <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Reinhold%20Bilgeri>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Reinhold%20Bilgeri>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Austria>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Der Atem des Himmels"@en .
+
+<http://semantics.id/ns/example#movie_tt1707821> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aaron%20Morgan>,
+    <http://semantics.id/ns/example#Ben%20Gonzalez>, <http://semantics.id/ns/example#Christopher%20Gonzalez>,
+    <http://semantics.id/ns/example#Devin%20BonnÃ©e>, <http://semantics.id/ns/example#Elaine%20Hurt>,
+    <http://semantics.id/ns/example#Harry%20Jay%20Knowles>, <http://semantics.id/ns/example#Lauren%20Lee>,
+    <http://semantics.id/ns/example#Lauren%20Vunderink>, <http://semantics.id/ns/example#Megan%20Hagins>,
+    <http://semantics.id/ns/example#Patrick%20Delgado>, <http://semantics.id/ns/example#Rebecca%20Robinson>,
+    <http://semantics.id/ns/example#Sam%20Eidson>, <http://semantics.id/ns/example#Santiago%20Dietche>,
+    <http://semantics.id/ns/example#Tina%20Rodriguez>, <http://semantics.id/ns/example#Tony%20Vespe>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Cheesy%20Nuggets%20Productions>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Fantasy>, <http://semantics.id/ns/example/movie#Horror>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Emily%20Hagins>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Emily%20Hagins>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "My Sucky Teen Romance"@en .
+
+<http://semantics.id/ns/example#movie_tt1708487> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Dhanush>,
+    <http://semantics.id/ns/example#L.%20Srinath>, <http://semantics.id/ns/example#Radha%20Ravi>,
+    <http://semantics.id/ns/example#Rajyalakshmi>, <http://semantics.id/ns/example#Sammir%20Dattani>,
+    <http://semantics.id/ns/example#Shriya%20Saran>, <http://semantics.id/ns/example#Swati%20Bhatia>,
+    <http://semantics.id/ns/example#Vincent%20Ashokan>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Gemini%20Film%20Circuit>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#Romance>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Mithran%20Jawahar>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Sukumar>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kutty"@en .
+
+<http://semantics.id/ns/example#movie_tt1701995> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#AndrÃ©as%20Leflamand>,
+    <http://semantics.id/ns/example#Chiara%20Mastroianni>, <http://semantics.id/ns/example#Dennis%20Cooper>,
+    <http://semantics.id/ns/example#Dustin%20Segura-Suarez>, <http://semantics.id/ns/example#FranÃ§ois%20Sagat>,
+    <http://semantics.id/ns/example#Kate%20Moran>, <http://semantics.id/ns/example#Lahcen%20Elmazouzi>,
+    <http://semantics.id/ns/example#Omar%20Ben%20Sellem>, <http://semantics.id/ns/example#Rabah%20Zahi>,
+    <http://semantics.id/ns/example#Ronald%20Piwele>, <http://semantics.id/ns/example#Sebastian%20D'Azeglio>,
+    <http://semantics.id/ns/example#SÃ©bastien%20Pouderoux>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Les%20Films%20du%20BÃ©lier>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Christophe%20HonorÃ©>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Christophe%20HonorÃ©>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Homme au bain"@en .
+
+<http://semantics.id/ns/example#movie_tt1703938> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ah-Jin%20Choi>,
+    <http://semantics.id/ns/example#Bo-ra%20Nam>, <http://semantics.id/ns/example#Chang-Wook%20Ji>,
+    <http://semantics.id/ns/example#Eun-bin%20Park>, <http://semantics.id/ns/example#Ho%20Joon%20Son>,
+    <http://semantics.id/ns/example#Hyun-Sang%20Kwon>, <http://semantics.id/ns/example#Jeong-eum%20Hwang>,
+    <http://semantics.id/ns/example#Ji-Yeon%20Park>, <http://semantics.id/ns/example#Seung-ah%20Yoon>,
+    <http://semantics.id/ns/example#Shi-Yoon%20Yoon>, <http://semantics.id/ns/example#Soo-Ro%20Kim>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Core%20Contents%20Media>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Horror>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Seon-Dong%20Yu>;
+  <http://semantics.id/ns/example/movie#hasRating> 5.0;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gosa 2"@en .
+
+<http://semantics.id/ns/example#movie_tt1706625> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alicja%20Bachleda>,
+    <http://semantics.id/ns/example#Columbus%20Short>, <http://semantics.id/ns/example#Daniel%20Casanova>,
+    <http://semantics.id/ns/example#J.%20Bernard%20Calloway>, <http://semantics.id/ns/example#Jesse%20Spencer>,
+    <http://semantics.id/ns/example#Kareem%20Savinon>, <http://semantics.id/ns/example#Luis%20Ayala>,
+    <http://semantics.id/ns/example#Mike%20Starr>, <http://semantics.id/ns/example#Miriam%20Colon>,
+    <http://semantics.id/ns/example#Omer%20Barnea>, <http://semantics.id/ns/example#Paul%20Alves>,
+    <http://semantics.id/ns/example#Paz%20de%20la%20Huerta>, <http://semantics.id/ns/example#Tom%20Pelphrey>,
+    <http://semantics.id/ns/example#Wass%20Stevens>, <http://semantics.id/ns/example#Wilmer%20Valderrama>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Deerjen%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Crime>, <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Julius%20Onah>;
+  <http://semantics.id/ns/example/movie#hasRating> 4.9;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Julius%20Onah>,
+    <http://semantics.id/ns/example#Mayuran%20Tiruchelvam>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "The Girl Is in Trouble"@en .
+
+<http://semantics.id/ns/example#movie_tt1703826> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Bernard%20Campan>,
+    <http://semantics.id/ns/example#Bernard%20Le%20Gall>, <http://semantics.id/ns/example#CÃ©cile%20Rebboah>,
+    <http://semantics.id/ns/example#CÃ©drick%20LanoÃ«>, <http://semantics.id/ns/example#Denis%20Haerens>,
+    <http://semantics.id/ns/example#Jean-Louis%20Reynes>, <http://semantics.id/ns/example#Julien%20Demarty>,
+    <http://semantics.id/ns/example#LoÃ¯c%20Baylacq>, <http://semantics.id/ns/example#Luca%20Sartori>,
+    <http://semantics.id/ns/example#Lucy%20Harrison>, <http://semantics.id/ns/example#Philippe%20Escande>,
+    <http://semantics.id/ns/example#Philippe%20Mangione>, <http://semantics.id/ns/example#Robert%20Garrouste>,
+    <http://semantics.id/ns/example#Sacha%20Bourdo>, <http://semantics.id/ns/example#Thomas%20Durastel>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#RÃ©cifilms>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#History>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Manuel%20Poirier>;
+  <http://semantics.id/ns/example/movie#hasRating> 4.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Manuel%20Poirier>,
+    <http://semantics.id/ns/example#Pierre%20Perret>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Le cafÃ© du pont"@en .
+
+<http://semantics.id/ns/example#movie_tt1705952> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aaron%20Kissiov>,
+    <http://semantics.id/ns/example#Anton%20Zetterholm>, <http://semantics.id/ns/example#Brian%20Huskey>,
+    <http://semantics.id/ns/example#Craig%20Garner>, <http://semantics.id/ns/example#Jaime%20Ray%20Newman>,
+    <http://semantics.id/ns/example#Jason%20Hildebrandt>, <http://semantics.id/ns/example#Joe%20Cappelletti>,
+    <http://semantics.id/ns/example#Jonathan%20Morgan%20Heit>, <http://semantics.id/ns/example#Kellan%20Lutz>,
+    <http://semantics.id/ns/example#Les%20Bubb>, <http://semantics.id/ns/example#Mark%20Deklin>,
+    <http://semantics.id/ns/example#Michael%20A.%20Grimm>, <http://semantics.id/ns/example#Robert%20Capron>,
+    <http://semantics.id/ns/example#Spencer%20Locke>, <http://semantics.id/ns/example#Trevor%20St.%20John>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Constantin%20Film>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Adventure>,
+    <http://semantics.id/ns/example/movie#Animation>, <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Reinhard%20Klooss>;
+  <http://semantics.id/ns/example/movie#hasRating> 4.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Jessica%20Postigo>,
+    <http://semantics.id/ns/example#Reinhard%20Klooss>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>,
+    <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tarzan"@en .
+
+<http://semantics.id/ns/example#movie_tt1703122> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Akari%20Hayami>,
+    <http://semantics.id/ns/example#Ayaka%20Sasaki>, <http://semantics.id/ns/example#Eisuke%20Imani>,
+    <http://semantics.id/ns/example#Kanako%20Momota>, <http://semantics.id/ns/example#KenjirÃ´%20Kamishima>,
+    <http://semantics.id/ns/example#Masataka%20Ishizaki>, <http://semantics.id/ns/example#Momoka%20Ariyasu>,
+    <http://semantics.id/ns/example#Reni%20Takagi>, <http://semantics.id/ns/example#Shiori%20Tamai>,
+    <http://semantics.id/ns/example#Yuki%20Yoshida>, <http://semantics.id/ns/example#YÃ»ko%20SÃ´>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Shirome%20Project%20Partners>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Horror>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#KÃ´ji%20Shiraishi>;
+  <http://semantics.id/ns/example/movie#hasRating> 4.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#KÃ´ji%20Shiraishi>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shirome"@en .
+
+<http://semantics.id/ns/example#movie_tt1707391> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Anita%20Pallenberg>,
+    <http://semantics.id/ns/example#Bojana%20Vasik>, <http://semantics.id/ns/example#Dierdra%20McDowell>,
+    <http://semantics.id/ns/example#Francis%20Kuipers>, <http://semantics.id/ns/example#JosÃ©%20Solano>,
+    <http://semantics.id/ns/example#Justin%20Restivo>, <http://semantics.id/ns/example#Natasha%20Lyonne>,
+    <http://semantics.id/ns/example#Pat%20Kiernan>, <http://semantics.id/ns/example#Paul%20Hipp>,
+    <http://semantics.id/ns/example#Selena%20Mars>, <http://semantics.id/ns/example#Shanyn%20Leigh>,
+    <http://semantics.id/ns/example#Tony%20Redman>, <http://semantics.id/ns/example#Triana%20Jackson>,
+    <http://semantics.id/ns/example#Trung%20Nguyen>, <http://semantics.id/ns/example#Willem%20Dafoe>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Fabula>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>,
+    <http://semantics.id/ns/example/movie#Fantasy>, <http://semantics.id/ns/example/movie#Sci-Fi>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Abel%20Ferrara>;
+  <http://semantics.id/ns/example/movie#hasRating> 4.6;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Abel%20Ferrara>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>,
+    <http://semantics.id/ns/example#Switzerland>, <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "4:44 L'ultimo giorno sulla Terra"@en .
+
+<http://semantics.id/ns/example#movie_tt1703911> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alfonso%20Rojas>,
+    <http://semantics.id/ns/example#Ana%20de%20Armas>, <http://semantics.id/ns/example#Diego%20Cadavid>,
+    <http://semantics.id/ns/example#Frey%20Nicancio%20DÃ­az>, <http://semantics.id/ns/example#Judith%20Diakhate>,
+    <http://semantics.id/ns/example#Karina%20Laverde>, <http://semantics.id/ns/example#Kimberley%20Tell>,
+    <http://semantics.id/ns/example#Leonor%20Varela>, <http://semantics.id/ns/example#NÃ©stor%20Alfonso%20Ortiz>,
+    <http://semantics.id/ns/example#Paula%20Estrada>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Antena%203%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Horror>,
+    <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Antonio%20Trashorras>;
+  <http://semantics.id/ns/example/movie#hasRating> 4.4;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Antonio%20Trashorras>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Colombia>,
+    <http://semantics.id/ns/example#Mexico>, <http://semantics.id/ns/example#Spain>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "El callejÃ³n"@en .
+
+<http://semantics.id/ns/example#movie_tt1708427> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Shawn%20Yue>,
+    <http://semantics.id/ns/example#Shuhan%20Liu>, <http://semantics.id/ns/example#Xu%20Dai>,
+    <http://semantics.id/ns/example#Yang%20Li>, <http://semantics.id/ns/example#Yanming%20Wang>,
+    <http://semantics.id/ns/example#Yuqi%20Zhang>, <http://semantics.id/ns/example#Zefeng%20Li>,
+    <http://semantics.id/ns/example#Zihan%20Qin>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Beijing%20Poly-bona%20Film%20Distribution%20Company>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Horror>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Chi-Leung%20Law>;
+  <http://semantics.id/ns/example/movie#hasRating> 4.3;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Chi%20Kwong%20Cheung>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Huang cun gong yu"@en .
+
+<http://semantics.id/ns/example#movie_tt1702016> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#B.K.%20Cannon>,
+    <http://semantics.id/ns/example#China%20Walker>, <http://semantics.id/ns/example#Makaylo%20Van%20Peebles>,
+    <http://semantics.id/ns/example#Mandela%20Van%20Peebles>, <http://semantics.id/ns/example#Mario%20Van%20Peebles>,
+    <http://semantics.id/ns/example#Maya%20Van%20Peebles>, <http://semantics.id/ns/example#Michael%20Jai%20White>,
+    <http://semantics.id/ns/example#Moises%20Arias>, <http://semantics.id/ns/example#Patrick%20Cage>,
+    <http://semantics.id/ns/example#Quincy%20Brown>, <http://semantics.id/ns/example#Ryan%20Vigil>,
+    <http://semantics.id/ns/example#Salli%20Richardson-Whitfield>, <http://semantics.id/ns/example#Simone%20Battle>,
+    <http://semantics.id/ns/example#Tommy%20'Tiny'%20Lister>, <http://semantics.id/ns/example#YG>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Mario%20Van%20Peebles>;
+  <http://semantics.id/ns/example/movie#hasRating> 4.2;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "We the Party"@en .
+
+<http://semantics.id/ns/example#movie_tt1704175> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ajaykumar>,
+    <http://semantics.id/ns/example#Ambika%20Mohan>, <http://semantics.id/ns/example#Baburaj>,
+    <http://semantics.id/ns/example#Devan>, <http://semantics.id/ns/example#Fathima%20Babu>,
+    <http://semantics.id/ns/example#Innocent>, <http://semantics.id/ns/example#Jayaram>,
+    <http://semantics.id/ns/example#Kanakalatha>, <http://semantics.id/ns/example#Kaniha>,
+    <http://semantics.id/ns/example#Kochu%20Preman>, <http://semantics.id/ns/example#Krishna%20Prabha>,
+    <http://semantics.id/ns/example#Majeed>, <http://semantics.id/ns/example#Narayanan%20Nair>,
+    <http://semantics.id/ns/example#Narayanankutty>, <http://semantics.id/ns/example#Salim%20Kumar>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#S.P.%20Mahesh>;
+  <http://semantics.id/ns/example/movie#hasRating> 4.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Satheesh%20K.%20Sivan>,
+    <http://semantics.id/ns/example#Suresh%20Menon>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "My Big Father"@en .
+
+<http://semantics.id/ns/example#movie_tt1706317> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Ajay%20Devgn>,
+    <http://semantics.id/ns/example#Anil%20Kapoor>, <http://semantics.id/ns/example#Avika%20Gor>,
+    <http://semantics.id/ns/example#Bhavna%20Pani>, <http://semantics.id/ns/example#Boman%20Irani>,
+    <http://semantics.id/ns/example#Cameron%20Singh>, <http://semantics.id/ns/example#Dominic%20Power>,
+    <http://semantics.id/ns/example#Kangana%20Ranaut>, <http://semantics.id/ns/example#Mohanlal>,
+    <http://semantics.id/ns/example#Mudit%20Kumar%20Nair>, <http://semantics.id/ns/example#Philip%20Martin%20Brown>,
+    <http://semantics.id/ns/example#Puja%20Bhatt>, <http://semantics.id/ns/example#Sagar%20Arya>,
+    <http://semantics.id/ns/example#Sameera%20Reddy>, <http://semantics.id/ns/example#Zayed%20Khan>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#United%207%20Entertainment>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Crime>, <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Priyadarshan>;
+  <http://semantics.id/ns/example/movie#hasRating> 3.9;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Aditya%20Dhar>,
+    <http://semantics.id/ns/example#Robin%20Bhatt>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>,
+    <http://semantics.id/ns/example#UK>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tezz"@en .
+
+<http://semantics.id/ns/example#movie_tt1708526> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Anca%20Radici>,
+    <http://semantics.id/ns/example#Aryan%20Rahimian>, <http://semantics.id/ns/example#Eric%20Judor>,
+    <http://semantics.id/ns/example#FrÃ©dÃ©ric%20Chau>, <http://semantics.id/ns/example#Jean-Baptiste%20Shelmerdine>,
+    <http://semantics.id/ns/example#Jean-Pierre%20Lazzerini>, <http://semantics.id/ns/example#Karl%20E.%20Landler>,
+    <http://semantics.id/ns/example#Lannick%20Gautry>, <http://semantics.id/ns/example#Mohamed%20Aroussi>,
+    <http://semantics.id/ns/example#Mostefa%20Zerguine>, <http://semantics.id/ns/example#MostÃ©fa%20Stiti>,
+    <http://semantics.id/ns/example#Mourad%20Lakehal>, <http://semantics.id/ns/example#Philippe%20Girard>,
+    <http://semantics.id/ns/example#Ramzy%20Bedia>, <http://semantics.id/ns/example#Youssef%20Hajdi>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#EuropaCorp>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>,
+    <http://semantics.id/ns/example/movie#Crime>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Rachid%20Dhibou>;
+  <http://semantics.id/ns/example/movie#hasRating> 3.9;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Eric%20Judor>,
+    <http://semantics.id/ns/example#Ramzy%20Bedia>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Halal police d'Ã‰tat"@en .
+
+<http://semantics.id/ns/example#movie_tt1701218> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Billy%20Zane>,
+    <http://semantics.id/ns/example#Christa%20Bormann>, <http://semantics.id/ns/example#Court%20Dickert>,
+    <http://semantics.id/ns/example#Curt%20Clendenin>, <http://semantics.id/ns/example#Danny%20Glover>,
+    <http://semantics.id/ns/example#David%20Bear>, <http://semantics.id/ns/example#Gary%20A.%20Kauffman>,
+    <http://semantics.id/ns/example#Gretchen%20Becker>, <http://semantics.id/ns/example#Martin%20Landau>,
+    <http://semantics.id/ns/example#Meadow%20Williams>, <http://semantics.id/ns/example#Michael%20Rooker>,
+    <http://semantics.id/ns/example#Peter%20Mark%20Richman>, <http://semantics.id/ns/example#Robert%20Miano>,
+    <http://semantics.id/ns/example#Silvia%20Spross>, <http://semantics.id/ns/example#William%20Dorfman>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Arramis%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Mystery>,
+    <http://semantics.id/ns/example/movie#Thriller>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Lucius%20C.%20Kuert>;
+  <http://semantics.id/ns/example/movie#hasRating> 3.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Lucius%20C.%20Kuert>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mysteria"@en .
+
+<http://semantics.id/ns/example#movie_tt1705956> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Andrew%20Shaffer>,
+    <http://semantics.id/ns/example#Brianna%20Healey>, <http://semantics.id/ns/example#Chip%20Facka>,
+    <http://semantics.id/ns/example#Jody%20Horn>, <http://semantics.id/ns/example#Lloyd%20Kaufman>,
+    <http://semantics.id/ns/example#Melissa%20Mabus>, <http://semantics.id/ns/example#Sam%20Nelsen>,
+    <http://semantics.id/ns/example#Scott%20Stieler>, <http://semantics.id/ns/example#Seth%20Drick>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Fist%20In%20Post%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Horror>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Steve%20Gibson>;
+  <http://semantics.id/ns/example/movie#hasRating> 3.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Matt%20Edens>,
+    <http://semantics.id/ns/example#Steve%20Gibson>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "The Feed"@en .
+
+<http://semantics.id/ns/example#movie_tt1700468> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Cyrielle%20Debreuil>,
+    <http://semantics.id/ns/example#JÃ©rÃ©my%20Duplot%20Jr.>, <http://semantics.id/ns/example#Kaddour%20Dorgham>,
+    <http://semantics.id/ns/example#Michel%20BÃ©atrix>, <http://semantics.id/ns/example#Paul%20Descombes>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Ileprod>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Adventure>,
+    <http://semantics.id/ns/example/movie#Drama>, <http://semantics.id/ns/example/movie#Fantasy>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Olivier%20Boillot>;
+  <http://semantics.id/ns/example/movie#hasRating> 3.6;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Olivier%20Boillot>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>,
+    <http://semantics.id/ns/example#Reunion>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "L'Ã®le"@en .
+
+<http://semantics.id/ns/example#movie_tt1704578> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Alexis%20Zibolis>,
+    <http://semantics.id/ns/example#Alfredo%20De%20Jesus>, <http://semantics.id/ns/example#Brienne%20Moore>,
+    <http://semantics.id/ns/example#Bryan%20Keith>, <http://semantics.id/ns/example#Doshanna%20Bell>,
+    <http://semantics.id/ns/example#Kathryn%20Taylor%20Smith>, <http://semantics.id/ns/example#Keena%20Ferguson>,
+    <http://semantics.id/ns/example#Lamya%20Holley%20Clinton>, <http://semantics.id/ns/example#Leonard%20L.%20Thomas>,
+    <http://semantics.id/ns/example#Lisa%20Dewitt>, <http://semantics.id/ns/example#Paul%20D.%20Hannah>,
+    <http://semantics.id/ns/example#Peppur%20Chambers>, <http://semantics.id/ns/example#Robert%20Joseph>,
+    <http://semantics.id/ns/example#Siaka%20Massaquoi>, <http://semantics.id/ns/example#Tanya%20Caravacci>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#One%20Truth%20Media>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Paul%20D.%20Hannah>;
+  <http://semantics.id/ns/example/movie#hasRating> 3.6;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Paul%20D.%20Hannah>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Consinsual"@en .
+
+<http://semantics.id/ns/example#movie_tt1703147> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Angela%20Little>,
+    <http://semantics.id/ns/example#Charles%20Durning>, <http://semantics.id/ns/example#Deirdre%20Lorenz>,
+    <http://semantics.id/ns/example#Eric%20Etebari>, <http://semantics.id/ns/example#Erika%20Smith>,
+    <http://semantics.id/ns/example#Greg%20Nutcher>, <http://semantics.id/ns/example#Jack%20Mulcahy>,
+    <http://semantics.id/ns/example#Jackie%20Martling>, <http://semantics.id/ns/example#Joyce%20DeWitt>,
+    <http://semantics.id/ns/example#Katarzyna%20Wolejnio>, <http://semantics.id/ns/example#Martin%20Kove>,
+    <http://semantics.id/ns/example#Michael%20Rivera>, <http://semantics.id/ns/example#Robert%20Loggia>,
+    <http://semantics.id/ns/example#Thomas%20G.%20Waites>, <http://semantics.id/ns/example#Tonye%20Patano>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Justice%20for%20All%20Productions>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Drama>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Sherri%20Kauk>;
+  <http://semantics.id/ns/example/movie#hasRating> 3.5;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Ken%20Del%20Vecchio>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "The Great Fight"@en .
+
+<http://semantics.id/ns/example#movie_tt1705125> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Caleb%20Michaelson>,
+    <http://semantics.id/ns/example#Edrick%20Browne>, <http://semantics.id/ns/example#Gina%20Holden>,
+    <http://semantics.id/ns/example#Grayling%20Bethancourt%20Jr.>, <http://semantics.id/ns/example#J.D.%20Evermore>,
+    <http://semantics.id/ns/example#Jonathan%20Algood>, <http://semantics.id/ns/example#Lochlyn%20Munro>,
+    <http://semantics.id/ns/example#Lucas%20Bernard>, <http://semantics.id/ns/example#Marc%20Bowman>,
+    <http://semantics.id/ns/example#Mark%20Sheppard>, <http://semantics.id/ns/example#Pruitt%20Taylor%20Vince>,
+    <http://semantics.id/ns/example#Raymond%20Blanchard>, <http://semantics.id/ns/example#Susie%20Abromeit>,
+    <http://semantics.id/ns/example#Vincent%20C.%20Abadio>, <http://semantics.id/ns/example#William%20Morgan%20Sheppard>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#K2%20Pictures%20%28II%29>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Adventure>,
+    <http://semantics.id/ns/example/movie#Fantasy>, <http://semantics.id/ns/example/movie#Horror>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Mark%20Sheppard>;
+  <http://semantics.id/ns/example/movie#hasRating> 3.5;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Cameron%20Larson>,
+    <http://semantics.id/ns/example#Sholom%20Gelt>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mysterious Island"@en .
+
+<http://semantics.id/ns/example#movie_tt1702009> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Adele%20Silva>,
+    <http://semantics.id/ns/example#Alan%20Ford>, <http://semantics.id/ns/example#Ali%20Bastian>,
+    <http://semantics.id/ns/example#Barbara%20Nedeljakova>, <http://semantics.id/ns/example#Billy%20Murray>,
+    <http://semantics.id/ns/example#Charlie%20Bond>, <http://semantics.id/ns/example#Lysette%20Anthony>,
+    <http://semantics.id/ns/example#Martin%20Compston>, <http://semantics.id/ns/example#Martin%20Kemp>,
+    <http://semantics.id/ns/example#Nick%20Nevern>, <http://semantics.id/ns/example#Rita%20Ramnani>,
+    <http://semantics.id/ns/example#Robert%20Englund>, <http://semantics.id/ns/example#Sarah%20Douglas>,
+    <http://semantics.id/ns/example#Simon%20Phillips>, <http://semantics.id/ns/example#Steven%20Berkoff>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Black%20%26%20Blue%20Films>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Comedy>, <http://semantics.id/ns/example/movie#Crime>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Jonathan%20Glendening>;
+  <http://semantics.id/ns/example/movie#hasRating> 3.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Pat%20Higgins>,
+    <http://semantics.id/ns/example#Phillip%20Barron>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#UK>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Strippers vs Werewolves"@en .
+
+<http://semantics.id/ns/example#movie_tt1700494> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Burhan%20Ã–Ã§al>,
+    <http://semantics.id/ns/example#Durul%20Bazan>, <http://semantics.id/ns/example#Erdal%20Tosun>,
+    <http://semantics.id/ns/example#Erdem%20AkakÃ§e>, <http://semantics.id/ns/example#Kadir%20Ã‡Ã¶pdemir>,
+    <http://semantics.id/ns/example#Levent%20Ãœlgen>, <http://semantics.id/ns/example#Levent%20Ã–zdilek>,
+    <http://semantics.id/ns/example#Metin%20Belgin>, <http://semantics.id/ns/example#Oya%20Aydogan>,
+    <http://semantics.id/ns/example#Peker%20AÃ§ikalin>, <http://semantics.id/ns/example#Ruhi%20Sari>,
+    <http://semantics.id/ns/example#Timur%20Acar>, <http://semantics.id/ns/example#Tuba%20Ãœnsal>,
+    <http://semantics.id/ns/example#Zeynep%20Beserler>, <http://semantics.id/ns/example#Ã–nder%20K.%20AÃ§ikbas>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Avsar%20Film>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Action>,
+    <http://semantics.id/ns/example/movie#Adventure>, <http://semantics.id/ns/example/movie#Comedy>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Murat%20Aslan>;
+  <http://semantics.id/ns/example/movie#hasRating> 2.8;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Murat%20Aslan>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Turkey>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "TÃ¼rkler Cildirmis Olmali"@en .
+
+<http://semantics.id/ns/example#movie_tt1708498> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Aleksandra%20Poplawska>,
+    <http://semantics.id/ns/example#Anna%20Maria%20Buczek>, <http://semantics.id/ns/example#Artur%20Zawadzki>,
+    <http://semantics.id/ns/example#Cezary%20Kosinski>, <http://semantics.id/ns/example#Dominika%20Ostalowska>,
+    <http://semantics.id/ns/example#Ewa%20Zietek>, <http://semantics.id/ns/example#Marcin%20Sztabinski>,
+    <http://semantics.id/ns/example#Michal%20Koterski>, <http://semantics.id/ns/example#Pawel%20Burczyk>,
+    <http://semantics.id/ns/example#Pawel%20KrÃ³likowski>, <http://semantics.id/ns/example#Tomasz%20Karolak>,
+    <http://semantics.id/ns/example#Zbigniew%20Zamachowski>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#ITI%20Cinema>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Comedy>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Adam%20Dobrzycki>;
+  <http://semantics.id/ns/example/movie#hasRating> 2.7;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Adam%20Dobrzycki>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Poland>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Projekt dziecko, czyli ojciec potrzebny od zaraz"@en .
+
+<http://semantics.id/ns/example#movie_tt1704201> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#Amanda%20Beck>,
+    <http://semantics.id/ns/example#Bianca%20Holland>, <http://semantics.id/ns/example#Bjorn%20Jiskoot%20Jr.>,
+    <http://semantics.id/ns/example#Camille%20Balsamo>, <http://semantics.id/ns/example#Carrie%20Carnes>,
+    <http://semantics.id/ns/example#Dan%20Gill>, <http://semantics.id/ns/example#Isle%20Gallagher>,
+    <http://semantics.id/ns/example#James%20Dean%20LucÃ©>, <http://semantics.id/ns/example#James%20Garcia>,
+    <http://semantics.id/ns/example#Julie%20Anne%20Prescott>, <http://semantics.id/ns/example#Marcus%20Jordan>,
+    <http://semantics.id/ns/example#Margarita%20Neusheva>, <http://semantics.id/ns/example#Miguel%20de%20la%20Rosa>,
+    <http://semantics.id/ns/example#Stephanie%20Mir>, <http://semantics.id/ns/example#Timothy%20Martin>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Still%20Night%20Monster%20Movies>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Horror>,
+    <http://semantics.id/ns/example/movie#Sci-Fi>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Timothy%20Martin>;
+  <http://semantics.id/ns/example/movie#hasRating> 2.1;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Timothy%20Martin>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#USA>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Parasitic"@en .
+
+<http://semantics.id/ns/example#movie_tt1705790> a <http://semantics.id/ns/example/movie#Movie>;
+  <http://semantics.id/ns/example/movie#hasActor> <http://semantics.id/ns/example#AnnaLee%20Dorazio>,
+    <http://semantics.id/ns/example#Anniken%20Mjelde%20Sjo>, <http://semantics.id/ns/example#Aurora%20Huseth%20BjÃ¸rnhaug>,
+    <http://semantics.id/ns/example#Dagrun%20Anholt>, <http://semantics.id/ns/example#Heidi%20Ã˜degaard%20Mikkelsen>,
+    <http://semantics.id/ns/example#Irris%20Hollanes%20Lua>, <http://semantics.id/ns/example#JÃ¸rgen%20Langhelle>,
+    <http://semantics.id/ns/example#Kim%20SÃ¸nderholm>, <http://semantics.id/ns/example#Linn%20Cathrine%20SonflÃ¥>,
+    <http://semantics.id/ns/example#Lisa%20Barsten>, <http://semantics.id/ns/example#Susanne%20Estelle>,
+    <http://semantics.id/ns/example#Therese%20Kruge>, <http://semantics.id/ns/example#Torgrim%20Ã˜degÃ¥rd>,
+    <http://semantics.id/ns/example#Vegar%20Hoel>, <http://semantics.id/ns/example#Viktoria%20Winge>;
+  <http://semantics.id/ns/example/movie#hasFilmStudio> <http://semantics.id/ns/example#Kiil%20Produksjons>;
+  <http://semantics.id/ns/example/movie#hasGenre> <http://semantics.id/ns/example/movie#Horror>;
+  <http://semantics.id/ns/example/movie#hasMovieDirector> <http://semantics.id/ns/example#Reinert%20Kiil>;
+  <http://semantics.id/ns/example/movie#hasRating> 2.0;
+  <http://semantics.id/ns/example/movie#hasWriter> <http://semantics.id/ns/example#Reinert%20Kiil>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Norway>;
+  <http://semantics.id/ns/example/movie#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Inside the Whore"@en .

@@ -1,0 +1,55 @@
+@prefix rml: 	<http://semweb.mmlab.be/ns/rml#> .
+@prefix carml:  <http://carml.taxonic.com/carml/> .
+@prefix rr: 	<http://www.w3.org/ns/r2rml#> .
+@prefix ql: 	<http://semweb.mmlab.be/ns/ql#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: 	<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix : 		<http://semantics.id/ns/example/movie#> .
+@prefix ex: 	<http://semantics.id/ns/example#> .
+
+<#CountryMappingDetails>
+    rml:logicalSource [
+        rml:source [ a carml:Stream; ];
+        rml:referenceFormulation ql:JSONPath;
+        rml:iterator "$.results.[*]";
+    ];
+    
+    rr:subjectMap [
+        rr:template "http://semantics.id/ns/example#{name}";
+        rr:class :Location;
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate rdfs:label;
+        rr:objectMap [
+            rml:reference "name";
+            rr:datatype xsd:string;
+            rr:language "en";
+        ];
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate :capital;
+        rr:objectMap [
+            rml:reference "capital";
+            rr:datatype xsd:string;
+            rr:language "en";
+        ];
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate :currency;
+        rr:objectMap [
+            rml:reference "currency";
+            rr:datatype xsd:string;
+        ];
+    ];
+    
+    rr:predicateObjectMap [
+        rr:predicate :code;
+        rr:objectMap [
+            rml:reference "code";
+            rr:datatype xsd:string;
+        ];
+    ];
+.

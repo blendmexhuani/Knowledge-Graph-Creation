@@ -1,0 +1,72 @@
+
+<http://semantics.id/ns/example/movie#Action> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Action"@en .
+
+<http://semantics.id/ns/example/movie#Adult> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Adult"@en .
+
+<http://semantics.id/ns/example/movie#Adventure> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Adventure"@en .
+
+<http://semantics.id/ns/example/movie#Animation> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Animation"@en .
+
+<http://semantics.id/ns/example/movie#Biography> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Biography"@en .
+
+<http://semantics.id/ns/example/movie#Comedy> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Comedy"@en .
+
+<http://semantics.id/ns/example/movie#Crime> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Crime"@en .
+
+<http://semantics.id/ns/example/movie#Documentary> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Documentary"@en .
+
+<http://semantics.id/ns/example/movie#Drama> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Drama"@en .
+
+<http://semantics.id/ns/example/movie#Family> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Family"@en .
+
+<http://semantics.id/ns/example/movie#Fantasy> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fantasy"@en .
+
+<http://semantics.id/ns/example/movie#FilmNoir> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "FilmNoir"@en .
+
+<http://semantics.id/ns/example/movie#History> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "History"@en .
+
+<http://semantics.id/ns/example/movie#Horror> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Horror"@en .
+
+<http://semantics.id/ns/example/movie#Music> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Music"@en .
+
+<http://semantics.id/ns/example/movie#Musical> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Musical"@en .
+
+<http://semantics.id/ns/example/movie#Mystery> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mystery"@en .
+
+<http://semantics.id/ns/example/movie#News> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "News"@en .
+
+<http://semantics.id/ns/example/movie#Romance> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Romance"@en .
+
+<http://semantics.id/ns/example/movie#Sci-Fi> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sci-Fi"@en .
+
+<http://semantics.id/ns/example/movie#Sport> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sport"@en .
+
+<http://semantics.id/ns/example/movie#Thriller> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Thriller"@en .
+
+<http://semantics.id/ns/example/movie#War> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "War"@en .
+
+<http://semantics.id/ns/example/movie#Western> a <http://semantics.id/ns/example/movie#Genre>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Western"@en .

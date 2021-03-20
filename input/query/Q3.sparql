@@ -1,0 +1,7 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX : <http://semantics.id/ns/example/movie#>
+CONSTRUCT { ?writer :wrote ?movie . }
+WHERE { ?movie rdf:type :Movie ;
+               :hasWriter ?writer .
+    	?writer rdf:type :Writer .
+}

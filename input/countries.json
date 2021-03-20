@@ -1,0 +1,6254 @@
+{
+  "results": [
+    {
+      "objectId": "MEzedNnNVw",
+      "code": "AF",
+      "name": "Afghanistan",
+      "capital": "Kabul",
+      "currency": "AFN",
+      "createdAt": "2019-12-09T21:05:12.106Z",
+      "updatedAt": "2020-04-13T18:17:02.862Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "8rTBsf4ObQ",
+      "code": "AL",
+      "name": "Albania",
+      "capital": "Tirana",
+      "currency": "ALL",
+      "createdAt": "2019-12-09T21:05:41.230Z",
+      "updatedAt": "2020-04-13T18:16:50.179Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "8XKDe93BnC",
+      "code": "DZ",
+      "name": "Algeria",
+      "capital": "Algiers",
+      "currency": "DZD",
+      "createdAt": "2019-12-09T22:27:07.301Z",
+      "updatedAt": "2020-04-13T18:18:07.109Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "s6ejWUPV5j",
+      "code": "AS",
+      "name": "American Samoa",
+      "capital": "Pago Pago",
+      "currency": "USD",
+      "createdAt": "2019-12-09T21:07:10.026Z",
+      "updatedAt": "2020-04-13T17:40:46.208Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "sv7fjDVISU",
+      "code": "AD",
+      "name": "Andorra",
+      "capital": "Andorra la Vella",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T21:04:54.350Z",
+      "updatedAt": "2020-04-13T18:18:18.830Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "khAszEtDXl",
+      "code": "AO",
+      "name": "Angola",
+      "capital": "Luanda",
+      "currency": "AOA",
+      "createdAt": "2019-12-09T21:06:12.646Z",
+      "updatedAt": "2020-04-13T18:18:30.353Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "8iGu4upB6j",
+      "code": "AI",
+      "name": "Anguilla",
+      "capital": "The Valley",
+      "currency": "XCD",
+      "createdAt": "2019-12-09T21:05:33.770Z",
+      "updatedAt": "2020-04-13T18:18:48.679Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "Fs3xs9NlJa",
+      "code": "AQ",
+      "name": "Antarctica",
+      "capital": "",
+      "currency": "",
+      "createdAt": "2019-12-09T21:06:19.618Z",
+      "updatedAt": "2020-04-13T18:19:28.061Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "I8RkNYNHa4",
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "capital": "Saint John's",
+      "currency": "XCD",
+      "createdAt": "2019-12-09T21:05:26.074Z",
+      "updatedAt": "2020-04-13T18:18:51.519Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "emj7gm2L4O",
+      "code": "AR",
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "currency": "ARS",
+      "createdAt": "2019-12-09T21:06:29.227Z",
+      "updatedAt": "2020-04-13T18:19:08.662Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "hVs5HyPvID",
+      "code": "AM",
+      "name": "Armenia",
+      "capital": "Yerevan",
+      "currency": "AMD",
+      "createdAt": "2019-12-09T21:05:58.302Z",
+      "updatedAt": "2020-04-13T18:16:21.418Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "qCMlm28jY0",
+      "code": "AW",
+      "name": "Aruba",
+      "capital": "Oranjestad",
+      "currency": "AWG",
+      "createdAt": "2019-12-09T21:11:06.602Z",
+      "updatedAt": "2020-04-13T18:18:53.614Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "8lauBzPLI5",
+      "code": "AU",
+      "name": "Australia",
+      "capital": "Canberra",
+      "currency": "AUD",
+      "createdAt": "2019-12-09T21:08:46.550Z",
+      "updatedAt": "2020-04-13T18:17:35.397Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "sbCG0KlS9w",
+      "code": "AT",
+      "name": "Austria",
+      "capital": "Vienna",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T21:07:17.554Z",
+      "updatedAt": "2020-04-13T18:18:13.541Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "mDMzJJXtB2",
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "capital": "Baku",
+      "currency": "AZN",
+      "createdAt": "2019-12-09T21:11:24.026Z",
+      "updatedAt": "2020-04-13T18:16:40.965Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "5xyA61UG1h",
+      "code": "BS",
+      "name": "Bahamas",
+      "capital": "Nassau",
+      "currency": "BSD",
+      "createdAt": "2019-12-09T21:18:50.104Z",
+      "updatedAt": "2020-04-13T18:18:47.281Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "gXKD3sCcJI",
+      "code": "BH",
+      "name": "Bahrain",
+      "capital": "Manama",
+      "currency": "BHD",
+      "createdAt": "2019-12-09T21:13:49.022Z",
+      "updatedAt": "2020-04-13T18:16:30.086Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "AWnxgoUzw0",
+      "code": "BD",
+      "name": "Bangladesh",
+      "capital": "Dhaka",
+      "currency": "BDT",
+      "createdAt": "2019-12-09T21:12:11.166Z",
+      "updatedAt": "2020-04-13T18:17:04.446Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "27DB6uofpp",
+      "code": "BB",
+      "name": "Barbados",
+      "capital": "Bridgetown",
+      "currency": "BBD",
+      "createdAt": "2019-12-09T21:12:02.920Z",
+      "updatedAt": "2020-04-13T18:18:33.149Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "5oTW0cNpxA",
+      "code": "BY",
+      "name": "Belarus",
+      "capital": "Minsk",
+      "currency": "BYN",
+      "createdAt": "2019-12-09T21:19:35.126Z",
+      "updatedAt": "2020-04-13T18:16:44.774Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "TySeDEiFtc",
+      "code": "BE",
+      "name": "Belgium",
+      "capital": "Brussels",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T21:12:27.969Z",
+      "updatedAt": "2020-04-13T18:18:14.284Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "v9SGqANrU2",
+      "code": "BZ",
+      "name": "Belize",
+      "capital": "Belmopan",
+      "currency": "BZD",
+      "createdAt": "2019-12-09T21:20:00.398Z",
+      "updatedAt": "2020-04-13T18:18:59.892Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "zVrvUTYEeC",
+      "code": "BJ",
+      "name": "Benin",
+      "capital": "Porto-Novo",
+      "currency": "XOF",
+      "createdAt": "2019-12-09T21:14:06.575Z",
+      "updatedAt": "2020-04-13T18:17:56.261Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "nj3z9SHzzq",
+      "code": "BM",
+      "name": "Bermuda",
+      "capital": "Hamilton",
+      "currency": "BMD",
+      "createdAt": "2019-12-09T21:14:23.815Z",
+      "updatedAt": "2020-04-13T18:18:47.986Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "ZvhrzA2APU",
+      "code": "BT",
+      "name": "Bhutan",
+      "capital": "Thimphu",
+      "currency": "BTN,INR",
+      "createdAt": "2019-12-09T21:18:59.690Z",
+      "updatedAt": "2020-04-13T18:17:07.597Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "PdgGA5Y5Tt",
+      "code": "BO",
+      "name": "Bolivia",
+      "capital": "Sucre",
+      "currency": "BOB,BOV",
+      "createdAt": "2019-12-09T21:14:43.110Z",
+      "updatedAt": "2020-04-13T18:19:10.703Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "lP9UmD2WgK",
+      "code": "BQ",
+      "name": "Bonaire",
+      "capital": "Kralendijk",
+      "currency": "USD",
+      "createdAt": "2019-12-09T21:14:55.831Z",
+      "updatedAt": "2020-04-13T18:19:30.197Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "OWstcXnnAs",
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "currency": "BAM",
+      "createdAt": "2019-12-09T21:11:42.389Z",
+      "updatedAt": "2020-04-13T18:18:29.313Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "9l8d95idZG",
+      "code": "BW",
+      "name": "Botswana",
+      "capital": "Gaborone",
+      "currency": "BWP",
+      "createdAt": "2019-12-09T21:19:19.936Z",
+      "updatedAt": "2020-04-13T18:16:56.838Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "3K9cHA3Xp8",
+      "code": "BV",
+      "name": "Bouvet Island",
+      "capital": "",
+      "currency": "NOK",
+      "createdAt": "2019-12-09T21:19:12.547Z",
+      "updatedAt": "2020-04-13T18:18:32.464Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "qq2ryXaIYG",
+      "code": "BR",
+      "name": "Brazil",
+      "capital": "Brasília",
+      "currency": "BRL",
+      "createdAt": "2019-12-09T21:15:03.703Z",
+      "updatedAt": "2020-04-13T18:18:40.930Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "WUeznxS4oA",
+      "code": "IO",
+      "name": "British Indian Ocean Territory",
+      "capital": "Diego Garcia",
+      "currency": "USD",
+      "createdAt": "2019-12-10T05:03:30.116Z",
+      "updatedAt": "2020-04-13T18:17:09.977Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "mNiifJ3CK4",
+      "code": "VG",
+      "name": "British Virgin Islands",
+      "capital": "Road Town",
+      "currency": "USD",
+      "createdAt": "2019-12-12T01:39:58.035Z",
+      "updatedAt": "2020-04-13T18:18:54.307Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "W1DBYJ0DT4",
+      "code": "BN",
+      "name": "Brunei",
+      "capital": "Bandar Seri Begawan",
+      "currency": "BND",
+      "createdAt": "2019-12-09T21:14:32.095Z",
+      "updatedAt": "2020-04-13T18:17:25.461Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "LHOE9MSsmI",
+      "code": "BG",
+      "name": "Bulgaria",
+      "capital": "Sofia",
+      "currency": "BGN",
+      "createdAt": "2019-12-09T21:13:24.159Z",
+      "updatedAt": "2020-04-13T18:16:49.432Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "buIC80yx3R",
+      "code": "BF",
+      "name": "Burkina Faso",
+      "capital": "Ouagadougou",
+      "currency": "XOF",
+      "createdAt": "2019-12-09T21:13:14.334Z",
+      "updatedAt": "2020-04-13T18:17:53.159Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "qEgnSc4sip",
+      "code": "BI",
+      "name": "Burundi",
+      "capital": "Bujumbura",
+      "currency": "BIF",
+      "createdAt": "2019-12-09T21:13:58.266Z",
+      "updatedAt": "2020-04-13T18:16:38.737Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "EpBnGVkBLF",
+      "code": "KH",
+      "name": "Cambodia",
+      "capital": "Phnom Penh",
+      "currency": "KHR",
+      "createdAt": "2019-12-10T09:59:03.551Z",
+      "updatedAt": "2020-04-13T18:17:26.874Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "pUFZ2RIIvG",
+      "code": "CM",
+      "name": "Cameroon",
+      "capital": "Yaoundé",
+      "currency": "XAF",
+      "createdAt": "2019-12-09T21:27:09.818Z",
+      "updatedAt": "2020-04-13T18:17:46.490Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "mTtBWeeHCo",
+      "code": "CA",
+      "name": "Canada",
+      "capital": "Ottawa",
+      "currency": "CAD",
+      "createdAt": "2019-12-09T21:20:10.062Z",
+      "updatedAt": "2020-04-13T18:19:24.219Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "LrFc6CEfje",
+      "code": "CV",
+      "name": "Cape Verde",
+      "capital": "Praia",
+      "currency": "CVE",
+      "createdAt": "2019-12-09T21:40:38.218Z",
+      "updatedAt": "2020-04-13T18:18:33.863Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "4lgb4MnCu4",
+      "code": "KY",
+      "name": "Cayman Islands",
+      "capital": "George Town",
+      "currency": "KYD",
+      "createdAt": "2019-12-10T10:03:23.665Z",
+      "updatedAt": "2020-04-13T18:18:59.150Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "CAFBhOmYoF",
+      "code": "CF",
+      "name": "Central African Republic",
+      "capital": "Bangui",
+      "currency": "XAF",
+      "createdAt": "2019-12-09T21:22:24.154Z",
+      "updatedAt": "2020-04-13T18:16:25.165Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "8lQ5LYAawJ",
+      "code": "TD",
+      "name": "Chad",
+      "capital": "N'Djamena",
+      "currency": "XAF",
+      "createdAt": "2019-12-11T05:05:05.862Z",
+      "updatedAt": "2020-04-13T18:18:01.209Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "dnDRHIFqGe",
+      "code": "CL",
+      "name": "Chile",
+      "capital": "Santiago",
+      "currency": "CLF,CLP",
+      "createdAt": "2019-12-09T21:26:50.747Z",
+      "updatedAt": "2020-04-13T18:19:09.933Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "jPsWdF78Gn",
+      "code": "CN",
+      "name": "China",
+      "capital": "Beijing",
+      "currency": "CNY",
+      "createdAt": "2019-12-09T21:27:25.283Z",
+      "updatedAt": "2020-04-13T18:17:24.023Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "8tlFatlW3B",
+      "code": "CX",
+      "name": "Christmas Island",
+      "capital": "Flying Fish Cove",
+      "currency": "AUD",
+      "createdAt": "2019-12-09T21:40:59.882Z",
+      "updatedAt": "2020-04-13T18:17:36.100Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "Ovzp6Ca4tr",
+      "code": "CC",
+      "name": "Cocos [Keeling] Islands",
+      "capital": "West Island",
+      "currency": "AUD",
+      "createdAt": "2019-12-09T21:21:56.158Z",
+      "updatedAt": "2020-04-13T18:17:16.154Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "R3I0XpBMHj",
+      "code": "CO",
+      "name": "Colombia",
+      "capital": "Bogotá",
+      "currency": "COP",
+      "createdAt": "2019-12-09T21:36:51.935Z",
+      "updatedAt": "2020-04-13T18:19:06.158Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "SJvwuMEme7",
+      "code": "KM",
+      "name": "Comoros",
+      "capital": "Moroni",
+      "currency": "KMF",
+      "createdAt": "2019-12-10T10:00:11.660Z",
+      "updatedAt": "2020-04-13T18:16:54.743Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "2Icy8PIAyj",
+      "code": "CK",
+      "name": "Cook Islands",
+      "capital": "Avarua",
+      "currency": "NZD",
+      "createdAt": "2019-12-09T21:26:42.258Z",
+      "updatedAt": "2020-04-13T18:17:31.372Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "CcOW7twmeX",
+      "code": "CR",
+      "name": "Costa Rica",
+      "capital": "San José",
+      "currency": "CRC",
+      "createdAt": "2019-12-09T21:39:58.102Z",
+      "updatedAt": "2020-04-13T18:19:03.675Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "uj5JYO5BE3",
+      "code": "HR",
+      "name": "Croatia",
+      "capital": "Zagreb",
+      "currency": "HRK",
+      "createdAt": "2019-12-10T02:54:49.610Z",
+      "updatedAt": "2020-04-13T18:18:28.566Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "YNRVNxzcFx",
+      "code": "CU",
+      "name": "Cuba",
+      "capital": "Havana",
+      "currency": "CUC,CUP",
+      "createdAt": "2019-12-09T21:40:14.874Z",
+      "updatedAt": "2020-04-13T18:18:45.673Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "6RJs1GA7WP",
+      "code": "CW",
+      "name": "Curacao",
+      "capital": "Willemstad",
+      "currency": "ANG",
+      "createdAt": "2019-12-09T21:40:50.905Z",
+      "updatedAt": "2020-04-13T18:19:29.485Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "1KRscl4VTZ",
+      "code": "CY",
+      "name": "Cyprus",
+      "capital": "Nicosia",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T21:41:11.611Z",
+      "updatedAt": "2020-04-13T18:16:19.209Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "FIdcKBVyI3",
+      "code": "CZ",
+      "name": "Czech Republic",
+      "capital": "Prague",
+      "currency": "CZK",
+      "createdAt": "2019-12-09T21:41:26.966Z",
+      "updatedAt": "2020-04-13T18:18:23.098Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "7UlxnC5LyT",
+      "code": "CD",
+      "name": "Democratic Republic of the Congo",
+      "capital": "Kinshasa",
+      "currency": "CDF",
+      "createdAt": "2019-12-09T21:22:11.038Z",
+      "updatedAt": "2020-04-13T18:16:22.911Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "3SYcv5XaFE",
+      "code": "DK",
+      "name": "Denmark",
+      "capital": "Copenhagen",
+      "currency": "DKK",
+      "createdAt": "2019-12-09T22:24:54.618Z",
+      "updatedAt": "2020-04-13T18:18:08.641Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "DKDsqKRrNW",
+      "code": "DJ",
+      "name": "Djibouti",
+      "capital": "Djibouti",
+      "currency": "DJF",
+      "createdAt": "2019-12-09T22:24:45.915Z",
+      "updatedAt": "2020-04-13T18:16:23.738Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "K9EoQTanO6",
+      "code": "DM",
+      "name": "Dominica",
+      "capital": "Roseau",
+      "currency": "XCD",
+      "createdAt": "2019-12-09T22:26:19.590Z",
+      "updatedAt": "2020-04-13T18:18:50.786Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "BkDVxFnLbN",
+      "code": "DO",
+      "name": "Dominican Republic",
+      "capital": "Santo Domingo",
+      "currency": "DOP",
+      "createdAt": "2019-12-09T22:26:28.078Z",
+      "updatedAt": "2020-04-13T18:18:44.733Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "uy6B519CzE",
+      "code": "TL",
+      "name": "East Timor",
+      "capital": "Dili",
+      "currency": "USD",
+      "createdAt": "2019-12-11T05:37:12.566Z",
+      "updatedAt": "2020-04-13T18:17:32.052Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "w42L24Frj9",
+      "code": "EC",
+      "name": "Ecuador",
+      "capital": "Quito",
+      "currency": "USD",
+      "createdAt": "2019-12-09T22:28:15.226Z",
+      "updatedAt": "2020-04-13T18:19:05.368Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "hFkwjKITta",
+      "code": "EG",
+      "name": "Egypt",
+      "capital": "Cairo",
+      "currency": "EGP",
+      "createdAt": "2019-12-09T22:29:19.470Z",
+      "updatedAt": "2020-04-13T18:16:36.336Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "neXLLQcOcE",
+      "code": "SV",
+      "name": "El Salvador",
+      "capital": "San Salvador",
+      "currency": "SVC,USD",
+      "createdAt": "2019-12-11T04:58:09.831Z",
+      "updatedAt": "2020-04-13T18:19:00.600Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "hzdCZRHhIY",
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "capital": "Malabo",
+      "currency": "XAF",
+      "createdAt": "2019-12-10T02:27:13.794Z",
+      "updatedAt": "2020-04-13T18:17:51.702Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "rVI3whtxQX",
+      "code": "ER",
+      "name": "Eritrea",
+      "capital": "Asmara",
+      "currency": "ERN",
+      "createdAt": "2019-12-09T22:29:57.030Z",
+      "updatedAt": "2020-04-13T18:16:35.575Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "kGAoZ5pH7T",
+      "code": "EE",
+      "name": "Estonia",
+      "capital": "Tallinn",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T22:28:37.002Z",
+      "updatedAt": "2020-04-13T18:16:39.531Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "RG4CMN42m1",
+      "code": "ET",
+      "name": "Ethiopia",
+      "capital": "Addis Ababa",
+      "currency": "ETB",
+      "createdAt": "2019-12-09T23:37:54.810Z",
+      "updatedAt": "2020-04-13T18:16:34.783Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "xoqwbHS99Z",
+      "code": "FK",
+      "name": "Falkland Islands",
+      "capital": "Stanley",
+      "currency": "FKP",
+      "createdAt": "2019-12-09T23:41:49.057Z",
+      "updatedAt": "2020-04-13T18:18:42.187Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "D1Tu0ghkZ3",
+      "code": "FO",
+      "name": "Faroe Islands",
+      "capital": "Tórshavn",
+      "currency": "DKK",
+      "createdAt": "2019-12-09T23:42:09.428Z",
+      "updatedAt": "2020-04-13T18:18:07.803Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "0iYnsd3adu",
+      "code": "FJ",
+      "name": "Fiji",
+      "capital": "Suva",
+      "currency": "FJD",
+      "createdAt": "2019-12-09T23:41:41.232Z",
+      "updatedAt": "2020-04-13T18:17:45.075Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "nfHDWPtgDF",
+      "code": "FI",
+      "name": "Finland",
+      "capital": "Helsinki",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T23:38:19.514Z",
+      "updatedAt": "2020-04-13T18:16:45.821Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "vBQFvgbzPX",
+      "code": "FR",
+      "name": "France",
+      "capital": "Paris",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T23:42:17.814Z",
+      "updatedAt": "2020-04-13T18:18:18.133Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "0FjIYpVd8h",
+      "code": "GF",
+      "name": "French Guiana",
+      "capital": "Cayenne",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T02:25:34.486Z",
+      "updatedAt": "2020-04-13T18:18:35.402Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "Ms1BrT4Gl8",
+      "code": "PF",
+      "name": "French Polynesia",
+      "capital": "Papeetē",
+      "currency": "XPF",
+      "createdAt": "2019-12-10T15:08:41.209Z",
+      "updatedAt": "2020-04-13T18:19:13.307Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "9yGMMYfLDC",
+      "code": "TF",
+      "name": "French Southern Territories",
+      "capital": "Port-aux-Français",
+      "currency": "EUR",
+      "createdAt": "2019-12-11T05:05:28.816Z",
+      "updatedAt": "2020-04-13T18:17:14.736Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "2aC5hV2kfd",
+      "code": "GA",
+      "name": "Gabon",
+      "capital": "Libreville",
+      "currency": "XAF",
+      "createdAt": "2019-12-10T01:22:22.862Z",
+      "updatedAt": "2020-04-13T18:17:56.964Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "DGGLf2Q1tS",
+      "code": "GM",
+      "name": "Gambia",
+      "capital": "Banjul",
+      "currency": "GMD",
+      "createdAt": "2019-12-10T02:26:29.222Z",
+      "updatedAt": "2020-04-13T18:17:59.790Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "J7QoCukbse",
+      "code": "GE",
+      "name": "Georgia",
+      "capital": "Tbilisi",
+      "currency": "GEL",
+      "createdAt": "2019-12-10T02:25:03.242Z",
+      "updatedAt": "2020-04-13T18:16:43.236Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "cXVjaWqsnY",
+      "code": "DE",
+      "name": "Germany",
+      "capital": "Berlin",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T21:45:53.198Z",
+      "updatedAt": "2020-04-13T18:18:15.035Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "vCIN9WyEHn",
+      "code": "GH",
+      "name": "Ghana",
+      "capital": "Accra",
+      "currency": "GHS",
+      "createdAt": "2019-12-10T02:25:53.234Z",
+      "updatedAt": "2020-04-13T18:17:50.977Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "usW9VKCd8N",
+      "code": "GI",
+      "name": "Gibraltar",
+      "capital": "Gibraltar",
+      "currency": "GIP",
+      "createdAt": "2019-12-10T02:26:12.517Z",
+      "updatedAt": "2020-04-13T18:17:59.115Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "zuCmaUX1g9",
+      "code": "GR",
+      "name": "Greece",
+      "capital": "Athens",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T02:27:24.090Z",
+      "updatedAt": "2020-04-13T18:16:38.017Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "S3kieBKF1Q",
+      "code": "GL",
+      "name": "Greenland",
+      "capital": "Nuuk",
+      "currency": "DKK",
+      "createdAt": "2019-12-10T02:26:20.066Z",
+      "updatedAt": "2020-04-13T18:18:38.191Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "8DHNNAHDXI",
+      "code": "GD",
+      "name": "Grenada",
+      "capital": "St. George's",
+      "currency": "XCD",
+      "createdAt": "2019-12-10T02:24:55.146Z",
+      "updatedAt": "2020-04-13T18:18:58.431Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "j5lw2HxbXZ",
+      "code": "GP",
+      "name": "Guadeloupe",
+      "capital": "Basse-Terre",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T02:27:02.366Z",
+      "updatedAt": "2020-04-13T18:18:57.753Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "E1fDBUFjuu",
+      "code": "GU",
+      "name": "Guam",
+      "capital": "Hagåtña",
+      "currency": "USD",
+      "createdAt": "2019-12-10T02:48:04.490Z",
+      "updatedAt": "2020-04-13T18:19:19.888Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "Rkb0Ji6GtG",
+      "code": "GT",
+      "name": "Guatemala",
+      "capital": "Guatemala City",
+      "currency": "GTQ",
+      "createdAt": "2019-12-10T02:45:25.674Z",
+      "updatedAt": "2020-04-13T18:19:01.291Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "k96wKD7ZpG",
+      "code": "GG",
+      "name": "Guernsey",
+      "capital": "St. Peter Port",
+      "currency": "GBP",
+      "createdAt": "2019-12-10T02:25:44.932Z",
+      "updatedAt": "2020-04-13T18:18:21.608Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "l2E7bFn2O6",
+      "code": "GN",
+      "name": "Guinea",
+      "capital": "Conakry",
+      "currency": "GNF",
+      "createdAt": "2019-12-10T02:26:49.782Z",
+      "updatedAt": "2020-04-13T18:18:00.519Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "HhLTUnF1fz",
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "capital": "Bissau",
+      "currency": "XOF",
+      "createdAt": "2019-12-10T02:48:14.109Z",
+      "updatedAt": "2020-04-13T18:17:54.560Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "uyLj6RP9AZ",
+      "code": "GY",
+      "name": "Guyana",
+      "capital": "Georgetown",
+      "currency": "GYD",
+      "createdAt": "2019-12-10T02:48:22.639Z",
+      "updatedAt": "2020-04-13T18:18:34.716Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "QLFfURjWpu",
+      "code": "HT",
+      "name": "Haiti",
+      "capital": "Port-au-Prince",
+      "currency": "HTG,USD",
+      "createdAt": "2019-12-10T03:04:31.338Z",
+      "updatedAt": "2020-04-13T18:19:07.758Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "obivyMu1QI",
+      "code": "HM",
+      "name": "Heard Island and McDonald Islands",
+      "capital": "",
+      "currency": "AUD",
+      "createdAt": "2019-12-10T02:48:42.334Z",
+      "updatedAt": "2020-04-13T18:17:15.431Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "pM1H87l6Bm",
+      "code": "HN",
+      "name": "Honduras",
+      "capital": "Tegucigalpa",
+      "currency": "HNL",
+      "createdAt": "2019-12-10T02:48:47.746Z",
+      "updatedAt": "2020-04-13T18:19:02.066Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "KtRJin3dy9",
+      "code": "HK",
+      "name": "Hong Kong",
+      "capital": "City of Victoria",
+      "currency": "HKD",
+      "createdAt": "2019-12-10T02:48:33.066Z",
+      "updatedAt": "2020-04-13T18:17:24.729Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "f5WB3Ij653",
+      "code": "HU",
+      "name": "Hungary",
+      "capital": "Budapest",
+      "currency": "HUF",
+      "createdAt": "2019-12-10T03:05:00.842Z",
+      "updatedAt": "2020-04-13T18:16:48.761Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "5VTtzmVSWN",
+      "code": "IS",
+      "name": "Iceland",
+      "capital": "Reykjavik",
+      "currency": "ISK",
+      "createdAt": "2019-12-10T05:11:02.318Z",
+      "updatedAt": "2020-04-13T18:18:09.511Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "DlHQBjd2Ke",
+      "code": "IN",
+      "name": "India",
+      "capital": "New Delhi",
+      "currency": "INR",
+      "createdAt": "2019-12-10T03:49:44.431Z",
+      "updatedAt": "2020-04-13T18:17:08.498Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "pOykqMaxZB",
+      "code": "ID",
+      "name": "Indonesia",
+      "capital": "Jakarta",
+      "currency": "IDR",
+      "createdAt": "2019-12-10T03:16:27.362Z",
+      "updatedAt": "2020-04-13T18:17:19.667Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "wv4OCjRaNi",
+      "code": "IR",
+      "name": "Iran",
+      "capital": "Tehran",
+      "currency": "IRR",
+      "createdAt": "2019-12-10T05:04:27.310Z",
+      "updatedAt": "2020-04-13T18:16:18.503Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "nvhpnKO5rE",
+      "code": "IQ",
+      "name": "Iraq",
+      "capital": "Baghdad",
+      "currency": "IQD",
+      "createdAt": "2019-12-10T05:03:36.781Z",
+      "updatedAt": "2020-04-13T18:16:16.883Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "FSUOeNw5vK",
+      "code": "IE",
+      "name": "Ireland",
+      "capital": "Dublin",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T03:44:34.862Z",
+      "updatedAt": "2020-04-13T18:18:16.614Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "AheHxSBPbE",
+      "code": "IM",
+      "name": "Isle of Man",
+      "capital": "Douglas",
+      "currency": "GBP",
+      "createdAt": "2019-12-10T03:49:32.546Z",
+      "updatedAt": "2020-04-13T18:18:20.932Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "4lBFb6Wpq5",
+      "code": "IL",
+      "name": "Israel",
+      "capital": "Jerusalem",
+      "currency": "ILS",
+      "createdAt": "2019-12-10T03:48:36.810Z",
+      "updatedAt": "2020-04-13T18:16:31.555Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "hOu7Is3jvO",
+      "code": "IT",
+      "name": "Italy",
+      "capital": "Rome",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T05:11:14.623Z",
+      "updatedAt": "2020-04-13T18:18:26.358Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "egoIFgkxC3",
+      "code": "CI",
+      "name": "Ivory Coast",
+      "capital": "Yamoussoukro",
+      "currency": "XOF",
+      "createdAt": "2019-12-09T21:26:29.475Z",
+      "updatedAt": "2020-04-13T18:17:50.259Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "iRCCJGZ3RJ",
+      "code": "JM",
+      "name": "Jamaica",
+      "capital": "Kingston",
+      "currency": "JMD",
+      "createdAt": "2019-12-10T09:31:39.550Z",
+      "updatedAt": "2020-04-13T18:18:43.998Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "UN9yBtQstI",
+      "code": "JP",
+      "name": "Japan",
+      "capital": "Tokyo",
+      "currency": "JPY",
+      "createdAt": "2019-12-10T09:33:03.466Z",
+      "updatedAt": "2020-04-13T18:17:28.831Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "cbmMpY1LjE",
+      "code": "JE",
+      "name": "Jersey",
+      "capital": "Saint Helier",
+      "currency": "GBP",
+      "createdAt": "2019-12-10T09:31:31.519Z",
+      "updatedAt": "2020-04-13T18:18:20.234Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "AVGAFwTSFb",
+      "code": "JO",
+      "name": "Jordan",
+      "capital": "Amman",
+      "currency": "JOD",
+      "createdAt": "2019-12-10T09:32:10.932Z",
+      "updatedAt": "2020-04-13T18:16:26.558Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "nRlkwMtWiB",
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "capital": "Astana",
+      "currency": "KZT",
+      "createdAt": "2019-12-10T10:03:33.126Z",
+      "updatedAt": "2020-04-13T18:17:13.250Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "hWGVevpYaK",
+      "code": "KE",
+      "name": "Kenya",
+      "capital": "Nairobi",
+      "currency": "KES",
+      "createdAt": "2019-12-10T09:57:45.474Z",
+      "updatedAt": "2020-04-13T18:16:22.158Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "qCcuxOqgkB",
+      "code": "KI",
+      "name": "Kiribati",
+      "capital": "South Tarawa",
+      "currency": "AUD",
+      "createdAt": "2019-12-10T10:00:00.150Z",
+      "updatedAt": "2020-04-13T18:19:14.807Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "IAwJVS7NjJ",
+      "code": "XK",
+      "name": "Kosovo",
+      "capital": "Pristina",
+      "currency": "EUR",
+      "createdAt": "2019-12-12T02:09:56.346Z",
+      "updatedAt": "2020-04-13T18:16:52.616Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "qlkgJorlNV",
+      "code": "KW",
+      "name": "Kuwait",
+      "capital": "Kuwait City",
+      "currency": "KWD",
+      "createdAt": "2019-12-10T10:03:11.882Z",
+      "updatedAt": "2020-04-13T18:16:27.922Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "KoZCNHDS5X",
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "capital": "Bishkek",
+      "currency": "KGS",
+      "createdAt": "2019-12-10T09:58:32.674Z",
+      "updatedAt": "2020-04-13T18:17:13.983Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "eaNpdUY6IC",
+      "code": "LA",
+      "name": "Laos",
+      "capital": "Vientiane",
+      "currency": "LAK",
+      "createdAt": "2019-12-10T10:07:35.338Z",
+      "updatedAt": "2020-04-13T18:17:20.430Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "SRLc1TCwHn",
+      "code": "LV",
+      "name": "Latvia",
+      "capital": "Riga",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T10:11:20.838Z",
+      "updatedAt": "2020-04-13T18:16:40.245Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "P2wZxWNxtr",
+      "code": "LB",
+      "name": "Lebanon",
+      "capital": "Beirut",
+      "currency": "LBP",
+      "createdAt": "2019-12-10T10:07:54.182Z",
+      "updatedAt": "2020-04-13T18:16:27.234Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "fl5yo1HfMR",
+      "code": "LS",
+      "name": "Lesotho",
+      "capital": "Maseru",
+      "currency": "LSL,ZAR",
+      "createdAt": "2019-12-10T10:09:06.827Z",
+      "updatedAt": "2020-04-13T18:16:56.141Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "ZoFyPeNM5E",
+      "code": "LR",
+      "name": "Liberia",
+      "capital": "Monrovia",
+      "currency": "LRD",
+      "createdAt": "2019-12-10T10:08:55.866Z",
+      "updatedAt": "2020-04-13T18:17:49.555Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "FgwdDPUXmJ",
+      "code": "LY",
+      "name": "Libya",
+      "capital": "Tripoli",
+      "currency": "LYD",
+      "createdAt": "2019-12-10T10:12:15.146Z",
+      "updatedAt": "2020-04-13T18:17:45.759Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "f83FzMh6Ty",
+      "code": "LI",
+      "name": "Liechtenstein",
+      "capital": "Vaduz",
+      "currency": "CHF",
+      "createdAt": "2019-12-10T10:08:17.098Z",
+      "updatedAt": "2020-04-13T18:18:19.517Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "9kbcTFZyKo",
+      "code": "LT",
+      "name": "Lithuania",
+      "capital": "Vilnius",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T10:09:16.058Z",
+      "updatedAt": "2020-04-13T18:16:41.662Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "5LNFOuO2Wh",
+      "code": "LU",
+      "name": "Luxembourg",
+      "capital": "Luxembourg",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T10:10:11.887Z",
+      "updatedAt": "2020-04-13T18:18:15.795Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "larowCNukg",
+      "code": "MO",
+      "name": "Macao",
+      "capital": "",
+      "currency": "MOP",
+      "createdAt": "2019-12-10T10:24:20.255Z",
+      "updatedAt": "2020-04-13T18:17:26.162Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "09fXl7u3FD",
+      "code": "MG",
+      "name": "Madagascar",
+      "capital": "Antananarivo",
+      "currency": "MGA",
+      "createdAt": "2019-12-10T10:16:10.062Z",
+      "updatedAt": "2020-04-13T18:17:02.071Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "clpCIxZu1P",
+      "code": "MW",
+      "name": "Malawi",
+      "capital": "Lilongwe",
+      "currency": "MWK",
+      "createdAt": "2019-12-10T10:26:20.998Z",
+      "updatedAt": "2020-04-13T18:16:55.434Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "SHOmq2VQlZ",
+      "code": "MY",
+      "name": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "currency": "MYR",
+      "createdAt": "2019-12-10T12:45:47.995Z",
+      "updatedAt": "2020-04-13T18:17:22.991Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "ovfuQeRszZ",
+      "code": "MV",
+      "name": "Maldives",
+      "capital": "Malé",
+      "currency": "MVR",
+      "createdAt": "2019-12-10T10:26:08.049Z",
+      "updatedAt": "2020-04-13T18:17:09.278Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "jreQzrjZx6",
+      "code": "ML",
+      "name": "Mali",
+      "capital": "Bamako",
+      "currency": "XOF",
+      "createdAt": "2019-12-10T10:18:51.158Z",
+      "updatedAt": "2020-04-13T18:18:02.734Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "HEXUplP1Se",
+      "code": "MT",
+      "name": "Malta",
+      "capital": "Valletta",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T10:25:07.171Z",
+      "updatedAt": "2020-04-13T18:18:06.417Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "ZTZhlMFIyJ",
+      "code": "MH",
+      "name": "Marshall Islands",
+      "capital": "Majuro",
+      "currency": "USD",
+      "createdAt": "2019-12-10T10:17:00.179Z",
+      "updatedAt": "2020-04-13T18:17:36.911Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "zA1OoRvjvL",
+      "code": "MQ",
+      "name": "Martinique",
+      "capital": "Fort-de-France",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T10:24:37.058Z",
+      "updatedAt": "2020-04-13T18:18:46.366Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "1hYnFHML5d",
+      "code": "MR",
+      "name": "Mauritania",
+      "capital": "Nouakchott",
+      "currency": "MRU",
+      "createdAt": "2019-12-10T10:24:47.112Z",
+      "updatedAt": "2020-04-13T18:17:55.573Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "cxnFBlqeWx",
+      "code": "MU",
+      "name": "Mauritius",
+      "capital": "Port Louis",
+      "currency": "MUR",
+      "createdAt": "2019-12-10T10:25:31.882Z",
+      "updatedAt": "2020-04-13T18:16:57.524Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "987PhBD5EQ",
+      "code": "YT",
+      "name": "Mayotte",
+      "capital": "Mamoudzou",
+      "currency": "EUR",
+      "createdAt": "2019-12-12T02:17:52.394Z",
+      "updatedAt": "2020-04-13T18:17:00.394Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "jbrIeE76hr",
+      "code": "MX",
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "currency": "MXN",
+      "createdAt": "2019-12-10T10:26:35.600Z",
+      "updatedAt": "2020-04-13T18:19:12.373Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "Y3YvNEgaqp",
+      "code": "FM",
+      "name": "Micronesia",
+      "capital": "Palikir",
+      "currency": "USD",
+      "createdAt": "2019-12-09T23:41:56.647Z",
+      "updatedAt": "2020-04-13T18:17:37.670Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "bmYANF81hv",
+      "code": "MD",
+      "name": "Moldova",
+      "capital": "Chișinău",
+      "currency": "MDL",
+      "createdAt": "2019-12-10T10:15:11.818Z",
+      "updatedAt": "2020-04-13T18:16:43.984Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "nE8gX0MFSZ",
+      "code": "MC",
+      "name": "Monaco",
+      "capital": "Monaco",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T10:15:02.968Z",
+      "updatedAt": "2020-04-13T18:18:17.319Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "76H3yHIo7U",
+      "code": "MN",
+      "name": "Mongolia",
+      "capital": "Ulan Bator",
+      "currency": "MNT",
+      "createdAt": "2019-12-10T10:19:39.718Z",
+      "updatedAt": "2020-04-13T18:17:34.295Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "wY0pApCtUt",
+      "code": "ME",
+      "name": "Montenegro",
+      "capital": "Podgorica",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T10:15:42.122Z",
+      "updatedAt": "2020-04-13T18:18:27.787Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "zowYF6xHFj",
+      "code": "MS",
+      "name": "Montserrat",
+      "capital": "Plymouth",
+      "currency": "XCD",
+      "createdAt": "2019-12-10T10:24:57.862Z",
+      "updatedAt": "2020-04-13T18:18:55.661Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "Smz1hTRSIU",
+      "code": "MA",
+      "name": "Morocco",
+      "capital": "Rabat",
+      "currency": "MAD",
+      "createdAt": "2019-12-10T10:12:34.270Z",
+      "updatedAt": "2020-04-13T18:18:05.729Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "9CVfAKT2WO",
+      "code": "MZ",
+      "name": "Mozambique",
+      "capital": "Maputo",
+      "currency": "MZN",
+      "createdAt": "2019-12-10T12:47:31.694Z",
+      "updatedAt": "2020-04-13T18:17:01.233Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "cz9fi68eVU",
+      "code": "MM",
+      "name": "Myanmar [Burma]",
+      "capital": "Naypyidaw",
+      "currency": "MMK",
+      "createdAt": "2019-12-10T10:19:13.726Z",
+      "updatedAt": "2020-04-13T18:17:11.655Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "cJ8QXx4aDG",
+      "code": "NA",
+      "name": "Namibia",
+      "capital": "Windhoek",
+      "currency": "NAD,ZAR",
+      "createdAt": "2019-12-10T12:47:47.167Z",
+      "updatedAt": "2020-04-13T18:18:31.056Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "dhD7xYDFi6",
+      "code": "NR",
+      "name": "Nauru",
+      "capital": "Yaren",
+      "currency": "AUD",
+      "createdAt": "2019-12-10T14:14:29.183Z",
+      "updatedAt": "2020-04-13T18:17:41.249Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "uq5oiRuEKm",
+      "code": "NP",
+      "name": "Nepal",
+      "capital": "Kathmandu",
+      "currency": "NPR",
+      "createdAt": "2019-12-10T14:13:59.322Z",
+      "updatedAt": "2020-04-13T18:17:10.714Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "9FyUSGZNnf",
+      "code": "NL",
+      "name": "Netherlands",
+      "capital": "Amsterdam",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T13:14:50.787Z",
+      "updatedAt": "2020-04-13T18:18:12.846Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "7Ewydti2W5",
+      "code": "NC",
+      "name": "New Caledonia",
+      "capital": "Nouméa",
+      "currency": "XPF",
+      "createdAt": "2019-12-10T12:48:06.358Z",
+      "updatedAt": "2020-04-13T18:17:42.782Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "2vGNu7Yn7D",
+      "code": "NZ",
+      "name": "New Zealand",
+      "capital": "Wellington",
+      "currency": "NZD",
+      "createdAt": "2019-12-10T14:14:47.540Z",
+      "updatedAt": "2020-04-13T18:17:44.308Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "sCGe1vsv7x",
+      "code": "NI",
+      "name": "Nicaragua",
+      "capital": "Managua",
+      "currency": "NIO",
+      "createdAt": "2019-12-10T13:13:44.298Z",
+      "updatedAt": "2020-04-13T18:19:02.797Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "lpk34LaX1T",
+      "code": "NE",
+      "name": "Niger",
+      "capital": "Niamey",
+      "currency": "XOF",
+      "createdAt": "2019-12-10T12:48:20.971Z",
+      "updatedAt": "2020-04-13T18:18:02.019Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "oqts6mjw76",
+      "code": "NG",
+      "name": "Nigeria",
+      "capital": "Abuja",
+      "currency": "NGN",
+      "createdAt": "2019-12-10T12:48:48.070Z",
+      "updatedAt": "2020-04-13T18:17:52.462Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "QJRUbL4g9z",
+      "code": "NU",
+      "name": "Niue",
+      "capital": "Alofi",
+      "currency": "NZD",
+      "createdAt": "2019-12-10T14:14:38.329Z",
+      "updatedAt": "2020-04-13T18:19:18.430Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "NHfUsjuEP3",
+      "code": "NF",
+      "name": "Norfolk Island",
+      "capital": "Kingston",
+      "currency": "AUD",
+      "createdAt": "2019-12-10T12:48:40.646Z",
+      "updatedAt": "2020-04-13T18:17:43.493Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "cbUYyXWdUS",
+      "code": "KP",
+      "name": "North Korea",
+      "capital": "Pyongyang",
+      "currency": "KPW",
+      "createdAt": "2019-12-10T10:00:52.788Z",
+      "updatedAt": "2020-04-13T18:17:29.604Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "dAH4X1RHQb",
+      "code": "MK",
+      "name": "North Macedonia",
+      "capital": "Skopje",
+      "currency": "MKD",
+      "createdAt": "2019-12-10T10:17:11.434Z",
+      "updatedAt": "2020-04-13T18:16:48.056Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "cljDTSxy5A",
+      "code": "MP",
+      "name": "Northern Mariana Islands",
+      "capital": "Saipan",
+      "currency": "USD",
+      "createdAt": "2019-12-10T10:24:29.437Z",
+      "updatedAt": "2020-04-13T18:19:19.153Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "T6MXJLAUjG",
+      "code": "NO",
+      "name": "Norway",
+      "capital": "Oslo",
+      "currency": "NOK",
+      "createdAt": "2019-12-10T13:56:16.055Z",
+      "updatedAt": "2020-04-13T18:18:24.177Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "ta4EmTNWmu",
+      "code": "OM",
+      "name": "Oman",
+      "capital": "Muscat",
+      "currency": "OMR",
+      "createdAt": "2019-12-10T14:16:03.151Z",
+      "updatedAt": "2020-04-13T18:16:28.668Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "YE4pRFqDqA",
+      "code": "PK",
+      "name": "Pakistan",
+      "capital": "Islamabad",
+      "currency": "PKR",
+      "createdAt": "2019-12-10T18:32:03.867Z",
+      "updatedAt": "2020-04-13T18:17:03.617Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "9r4GHFt1Gt",
+      "code": "PW",
+      "name": "Palau",
+      "capital": "Ngerulmud",
+      "currency": "USD",
+      "createdAt": "2019-12-10T21:13:36.847Z",
+      "updatedAt": "2020-04-13T18:17:16.859Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "yP5OXMfgmQ",
+      "code": "PS",
+      "name": "Palestine",
+      "capital": "Ramallah",
+      "currency": "ILS",
+      "createdAt": "2019-12-10T20:42:05.390Z",
+      "updatedAt": "2020-04-13T18:19:26.232Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "fjNf3u1Mx1",
+      "code": "PA",
+      "name": "Panama",
+      "capital": "Panama City",
+      "currency": "PAB,USD",
+      "createdAt": "2019-12-10T14:16:18.319Z",
+      "updatedAt": "2020-04-13T18:19:07.011Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "uonlBdxrxQ",
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "capital": "Port Moresby",
+      "currency": "PGK",
+      "createdAt": "2019-12-10T15:08:57.610Z",
+      "updatedAt": "2020-04-13T18:17:38.915Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "4GJnHdhGyv",
+      "code": "PY",
+      "name": "Paraguay",
+      "capital": "Asunción",
+      "currency": "PYG",
+      "createdAt": "2019-12-10T21:13:49.205Z",
+      "updatedAt": "2020-04-13T18:18:39.043Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "8IhgzPlSIn",
+      "code": "PE",
+      "name": "Peru",
+      "capital": "Lima",
+      "currency": "PEN",
+      "createdAt": "2019-12-10T14:32:51.766Z",
+      "updatedAt": "2020-04-13T18:19:11.467Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "pmnzGTREty",
+      "code": "PH",
+      "name": "Philippines",
+      "capital": "Manila",
+      "currency": "PHP",
+      "createdAt": "2019-12-10T15:09:16.747Z",
+      "updatedAt": "2020-04-13T18:17:22.128Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "wo6WYeq2XC",
+      "code": "PN",
+      "name": "Pitcairn Islands",
+      "capital": "Adamstown",
+      "currency": "NZD",
+      "createdAt": "2019-12-10T20:39:17.002Z",
+      "updatedAt": "2020-04-13T18:19:13.999Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "bejQecXKxm",
+      "code": "PL",
+      "name": "Poland",
+      "capital": "Warsaw",
+      "currency": "PLN",
+      "createdAt": "2019-12-10T18:44:48.418Z",
+      "updatedAt": "2020-04-13T18:16:51.222Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "EZzqrmo1am",
+      "code": "PT",
+      "name": "Portugal",
+      "capital": "Lisbon",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T20:48:16.037Z",
+      "updatedAt": "2020-04-13T18:17:48.860Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "Gk9CYF6qoa",
+      "code": "PR",
+      "name": "Puerto Rico",
+      "capital": "San Juan",
+      "currency": "USD",
+      "createdAt": "2019-12-10T20:39:25.792Z",
+      "updatedAt": "2020-04-13T18:19:20.638Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "fadJTpiTZO",
+      "code": "QA",
+      "name": "Qatar",
+      "capital": "Doha",
+      "currency": "QAR",
+      "createdAt": "2019-12-10T21:15:07.602Z",
+      "updatedAt": "2020-04-13T18:16:29.391Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "5jipXp430E",
+      "code": "CG",
+      "name": "Republic of the Congo",
+      "capital": "Brazzaville",
+      "currency": "XAF",
+      "createdAt": "2019-12-09T21:22:35.834Z",
+      "updatedAt": "2020-04-13T18:17:47.903Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "5QOfVVtfWk",
+      "code": "RO",
+      "name": "Romania",
+      "capital": "Bucharest",
+      "currency": "RON",
+      "createdAt": "2019-12-10T21:15:30.722Z",
+      "updatedAt": "2020-04-13T18:16:51.920Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "vg1c2CxgQ3",
+      "code": "RU",
+      "name": "Russia",
+      "capital": "Moscow",
+      "currency": "RUB",
+      "createdAt": "2019-12-11T00:45:57.514Z",
+      "updatedAt": "2020-04-13T18:17:33.562Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "vtGcP4T5wj",
+      "code": "RW",
+      "name": "Rwanda",
+      "capital": "Kigali",
+      "currency": "RWF",
+      "createdAt": "2019-12-11T04:23:59.118Z",
+      "updatedAt": "2020-04-13T18:16:14.744Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "ZRHFFbzHPq",
+      "code": "RE",
+      "name": "Réunion",
+      "capital": "Saint-Denis",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T21:15:18.337Z",
+      "updatedAt": "2020-04-13T18:16:58.958Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "akNOeSv404",
+      "code": "BL",
+      "name": "Saint Barthélemy",
+      "capital": "Gustavia",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T21:14:15.129Z",
+      "updatedAt": "2020-04-13T18:18:57.046Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "S4rLvSxvNl",
+      "code": "SH",
+      "name": "Saint Helena",
+      "capital": "Jamestown",
+      "currency": "SHP",
+      "createdAt": "2019-12-11T04:48:29.226Z",
+      "updatedAt": "2020-04-13T18:18:31.765Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "wHnODFxZFO",
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "capital": "Basseterre",
+      "currency": "XCD",
+      "createdAt": "2019-12-10T10:00:43.460Z",
+      "updatedAt": "2020-04-13T18:18:50.086Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "GOaMR5GKXm",
+      "code": "LC",
+      "name": "Saint Lucia",
+      "capital": "Castries",
+      "currency": "XCD",
+      "createdAt": "2019-12-10T10:08:08.246Z",
+      "updatedAt": "2020-04-13T18:18:52.204Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "ta7ARILnW0",
+      "code": "MF",
+      "name": "Saint Martin",
+      "capital": "Marigot",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T10:16:00.790Z",
+      "updatedAt": "2020-04-13T18:18:56.366Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "iiFNu3iWEe",
+      "code": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "capital": "Saint-Pierre",
+      "currency": "EUR",
+      "createdAt": "2019-12-10T20:39:09.339Z",
+      "updatedAt": "2020-04-13T18:18:36.883Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "SaCgGB3Wn9",
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "capital": "Kingstown",
+      "currency": "XCD",
+      "createdAt": "2019-12-12T01:25:06.482Z",
+      "updatedAt": "2020-04-13T18:18:54.990Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "FgCSmJ0kEH",
+      "code": "WS",
+      "name": "Samoa",
+      "capital": "Apia",
+      "currency": "WST",
+      "createdAt": "2019-12-12T02:09:38.686Z",
+      "updatedAt": "2020-04-13T18:19:17.699Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "80T3vlLgy2",
+      "code": "SM",
+      "name": "San Marino",
+      "capital": "City of San Marino",
+      "currency": "EUR",
+      "createdAt": "2019-12-11T04:56:26.918Z",
+      "updatedAt": "2020-04-13T18:18:25.582Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "PqGe1JXHMY",
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "capital": "Riyadh",
+      "currency": "SAR",
+      "createdAt": "2019-12-11T04:24:09.226Z",
+      "updatedAt": "2020-04-13T18:16:17.720Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "loX389odU1",
+      "code": "SN",
+      "name": "Senegal",
+      "capital": "Dakar",
+      "currency": "XOF",
+      "createdAt": "2019-12-11T04:56:36.294Z",
+      "updatedAt": "2020-04-13T18:17:47.227Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "AqY4dkqJok",
+      "code": "RS",
+      "name": "Serbia",
+      "capital": "Belgrade",
+      "currency": "RSD",
+      "createdAt": "2019-12-11T00:36:25.337Z",
+      "updatedAt": "2020-04-13T18:19:26.953Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "vRMloHTZn5",
+      "code": "SC",
+      "name": "Seychelles",
+      "capital": "Victoria",
+      "currency": "SCR",
+      "createdAt": "2019-12-11T04:25:09.327Z",
+      "updatedAt": "2020-04-13T18:16:25.885Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "xzEkRDMtUU",
+      "code": "SL",
+      "name": "Sierra Leone",
+      "capital": "Freetown",
+      "currency": "SLL",
+      "createdAt": "2019-12-11T04:55:42.883Z",
+      "updatedAt": "2020-04-13T18:17:57.700Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "AnLxFNCcFS",
+      "code": "SG",
+      "name": "Singapore",
+      "capital": "Singapore",
+      "currency": "SGD",
+      "createdAt": "2019-12-11T04:48:21.290Z",
+      "updatedAt": "2020-04-13T18:17:30.679Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "nc6YPq9LzZ",
+      "code": "SX",
+      "name": "Sint Maarten",
+      "capital": "Philipsburg",
+      "currency": "ANG",
+      "createdAt": "2019-12-11T04:59:05.049Z",
+      "updatedAt": "2020-04-13T18:19:28.759Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "2PuVugMMXs",
+      "code": "SK",
+      "name": "Slovakia",
+      "capital": "Bratislava",
+      "currency": "EUR",
+      "createdAt": "2019-12-11T04:54:02.242Z",
+      "updatedAt": "2020-04-13T18:18:22.407Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "oQQC8mAbuz",
+      "code": "SI",
+      "name": "Slovenia",
+      "capital": "Ljubljana",
+      "currency": "EUR",
+      "createdAt": "2019-12-11T04:48:37.942Z",
+      "updatedAt": "2020-04-13T18:18:27.079Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "7LyrWI5wCC",
+      "code": "SB",
+      "name": "Solomon Islands",
+      "capital": "Honiara",
+      "currency": "SBD",
+      "createdAt": "2019-12-11T04:24:58.958Z",
+      "updatedAt": "2020-04-13T18:17:39.841Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "0ncikAUv2i",
+      "code": "SO",
+      "name": "Somalia",
+      "capital": "Mogadishu",
+      "currency": "SOS",
+      "createdAt": "2019-12-11T04:57:06.415Z",
+      "updatedAt": "2020-04-13T18:16:15.460Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "LQBwxAvUsE",
+      "code": "ZA",
+      "name": "South Africa",
+      "capital": "Pretoria",
+      "currency": "ZAR",
+      "createdAt": "2019-12-12T02:18:16.186Z",
+      "updatedAt": "2020-04-13T18:16:59.713Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "SyJ1XgC9NA",
+      "code": "GS",
+      "name": "South Georgia and the South Sandwich Islands",
+      "capital": "King Edward Point",
+      "currency": "GBP",
+      "createdAt": "2019-12-10T02:45:17.074Z",
+      "updatedAt": "2020-04-13T18:18:42.907Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "H27W1K2Jx0",
+      "code": "KR",
+      "name": "South Korea",
+      "capital": "Seoul",
+      "currency": "KRW",
+      "createdAt": "2019-12-10T10:01:22.870Z",
+      "updatedAt": "2020-04-13T18:17:27.885Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "ICkEMQPTMM",
+      "code": "SS",
+      "name": "South Sudan",
+      "capital": "Juba",
+      "currency": "SSP",
+      "createdAt": "2019-12-11T04:57:44.657Z",
+      "updatedAt": "2020-04-13T18:19:30.922Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "5Vs8zprtNC",
+      "code": "ES",
+      "name": "Spain",
+      "capital": "Madrid",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T22:30:10.956Z",
+      "updatedAt": "2020-04-13T18:18:05.017Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "9N0Bhm2Ge4",
+      "code": "LK",
+      "name": "Sri Lanka",
+      "capital": "Colombo",
+      "currency": "LKR",
+      "createdAt": "2019-12-10T10:08:28.182Z",
+      "updatedAt": "2020-04-13T18:17:06.797Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "uPVdFzQ71M",
+      "code": "SD",
+      "name": "Sudan",
+      "capital": "Khartoum",
+      "currency": "SDG",
+      "createdAt": "2019-12-11T04:25:20.966Z",
+      "updatedAt": "2020-04-13T18:16:37.091Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "iNVlDu9rb9",
+      "code": "SR",
+      "name": "Suriname",
+      "capital": "Paramaribo",
+      "currency": "SRD",
+      "createdAt": "2019-12-11T04:57:33.894Z",
+      "updatedAt": "2020-04-13T18:18:36.201Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "HmcygKfUvr",
+      "code": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "capital": "Longyearbyen",
+      "currency": "NOK",
+      "createdAt": "2019-12-11T04:53:54.262Z",
+      "updatedAt": "2020-04-13T18:16:42.512Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "uVLeKcyCeh",
+      "code": "SZ",
+      "name": "Swaziland",
+      "capital": "Lobamba",
+      "currency": "SZL",
+      "createdAt": "2019-12-11T05:04:43.362Z",
+      "updatedAt": "2020-04-13T18:16:58.207Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "220UohZbeo",
+      "code": "SE",
+      "name": "Sweden",
+      "capital": "Stockholm",
+      "currency": "SEK",
+      "createdAt": "2019-12-11T04:25:56.570Z",
+      "updatedAt": "2020-04-13T18:18:12.033Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "c2ZdW21DZq",
+      "code": "CH",
+      "name": "Switzerland",
+      "capital": "Bern",
+      "currency": "CHE,CHF,CHW",
+      "createdAt": "2019-12-09T21:22:46.742Z",
+      "updatedAt": "2020-04-13T18:18:11.101Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "aCjqJX3che",
+      "code": "SY",
+      "name": "Syria",
+      "capital": "Damascus",
+      "currency": "SYP",
+      "createdAt": "2019-12-11T04:59:13.115Z",
+      "updatedAt": "2020-04-13T18:16:20.729Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "0fiEmgrqKa",
+      "code": "ST",
+      "name": "São Tomé and Príncipe",
+      "capital": "São Tomé",
+      "currency": "STN",
+      "createdAt": "2019-12-11T04:58:01.766Z",
+      "updatedAt": "2020-04-13T18:17:58.371Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "UnNh8r7cvJ",
+      "code": "TW",
+      "name": "Taiwan",
+      "capital": "Taipei",
+      "currency": "TWD",
+      "createdAt": "2019-12-11T07:10:06.622Z",
+      "updatedAt": "2020-04-13T18:17:21.168Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "temdDhXHMy",
+      "code": "TJ",
+      "name": "Tajikistan",
+      "capital": "Dushanbe",
+      "currency": "TJS",
+      "createdAt": "2019-12-11T05:36:17.458Z",
+      "updatedAt": "2020-04-13T18:17:06.084Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "UIOtsTw0oX",
+      "code": "TZ",
+      "name": "Tanzania",
+      "capital": "Dodoma",
+      "currency": "TZS",
+      "createdAt": "2019-12-11T07:10:26.682Z",
+      "updatedAt": "2020-04-13T18:16:19.996Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "k2lukc4AyV",
+      "code": "TH",
+      "name": "Thailand",
+      "capital": "Bangkok",
+      "currency": "THB",
+      "createdAt": "2019-12-11T05:05:49.732Z",
+      "updatedAt": "2020-04-13T18:17:18.469Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "LlF4qcKuXw",
+      "code": "TG",
+      "name": "Togo",
+      "capital": "Lomé",
+      "currency": "XOF",
+      "createdAt": "2019-12-11T05:05:36.854Z",
+      "updatedAt": "2020-04-13T18:17:53.838Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "xxYK5gIxUh",
+      "code": "TK",
+      "name": "Tokelau",
+      "capital": "Fakaofo",
+      "currency": "NZD",
+      "createdAt": "2019-12-11T05:37:04.132Z",
+      "updatedAt": "2020-04-13T18:19:15.529Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "jYnYAs4gVv",
+      "code": "TO",
+      "name": "Tonga",
+      "capital": "Nuku'alofa",
+      "currency": "TOP",
+      "createdAt": "2019-12-11T05:39:22.463Z",
+      "updatedAt": "2020-04-13T18:19:16.274Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "CseuLCM1Du",
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "capital": "Port of Spain",
+      "currency": "TTD",
+      "createdAt": "2019-12-11T07:09:42.274Z",
+      "updatedAt": "2020-04-13T18:18:49.355Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "6FCCfIIcf0",
+      "code": "TN",
+      "name": "Tunisia",
+      "capital": "Tunis",
+      "currency": "TND",
+      "createdAt": "2019-12-11T05:37:41.838Z",
+      "updatedAt": "2020-04-13T18:18:04.164Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "r1dBFhG3I7",
+      "code": "TR",
+      "name": "Turkey",
+      "capital": "Ankara",
+      "currency": "TRY",
+      "createdAt": "2019-12-11T05:39:32.070Z",
+      "updatedAt": "2020-04-13T18:16:34.039Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "qURMHRB5Bh",
+      "code": "TM",
+      "name": "Turkmenistan",
+      "capital": "Ashgabat",
+      "currency": "TMT",
+      "createdAt": "2019-12-11T05:37:25.271Z",
+      "updatedAt": "2020-04-13T18:17:05.402Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "bzZECrPB6P",
+      "code": "TC",
+      "name": "Turks and Caicos Islands",
+      "capital": "Cockburn Town",
+      "currency": "USD",
+      "createdAt": "2019-12-11T05:04:56.409Z",
+      "updatedAt": "2020-04-13T18:18:52.926Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "R9v6O9hXN8",
+      "code": "TV",
+      "name": "Tuvalu",
+      "capital": "Funafuti",
+      "currency": "AUD",
+      "createdAt": "2019-12-11T07:09:56.814Z",
+      "updatedAt": "2020-04-13T18:17:40.573Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "9noh09Cgce",
+      "code": "UM",
+      "name": "U.S. Minor Outlying Islands",
+      "capital": "",
+      "currency": "USD",
+      "createdAt": "2019-12-11T08:14:12.164Z",
+      "updatedAt": "2020-04-13T18:19:22.073Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "qMGd0YmE4G",
+      "code": "VI",
+      "name": "U.S. Virgin Islands",
+      "capital": "Charlotte Amalie",
+      "currency": "USD",
+      "createdAt": "2019-12-12T01:40:07.122Z",
+      "updatedAt": "2020-04-13T18:19:21.362Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "VrjHD4Le7A",
+      "code": "UG",
+      "name": "Uganda",
+      "capital": "Kampala",
+      "currency": "UGX",
+      "createdAt": "2019-12-11T08:12:37.202Z",
+      "updatedAt": "2020-04-13T18:16:24.444Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "CzhIuuHOMH",
+      "code": "UA",
+      "name": "Ukraine",
+      "capital": "Kyiv",
+      "currency": "UAH",
+      "createdAt": "2019-12-11T07:15:53.056Z",
+      "updatedAt": "2020-04-13T18:16:47.379Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "VqASvLCk8S",
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "capital": "Abu Dhabi",
+      "currency": "AED",
+      "createdAt": "2019-12-09T21:05:01.909Z",
+      "updatedAt": "2020-04-13T18:16:30.823Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "asMYxtQNZx",
+      "code": "GB",
+      "name": "United Kingdom",
+      "capital": "London",
+      "currency": "GBP",
+      "createdAt": "2019-12-10T01:22:33.058Z",
+      "updatedAt": "2020-04-13T18:18:10.400Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "BXkZTl2omc",
+      "code": "US",
+      "name": "United States",
+      "capital": "Washington D.C.",
+      "currency": "USD,USN,USS",
+      "createdAt": "2019-12-11T08:14:17.654Z",
+      "updatedAt": "2020-04-13T18:19:25.532Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "R0GyWd9YXw",
+      "code": "UY",
+      "name": "Uruguay",
+      "capital": "Montevideo",
+      "currency": "UYI,UYU",
+      "createdAt": "2019-12-12T01:20:25.534Z",
+      "updatedAt": "2020-04-13T18:18:40.019Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "E4wHs4HoxE",
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "capital": "Tashkent",
+      "currency": "UZS",
+      "createdAt": "2019-12-12T01:22:01.034Z",
+      "updatedAt": "2020-04-13T18:17:12.450Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "z3FhnVKZEk",
+      "code": "VU",
+      "name": "Vanuatu",
+      "capital": "Port Vila",
+      "currency": "VUV",
+      "createdAt": "2019-12-12T02:09:18.894Z",
+      "updatedAt": "2020-04-13T18:17:42.029Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "HkXpCV8aEI",
+      "code": "VA",
+      "name": "Vatican City",
+      "capital": "Vatican City",
+      "currency": "EUR",
+      "createdAt": "2019-12-12T01:24:58.858Z",
+      "updatedAt": "2020-04-13T18:18:24.862Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "RJHFlkiRRU",
+      "code": "VE",
+      "name": "Venezuela",
+      "capital": "Caracas",
+      "currency": "VES",
+      "createdAt": "2019-12-12T01:25:16.651Z",
+      "updatedAt": "2020-04-13T18:19:04.483Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "MFNxWtOZIm",
+      "code": "VN",
+      "name": "Vietnam",
+      "capital": "Hanoi",
+      "currency": "VND",
+      "createdAt": "2019-12-12T01:40:16.158Z",
+      "updatedAt": "2020-04-13T18:17:17.672Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "t6iLvc2Vki",
+      "code": "WF",
+      "name": "Wallis and Futuna",
+      "capital": "Mata-Utu",
+      "currency": "XPF",
+      "createdAt": "2019-12-12T02:09:28.914Z",
+      "updatedAt": "2020-04-13T18:19:16.981Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "cRUrTJH6np",
+      "code": "EH",
+      "name": "Western Sahara",
+      "capital": "El Aaiún",
+      "currency": "MAD,DZD,MRU",
+      "createdAt": "2019-12-09T22:29:45.518Z",
+      "updatedAt": "2020-04-13T18:18:03.412Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "9tt1nNL4xu",
+      "code": "YE",
+      "name": "Yemen",
+      "capital": "Sana'a",
+      "currency": "YER",
+      "createdAt": "2019-12-12T02:10:31.538Z",
+      "updatedAt": "2020-04-13T18:16:16.175Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "Hf8Po3Jb1p",
+      "code": "ZM",
+      "name": "Zambia",
+      "capital": "Lusaka",
+      "currency": "ZMK",
+      "createdAt": "2019-12-12T02:34:00.175Z",
+      "updatedAt": "2020-04-13T18:16:54.050Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "hvaqvemFp8",
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "capital": "Harare",
+      "currency": "USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY",
+      "createdAt": "2019-12-12T02:34:45.198Z",
+      "updatedAt": "2020-04-13T18:16:53.318Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    },
+    {
+      "objectId": "uvRzGTBaqW",
+      "code": "AX",
+      "name": "Åland",
+      "capital": "Mariehamn",
+      "currency": "EUR",
+      "createdAt": "2019-12-09T21:11:14.710Z",
+      "updatedAt": "2020-04-13T18:16:46.630Z",
+      "languages": {
+        "__type": "Relation",
+        "className": "Language"
+      },
+      "cities": {
+        "__type": "Relation",
+        "className": "City"
+      },
+      "timezones": {
+        "__type": "Relation",
+        "className": "Timezone_Time_Zones_Dataset"
+      },
+      "provinces": {
+        "__type": "Relation",
+        "className": "Subdivisions_States_Provinces"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1501 @@
+
+<http://semantics.id/ns/example#Afghanistan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kabul"@en;
+  <http://semantics.id/ns/example/movie#code> "AF";
+  <http://semantics.id/ns/example/movie#currency> "AFN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Afghanistan"@en .
+
+<http://semantics.id/ns/example#Albania> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Tirana"@en;
+  <http://semantics.id/ns/example/movie#code> "AL";
+  <http://semantics.id/ns/example/movie#currency> "ALL";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Albania"@en .
+
+<http://semantics.id/ns/example#Algeria> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Algiers"@en;
+  <http://semantics.id/ns/example/movie#code> "DZ";
+  <http://semantics.id/ns/example/movie#currency> "DZD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Algeria"@en .
+
+<http://semantics.id/ns/example#American%20Samoa> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Pago Pago"@en;
+  <http://semantics.id/ns/example/movie#code> "AS";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "American Samoa"@en .
+
+<http://semantics.id/ns/example#Andorra> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Andorra la Vella"@en;
+  <http://semantics.id/ns/example/movie#code> "AD";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Andorra"@en .
+
+<http://semantics.id/ns/example#Angola> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Luanda"@en;
+  <http://semantics.id/ns/example/movie#code> "AO";
+  <http://semantics.id/ns/example/movie#currency> "AOA";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Angola"@en .
+
+<http://semantics.id/ns/example#Anguilla> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "The Valley"@en;
+  <http://semantics.id/ns/example/movie#code> "AI";
+  <http://semantics.id/ns/example/movie#currency> "XCD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Anguilla"@en .
+
+<http://semantics.id/ns/example#Antarctica> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> ""@en;
+  <http://semantics.id/ns/example/movie#code> "AQ";
+  <http://semantics.id/ns/example/movie#currency> "";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Antarctica"@en .
+
+<http://semantics.id/ns/example#Antigua%20and%20Barbuda> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Saint John's"@en;
+  <http://semantics.id/ns/example/movie#code> "AG";
+  <http://semantics.id/ns/example/movie#currency> "XCD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Antigua and Barbuda"@en .
+
+<http://semantics.id/ns/example#Argentina> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Buenos Aires"@en;
+  <http://semantics.id/ns/example/movie#code> "AR";
+  <http://semantics.id/ns/example/movie#currency> "ARS";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Argentina"@en .
+
+<http://semantics.id/ns/example#Armenia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Yerevan"@en;
+  <http://semantics.id/ns/example/movie#code> "AM";
+  <http://semantics.id/ns/example/movie#currency> "AMD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Armenia"@en .
+
+<http://semantics.id/ns/example#Aruba> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Oranjestad"@en;
+  <http://semantics.id/ns/example/movie#code> "AW";
+  <http://semantics.id/ns/example/movie#currency> "AWG";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Aruba"@en .
+
+<http://semantics.id/ns/example#Australia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Canberra"@en;
+  <http://semantics.id/ns/example/movie#code> "AU";
+  <http://semantics.id/ns/example/movie#currency> "AUD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Australia"@en .
+
+<http://semantics.id/ns/example#Austria> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Vienna"@en;
+  <http://semantics.id/ns/example/movie#code> "AT";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Austria"@en .
+
+<http://semantics.id/ns/example#Azerbaijan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Baku"@en;
+  <http://semantics.id/ns/example/movie#code> "AZ";
+  <http://semantics.id/ns/example/movie#currency> "AZN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Azerbaijan"@en .
+
+<http://semantics.id/ns/example#Bahamas> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Nassau"@en;
+  <http://semantics.id/ns/example/movie#code> "BS";
+  <http://semantics.id/ns/example/movie#currency> "BSD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bahamas"@en .
+
+<http://semantics.id/ns/example#Bahrain> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Manama"@en;
+  <http://semantics.id/ns/example/movie#code> "BH";
+  <http://semantics.id/ns/example/movie#currency> "BHD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bahrain"@en .
+
+<http://semantics.id/ns/example#Bangladesh> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Dhaka"@en;
+  <http://semantics.id/ns/example/movie#code> "BD";
+  <http://semantics.id/ns/example/movie#currency> "BDT";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bangladesh"@en .
+
+<http://semantics.id/ns/example#Barbados> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bridgetown"@en;
+  <http://semantics.id/ns/example/movie#code> "BB";
+  <http://semantics.id/ns/example/movie#currency> "BBD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Barbados"@en .
+
+<http://semantics.id/ns/example#Belarus> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Minsk"@en;
+  <http://semantics.id/ns/example/movie#code> "BY";
+  <http://semantics.id/ns/example/movie#currency> "BYN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Belarus"@en .
+
+<http://semantics.id/ns/example#Belgium> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Brussels"@en;
+  <http://semantics.id/ns/example/movie#code> "BE";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Belgium"@en .
+
+<http://semantics.id/ns/example#Belize> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Belmopan"@en;
+  <http://semantics.id/ns/example/movie#code> "BZ";
+  <http://semantics.id/ns/example/movie#currency> "BZD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Belize"@en .
+
+<http://semantics.id/ns/example#Benin> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Porto-Novo"@en;
+  <http://semantics.id/ns/example/movie#code> "BJ";
+  <http://semantics.id/ns/example/movie#currency> "XOF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Benin"@en .
+
+<http://semantics.id/ns/example#Bermuda> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Hamilton"@en;
+  <http://semantics.id/ns/example/movie#code> "BM";
+  <http://semantics.id/ns/example/movie#currency> "BMD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bermuda"@en .
+
+<http://semantics.id/ns/example#Bhutan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Thimphu"@en;
+  <http://semantics.id/ns/example/movie#code> "BT";
+  <http://semantics.id/ns/example/movie#currency> "BTN,INR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bhutan"@en .
+
+<http://semantics.id/ns/example#Bolivia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Sucre"@en;
+  <http://semantics.id/ns/example/movie#code> "BO";
+  <http://semantics.id/ns/example/movie#currency> "BOB,BOV";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bolivia"@en .
+
+<http://semantics.id/ns/example#Bonaire> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kralendijk"@en;
+  <http://semantics.id/ns/example/movie#code> "BQ";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bonaire"@en .
+
+<http://semantics.id/ns/example#Bosnia%20and%20Herzegovina> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Sarajevo"@en;
+  <http://semantics.id/ns/example/movie#code> "BA";
+  <http://semantics.id/ns/example/movie#currency> "BAM";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bosnia and Herzegovina"@en .
+
+<http://semantics.id/ns/example#Botswana> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Gaborone"@en;
+  <http://semantics.id/ns/example/movie#code> "BW";
+  <http://semantics.id/ns/example/movie#currency> "BWP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Botswana"@en .
+
+<http://semantics.id/ns/example#Bouvet%20Island> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> ""@en;
+  <http://semantics.id/ns/example/movie#code> "BV";
+  <http://semantics.id/ns/example/movie#currency> "NOK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bouvet Island"@en .
+
+<http://semantics.id/ns/example#Brazil> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "BrasÃ­lia"@en;
+  <http://semantics.id/ns/example/movie#code> "BR";
+  <http://semantics.id/ns/example/movie#currency> "BRL";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Brazil"@en .
+
+<http://semantics.id/ns/example#British%20Indian%20Ocean%20Territory> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Diego Garcia"@en;
+  <http://semantics.id/ns/example/movie#code> "IO";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "British Indian Ocean Territory"@en .
+
+<http://semantics.id/ns/example#British%20Virgin%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Road Town"@en;
+  <http://semantics.id/ns/example/movie#code> "VG";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "British Virgin Islands"@en .
+
+<http://semantics.id/ns/example#Brunei> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bandar Seri Begawan"@en;
+  <http://semantics.id/ns/example/movie#code> "BN";
+  <http://semantics.id/ns/example/movie#currency> "BND";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Brunei"@en .
+
+<http://semantics.id/ns/example#Bulgaria> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Sofia"@en;
+  <http://semantics.id/ns/example/movie#code> "BG";
+  <http://semantics.id/ns/example/movie#currency> "BGN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bulgaria"@en .
+
+<http://semantics.id/ns/example#Burkina%20Faso> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Ouagadougou"@en;
+  <http://semantics.id/ns/example/movie#code> "BF";
+  <http://semantics.id/ns/example/movie#currency> "XOF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Burkina Faso"@en .
+
+<http://semantics.id/ns/example#Burundi> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bujumbura"@en;
+  <http://semantics.id/ns/example/movie#code> "BI";
+  <http://semantics.id/ns/example/movie#currency> "BIF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Burundi"@en .
+
+<http://semantics.id/ns/example#Cambodia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Phnom Penh"@en;
+  <http://semantics.id/ns/example/movie#code> "KH";
+  <http://semantics.id/ns/example/movie#currency> "KHR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cambodia"@en .
+
+<http://semantics.id/ns/example#Cameroon> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "YaoundÃ©"@en;
+  <http://semantics.id/ns/example/movie#code> "CM";
+  <http://semantics.id/ns/example/movie#currency> "XAF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cameroon"@en .
+
+<http://semantics.id/ns/example#Canada> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Ottawa"@en;
+  <http://semantics.id/ns/example/movie#code> "CA";
+  <http://semantics.id/ns/example/movie#currency> "CAD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Canada"@en .
+
+<http://semantics.id/ns/example#Cape%20Verde> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Praia"@en;
+  <http://semantics.id/ns/example/movie#code> "CV";
+  <http://semantics.id/ns/example/movie#currency> "CVE";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cape Verde"@en .
+
+<http://semantics.id/ns/example#Cayman%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "George Town"@en;
+  <http://semantics.id/ns/example/movie#code> "KY";
+  <http://semantics.id/ns/example/movie#currency> "KYD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cayman Islands"@en .
+
+<http://semantics.id/ns/example#Central%20African%20Republic> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bangui"@en;
+  <http://semantics.id/ns/example/movie#code> "CF";
+  <http://semantics.id/ns/example/movie#currency> "XAF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Central African Republic"@en .
+
+<http://semantics.id/ns/example#Chad> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "N'Djamena"@en;
+  <http://semantics.id/ns/example/movie#code> "TD";
+  <http://semantics.id/ns/example/movie#currency> "XAF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Chad"@en .
+
+<http://semantics.id/ns/example#Chile> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Santiago"@en;
+  <http://semantics.id/ns/example/movie#code> "CL";
+  <http://semantics.id/ns/example/movie#currency> "CLF,CLP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Chile"@en .
+
+<http://semantics.id/ns/example#China> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Beijing"@en;
+  <http://semantics.id/ns/example/movie#code> "CN";
+  <http://semantics.id/ns/example/movie#currency> "CNY";
+  <http://www.w3.org/2000/01/rdf-schema#label> "China"@en .
+
+<http://semantics.id/ns/example#Christmas%20Island> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Flying Fish Cove"@en;
+  <http://semantics.id/ns/example/movie#code> "CX";
+  <http://semantics.id/ns/example/movie#currency> "AUD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Christmas Island"@en .
+
+<http://semantics.id/ns/example#Cocos%20%5bKeeling%5d%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "West Island"@en;
+  <http://semantics.id/ns/example/movie#code> "CC";
+  <http://semantics.id/ns/example/movie#currency> "AUD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cocos [Keeling] Islands"@en .
+
+<http://semantics.id/ns/example#Colombia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "BogotÃ¡"@en;
+  <http://semantics.id/ns/example/movie#code> "CO";
+  <http://semantics.id/ns/example/movie#currency> "COP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Colombia"@en .
+
+<http://semantics.id/ns/example#Comoros> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Moroni"@en;
+  <http://semantics.id/ns/example/movie#code> "KM";
+  <http://semantics.id/ns/example/movie#currency> "KMF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Comoros"@en .
+
+<http://semantics.id/ns/example#Cook%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Avarua"@en;
+  <http://semantics.id/ns/example/movie#code> "CK";
+  <http://semantics.id/ns/example/movie#currency> "NZD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cook Islands"@en .
+
+<http://semantics.id/ns/example#Costa%20Rica> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "San JosÃ©"@en;
+  <http://semantics.id/ns/example/movie#code> "CR";
+  <http://semantics.id/ns/example/movie#currency> "CRC";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Costa Rica"@en .
+
+<http://semantics.id/ns/example#Croatia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Zagreb"@en;
+  <http://semantics.id/ns/example/movie#code> "HR";
+  <http://semantics.id/ns/example/movie#currency> "HRK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Croatia"@en .
+
+<http://semantics.id/ns/example#Cuba> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Havana"@en;
+  <http://semantics.id/ns/example/movie#code> "CU";
+  <http://semantics.id/ns/example/movie#currency> "CUC,CUP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cuba"@en .
+
+<http://semantics.id/ns/example#Curacao> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Willemstad"@en;
+  <http://semantics.id/ns/example/movie#code> "CW";
+  <http://semantics.id/ns/example/movie#currency> "ANG";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Curacao"@en .
+
+<http://semantics.id/ns/example#Cyprus> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Nicosia"@en;
+  <http://semantics.id/ns/example/movie#code> "CY";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cyprus"@en .
+
+<http://semantics.id/ns/example#Czech%20Republic> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Prague"@en;
+  <http://semantics.id/ns/example/movie#code> "CZ";
+  <http://semantics.id/ns/example/movie#currency> "CZK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Czech Republic"@en .
+
+<http://semantics.id/ns/example#Democratic%20Republic%20of%20the%20Congo> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kinshasa"@en;
+  <http://semantics.id/ns/example/movie#code> "CD";
+  <http://semantics.id/ns/example/movie#currency> "CDF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Democratic Republic of the Congo"@en .
+
+<http://semantics.id/ns/example#Denmark> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Copenhagen"@en;
+  <http://semantics.id/ns/example/movie#code> "DK";
+  <http://semantics.id/ns/example/movie#currency> "DKK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Denmark"@en .
+
+<http://semantics.id/ns/example#Djibouti> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Djibouti"@en;
+  <http://semantics.id/ns/example/movie#code> "DJ";
+  <http://semantics.id/ns/example/movie#currency> "DJF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Djibouti"@en .
+
+<http://semantics.id/ns/example#Dominica> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Roseau"@en;
+  <http://semantics.id/ns/example/movie#code> "DM";
+  <http://semantics.id/ns/example/movie#currency> "XCD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Dominica"@en .
+
+<http://semantics.id/ns/example#Dominican%20Republic> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Santo Domingo"@en;
+  <http://semantics.id/ns/example/movie#code> "DO";
+  <http://semantics.id/ns/example/movie#currency> "DOP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Dominican Republic"@en .
+
+<http://semantics.id/ns/example#East%20Timor> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Dili"@en;
+  <http://semantics.id/ns/example/movie#code> "TL";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "East Timor"@en .
+
+<http://semantics.id/ns/example#Ecuador> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Quito"@en;
+  <http://semantics.id/ns/example/movie#code> "EC";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ecuador"@en .
+
+<http://semantics.id/ns/example#Egypt> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Cairo"@en;
+  <http://semantics.id/ns/example/movie#code> "EG";
+  <http://semantics.id/ns/example/movie#currency> "EGP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Egypt"@en .
+
+<http://semantics.id/ns/example#El%20Salvador> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "San Salvador"@en;
+  <http://semantics.id/ns/example/movie#code> "SV";
+  <http://semantics.id/ns/example/movie#currency> "SVC,USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "El Salvador"@en .
+
+<http://semantics.id/ns/example#Equatorial%20Guinea> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Malabo"@en;
+  <http://semantics.id/ns/example/movie#code> "GQ";
+  <http://semantics.id/ns/example/movie#currency> "XAF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Equatorial Guinea"@en .
+
+<http://semantics.id/ns/example#Eritrea> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Asmara"@en;
+  <http://semantics.id/ns/example/movie#code> "ER";
+  <http://semantics.id/ns/example/movie#currency> "ERN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Eritrea"@en .
+
+<http://semantics.id/ns/example#Estonia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Tallinn"@en;
+  <http://semantics.id/ns/example/movie#code> "EE";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Estonia"@en .
+
+<http://semantics.id/ns/example#Ethiopia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Addis Ababa"@en;
+  <http://semantics.id/ns/example/movie#code> "ET";
+  <http://semantics.id/ns/example/movie#currency> "ETB";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ethiopia"@en .
+
+<http://semantics.id/ns/example#Falkland%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Stanley"@en;
+  <http://semantics.id/ns/example/movie#code> "FK";
+  <http://semantics.id/ns/example/movie#currency> "FKP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Falkland Islands"@en .
+
+<http://semantics.id/ns/example#Faroe%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "TÃ³rshavn"@en;
+  <http://semantics.id/ns/example/movie#code> "FO";
+  <http://semantics.id/ns/example/movie#currency> "DKK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Faroe Islands"@en .
+
+<http://semantics.id/ns/example#Fiji> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Suva"@en;
+  <http://semantics.id/ns/example/movie#code> "FJ";
+  <http://semantics.id/ns/example/movie#currency> "FJD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fiji"@en .
+
+<http://semantics.id/ns/example#Finland> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Helsinki"@en;
+  <http://semantics.id/ns/example/movie#code> "FI";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Finland"@en .
+
+<http://semantics.id/ns/example#France> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Paris"@en;
+  <http://semantics.id/ns/example/movie#code> "FR";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "France"@en .
+
+<http://semantics.id/ns/example#French%20Guiana> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Cayenne"@en;
+  <http://semantics.id/ns/example/movie#code> "GF";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "French Guiana"@en .
+
+<http://semantics.id/ns/example#French%20Polynesia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "PapeetÄ“"@en;
+  <http://semantics.id/ns/example/movie#code> "PF";
+  <http://semantics.id/ns/example/movie#currency> "XPF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "French Polynesia"@en .
+
+<http://semantics.id/ns/example#French%20Southern%20Territories> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Port-aux-FranÃ§ais"@en;
+  <http://semantics.id/ns/example/movie#code> "TF";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "French Southern Territories"@en .
+
+<http://semantics.id/ns/example#Gabon> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Libreville"@en;
+  <http://semantics.id/ns/example/movie#code> "GA";
+  <http://semantics.id/ns/example/movie#currency> "XAF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gabon"@en .
+
+<http://semantics.id/ns/example#Gambia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Banjul"@en;
+  <http://semantics.id/ns/example/movie#code> "GM";
+  <http://semantics.id/ns/example/movie#currency> "GMD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gambia"@en .
+
+<http://semantics.id/ns/example#Georgia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Tbilisi"@en;
+  <http://semantics.id/ns/example/movie#code> "GE";
+  <http://semantics.id/ns/example/movie#currency> "GEL";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Georgia"@en .
+
+<http://semantics.id/ns/example#Germany> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Berlin"@en;
+  <http://semantics.id/ns/example/movie#code> "DE";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Germany"@en .
+
+<http://semantics.id/ns/example#Ghana> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Accra"@en;
+  <http://semantics.id/ns/example/movie#code> "GH";
+  <http://semantics.id/ns/example/movie#currency> "GHS";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ghana"@en .
+
+<http://semantics.id/ns/example#Gibraltar> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Gibraltar"@en;
+  <http://semantics.id/ns/example/movie#code> "GI";
+  <http://semantics.id/ns/example/movie#currency> "GIP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gibraltar"@en .
+
+<http://semantics.id/ns/example#Greece> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Athens"@en;
+  <http://semantics.id/ns/example/movie#code> "GR";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Greece"@en .
+
+<http://semantics.id/ns/example#Greenland> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Nuuk"@en;
+  <http://semantics.id/ns/example/movie#code> "GL";
+  <http://semantics.id/ns/example/movie#currency> "DKK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Greenland"@en .
+
+<http://semantics.id/ns/example#Grenada> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "St. George's"@en;
+  <http://semantics.id/ns/example/movie#code> "GD";
+  <http://semantics.id/ns/example/movie#currency> "XCD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Grenada"@en .
+
+<http://semantics.id/ns/example#Guadeloupe> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Basse-Terre"@en;
+  <http://semantics.id/ns/example/movie#code> "GP";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Guadeloupe"@en .
+
+<http://semantics.id/ns/example#Guam> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "HagÃ¥tÃ±a"@en;
+  <http://semantics.id/ns/example/movie#code> "GU";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Guam"@en .
+
+<http://semantics.id/ns/example#Guatemala> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Guatemala City"@en;
+  <http://semantics.id/ns/example/movie#code> "GT";
+  <http://semantics.id/ns/example/movie#currency> "GTQ";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Guatemala"@en .
+
+<http://semantics.id/ns/example#Guernsey> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "St. Peter Port"@en;
+  <http://semantics.id/ns/example/movie#code> "GG";
+  <http://semantics.id/ns/example/movie#currency> "GBP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Guernsey"@en .
+
+<http://semantics.id/ns/example#Guinea> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Conakry"@en;
+  <http://semantics.id/ns/example/movie#code> "GN";
+  <http://semantics.id/ns/example/movie#currency> "GNF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Guinea"@en .
+
+<http://semantics.id/ns/example#Guinea-Bissau> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bissau"@en;
+  <http://semantics.id/ns/example/movie#code> "GW";
+  <http://semantics.id/ns/example/movie#currency> "XOF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Guinea-Bissau"@en .
+
+<http://semantics.id/ns/example#Guyana> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Georgetown"@en;
+  <http://semantics.id/ns/example/movie#code> "GY";
+  <http://semantics.id/ns/example/movie#currency> "GYD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Guyana"@en .
+
+<http://semantics.id/ns/example#Haiti> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Port-au-Prince"@en;
+  <http://semantics.id/ns/example/movie#code> "HT";
+  <http://semantics.id/ns/example/movie#currency> "HTG,USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Haiti"@en .
+
+<http://semantics.id/ns/example#Heard%20Island%20and%20McDonald%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> ""@en;
+  <http://semantics.id/ns/example/movie#code> "HM";
+  <http://semantics.id/ns/example/movie#currency> "AUD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Heard Island and McDonald Islands"@en .
+
+<http://semantics.id/ns/example#Honduras> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Tegucigalpa"@en;
+  <http://semantics.id/ns/example/movie#code> "HN";
+  <http://semantics.id/ns/example/movie#currency> "HNL";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Honduras"@en .
+
+<http://semantics.id/ns/example#Hong%20Kong> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "City of Victoria"@en;
+  <http://semantics.id/ns/example/movie#code> "HK";
+  <http://semantics.id/ns/example/movie#currency> "HKD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Hong Kong"@en .
+
+<http://semantics.id/ns/example#Hungary> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Budapest"@en;
+  <http://semantics.id/ns/example/movie#code> "HU";
+  <http://semantics.id/ns/example/movie#currency> "HUF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Hungary"@en .
+
+<http://semantics.id/ns/example#Iceland> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Reykjavik"@en;
+  <http://semantics.id/ns/example/movie#code> "IS";
+  <http://semantics.id/ns/example/movie#currency> "ISK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Iceland"@en .
+
+<http://semantics.id/ns/example#India> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "New Delhi"@en;
+  <http://semantics.id/ns/example/movie#code> "IN";
+  <http://semantics.id/ns/example/movie#currency> "INR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "India"@en .
+
+<http://semantics.id/ns/example#Indonesia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Jakarta"@en;
+  <http://semantics.id/ns/example/movie#code> "ID";
+  <http://semantics.id/ns/example/movie#currency> "IDR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Indonesia"@en .
+
+<http://semantics.id/ns/example#Iran> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Tehran"@en;
+  <http://semantics.id/ns/example/movie#code> "IR";
+  <http://semantics.id/ns/example/movie#currency> "IRR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Iran"@en .
+
+<http://semantics.id/ns/example#Iraq> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Baghdad"@en;
+  <http://semantics.id/ns/example/movie#code> "IQ";
+  <http://semantics.id/ns/example/movie#currency> "IQD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Iraq"@en .
+
+<http://semantics.id/ns/example#Ireland> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Dublin"@en;
+  <http://semantics.id/ns/example/movie#code> "IE";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ireland"@en .
+
+<http://semantics.id/ns/example#Isle%20of%20Man> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Douglas"@en;
+  <http://semantics.id/ns/example/movie#code> "IM";
+  <http://semantics.id/ns/example/movie#currency> "GBP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Isle of Man"@en .
+
+<http://semantics.id/ns/example#Israel> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Jerusalem"@en;
+  <http://semantics.id/ns/example/movie#code> "IL";
+  <http://semantics.id/ns/example/movie#currency> "ILS";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Israel"@en .
+
+<http://semantics.id/ns/example#Italy> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Rome"@en;
+  <http://semantics.id/ns/example/movie#code> "IT";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Italy"@en .
+
+<http://semantics.id/ns/example#Ivory%20Coast> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Yamoussoukro"@en;
+  <http://semantics.id/ns/example/movie#code> "CI";
+  <http://semantics.id/ns/example/movie#currency> "XOF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ivory Coast"@en .
+
+<http://semantics.id/ns/example#Jamaica> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kingston"@en;
+  <http://semantics.id/ns/example/movie#code> "JM";
+  <http://semantics.id/ns/example/movie#currency> "JMD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Jamaica"@en .
+
+<http://semantics.id/ns/example#Japan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Tokyo"@en;
+  <http://semantics.id/ns/example/movie#code> "JP";
+  <http://semantics.id/ns/example/movie#currency> "JPY";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Japan"@en .
+
+<http://semantics.id/ns/example#Jersey> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Saint Helier"@en;
+  <http://semantics.id/ns/example/movie#code> "JE";
+  <http://semantics.id/ns/example/movie#currency> "GBP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Jersey"@en .
+
+<http://semantics.id/ns/example#Jordan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Amman"@en;
+  <http://semantics.id/ns/example/movie#code> "JO";
+  <http://semantics.id/ns/example/movie#currency> "JOD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Jordan"@en .
+
+<http://semantics.id/ns/example#Kazakhstan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Astana"@en;
+  <http://semantics.id/ns/example/movie#code> "KZ";
+  <http://semantics.id/ns/example/movie#currency> "KZT";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kazakhstan"@en .
+
+<http://semantics.id/ns/example#Kenya> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Nairobi"@en;
+  <http://semantics.id/ns/example/movie#code> "KE";
+  <http://semantics.id/ns/example/movie#currency> "KES";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kenya"@en .
+
+<http://semantics.id/ns/example#Kiribati> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "South Tarawa"@en;
+  <http://semantics.id/ns/example/movie#code> "KI";
+  <http://semantics.id/ns/example/movie#currency> "AUD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kiribati"@en .
+
+<http://semantics.id/ns/example#Kosovo> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Pristina"@en;
+  <http://semantics.id/ns/example/movie#code> "XK";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kosovo"@en .
+
+<http://semantics.id/ns/example#Kuwait> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kuwait City"@en;
+  <http://semantics.id/ns/example/movie#code> "KW";
+  <http://semantics.id/ns/example/movie#currency> "KWD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kuwait"@en .
+
+<http://semantics.id/ns/example#Kyrgyzstan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bishkek"@en;
+  <http://semantics.id/ns/example/movie#code> "KG";
+  <http://semantics.id/ns/example/movie#currency> "KGS";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kyrgyzstan"@en .
+
+<http://semantics.id/ns/example#Laos> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Vientiane"@en;
+  <http://semantics.id/ns/example/movie#code> "LA";
+  <http://semantics.id/ns/example/movie#currency> "LAK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Laos"@en .
+
+<http://semantics.id/ns/example#Latvia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Riga"@en;
+  <http://semantics.id/ns/example/movie#code> "LV";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Latvia"@en .
+
+<http://semantics.id/ns/example#Lebanon> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Beirut"@en;
+  <http://semantics.id/ns/example/movie#code> "LB";
+  <http://semantics.id/ns/example/movie#currency> "LBP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lebanon"@en .
+
+<http://semantics.id/ns/example#Lesotho> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Maseru"@en;
+  <http://semantics.id/ns/example/movie#code> "LS";
+  <http://semantics.id/ns/example/movie#currency> "LSL,ZAR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lesotho"@en .
+
+<http://semantics.id/ns/example#Liberia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Monrovia"@en;
+  <http://semantics.id/ns/example/movie#code> "LR";
+  <http://semantics.id/ns/example/movie#currency> "LRD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Liberia"@en .
+
+<http://semantics.id/ns/example#Libya> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Tripoli"@en;
+  <http://semantics.id/ns/example/movie#code> "LY";
+  <http://semantics.id/ns/example/movie#currency> "LYD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Libya"@en .
+
+<http://semantics.id/ns/example#Liechtenstein> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Vaduz"@en;
+  <http://semantics.id/ns/example/movie#code> "LI";
+  <http://semantics.id/ns/example/movie#currency> "CHF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Liechtenstein"@en .
+
+<http://semantics.id/ns/example#Lithuania> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Vilnius"@en;
+  <http://semantics.id/ns/example/movie#code> "LT";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lithuania"@en .
+
+<http://semantics.id/ns/example#Luxembourg> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Luxembourg"@en;
+  <http://semantics.id/ns/example/movie#code> "LU";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Luxembourg"@en .
+
+<http://semantics.id/ns/example#Macao> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> ""@en;
+  <http://semantics.id/ns/example/movie#code> "MO";
+  <http://semantics.id/ns/example/movie#currency> "MOP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Macao"@en .
+
+<http://semantics.id/ns/example#Madagascar> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Antananarivo"@en;
+  <http://semantics.id/ns/example/movie#code> "MG";
+  <http://semantics.id/ns/example/movie#currency> "MGA";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Madagascar"@en .
+
+<http://semantics.id/ns/example#Malawi> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Lilongwe"@en;
+  <http://semantics.id/ns/example/movie#code> "MW";
+  <http://semantics.id/ns/example/movie#currency> "MWK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Malawi"@en .
+
+<http://semantics.id/ns/example#Malaysia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kuala Lumpur"@en;
+  <http://semantics.id/ns/example/movie#code> "MY";
+  <http://semantics.id/ns/example/movie#currency> "MYR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Malaysia"@en .
+
+<http://semantics.id/ns/example#Maldives> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "MalÃ©"@en;
+  <http://semantics.id/ns/example/movie#code> "MV";
+  <http://semantics.id/ns/example/movie#currency> "MVR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Maldives"@en .
+
+<http://semantics.id/ns/example#Mali> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bamako"@en;
+  <http://semantics.id/ns/example/movie#code> "ML";
+  <http://semantics.id/ns/example/movie#currency> "XOF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mali"@en .
+
+<http://semantics.id/ns/example#Malta> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Valletta"@en;
+  <http://semantics.id/ns/example/movie#code> "MT";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Malta"@en .
+
+<http://semantics.id/ns/example#Marshall%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Majuro"@en;
+  <http://semantics.id/ns/example/movie#code> "MH";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Marshall Islands"@en .
+
+<http://semantics.id/ns/example#Martinique> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Fort-de-France"@en;
+  <http://semantics.id/ns/example/movie#code> "MQ";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Martinique"@en .
+
+<http://semantics.id/ns/example#Mauritania> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Nouakchott"@en;
+  <http://semantics.id/ns/example/movie#code> "MR";
+  <http://semantics.id/ns/example/movie#currency> "MRU";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mauritania"@en .
+
+<http://semantics.id/ns/example#Mauritius> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Port Louis"@en;
+  <http://semantics.id/ns/example/movie#code> "MU";
+  <http://semantics.id/ns/example/movie#currency> "MUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mauritius"@en .
+
+<http://semantics.id/ns/example#Mayotte> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Mamoudzou"@en;
+  <http://semantics.id/ns/example/movie#code> "YT";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mayotte"@en .
+
+<http://semantics.id/ns/example#Mexico> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Mexico City"@en;
+  <http://semantics.id/ns/example/movie#code> "MX";
+  <http://semantics.id/ns/example/movie#currency> "MXN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mexico"@en .
+
+<http://semantics.id/ns/example#Micronesia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Palikir"@en;
+  <http://semantics.id/ns/example/movie#code> "FM";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Micronesia"@en .
+
+<http://semantics.id/ns/example#Moldova> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "ChiÈ™inÄƒu"@en;
+  <http://semantics.id/ns/example/movie#code> "MD";
+  <http://semantics.id/ns/example/movie#currency> "MDL";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Moldova"@en .
+
+<http://semantics.id/ns/example#Monaco> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Monaco"@en;
+  <http://semantics.id/ns/example/movie#code> "MC";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Monaco"@en .
+
+<http://semantics.id/ns/example#Mongolia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Ulan Bator"@en;
+  <http://semantics.id/ns/example/movie#code> "MN";
+  <http://semantics.id/ns/example/movie#currency> "MNT";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mongolia"@en .
+
+<http://semantics.id/ns/example#Montenegro> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Podgorica"@en;
+  <http://semantics.id/ns/example/movie#code> "ME";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Montenegro"@en .
+
+<http://semantics.id/ns/example#Montserrat> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Plymouth"@en;
+  <http://semantics.id/ns/example/movie#code> "MS";
+  <http://semantics.id/ns/example/movie#currency> "XCD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Montserrat"@en .
+
+<http://semantics.id/ns/example#Morocco> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Rabat"@en;
+  <http://semantics.id/ns/example/movie#code> "MA";
+  <http://semantics.id/ns/example/movie#currency> "MAD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Morocco"@en .
+
+<http://semantics.id/ns/example#Mozambique> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Maputo"@en;
+  <http://semantics.id/ns/example/movie#code> "MZ";
+  <http://semantics.id/ns/example/movie#currency> "MZN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mozambique"@en .
+
+<http://semantics.id/ns/example#Myanmar%20%5bBurma%5d> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Naypyidaw"@en;
+  <http://semantics.id/ns/example/movie#code> "MM";
+  <http://semantics.id/ns/example/movie#currency> "MMK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Myanmar [Burma]"@en .
+
+<http://semantics.id/ns/example#Namibia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Windhoek"@en;
+  <http://semantics.id/ns/example/movie#code> "NA";
+  <http://semantics.id/ns/example/movie#currency> "NAD,ZAR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Namibia"@en .
+
+<http://semantics.id/ns/example#Nauru> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Yaren"@en;
+  <http://semantics.id/ns/example/movie#code> "NR";
+  <http://semantics.id/ns/example/movie#currency> "AUD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nauru"@en .
+
+<http://semantics.id/ns/example#Nepal> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kathmandu"@en;
+  <http://semantics.id/ns/example/movie#code> "NP";
+  <http://semantics.id/ns/example/movie#currency> "NPR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nepal"@en .
+
+<http://semantics.id/ns/example#Netherlands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Amsterdam"@en;
+  <http://semantics.id/ns/example/movie#code> "NL";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Netherlands"@en .
+
+<http://semantics.id/ns/example#New%20Caledonia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "NoumÃ©a"@en;
+  <http://semantics.id/ns/example/movie#code> "NC";
+  <http://semantics.id/ns/example/movie#currency> "XPF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "New Caledonia"@en .
+
+<http://semantics.id/ns/example#New%20Zealand> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Wellington"@en;
+  <http://semantics.id/ns/example/movie#code> "NZ";
+  <http://semantics.id/ns/example/movie#currency> "NZD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "New Zealand"@en .
+
+<http://semantics.id/ns/example#Nicaragua> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Managua"@en;
+  <http://semantics.id/ns/example/movie#code> "NI";
+  <http://semantics.id/ns/example/movie#currency> "NIO";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nicaragua"@en .
+
+<http://semantics.id/ns/example#Niger> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Niamey"@en;
+  <http://semantics.id/ns/example/movie#code> "NE";
+  <http://semantics.id/ns/example/movie#currency> "XOF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Niger"@en .
+
+<http://semantics.id/ns/example#Nigeria> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Abuja"@en;
+  <http://semantics.id/ns/example/movie#code> "NG";
+  <http://semantics.id/ns/example/movie#currency> "NGN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nigeria"@en .
+
+<http://semantics.id/ns/example#Niue> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Alofi"@en;
+  <http://semantics.id/ns/example/movie#code> "NU";
+  <http://semantics.id/ns/example/movie#currency> "NZD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Niue"@en .
+
+<http://semantics.id/ns/example#Norfolk%20Island> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kingston"@en;
+  <http://semantics.id/ns/example/movie#code> "NF";
+  <http://semantics.id/ns/example/movie#currency> "AUD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Norfolk Island"@en .
+
+<http://semantics.id/ns/example#North%20Korea> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Pyongyang"@en;
+  <http://semantics.id/ns/example/movie#code> "KP";
+  <http://semantics.id/ns/example/movie#currency> "KPW";
+  <http://www.w3.org/2000/01/rdf-schema#label> "North Korea"@en .
+
+<http://semantics.id/ns/example#North%20Macedonia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Skopje"@en;
+  <http://semantics.id/ns/example/movie#code> "MK";
+  <http://semantics.id/ns/example/movie#currency> "MKD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "North Macedonia"@en .
+
+<http://semantics.id/ns/example#Northern%20Mariana%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Saipan"@en;
+  <http://semantics.id/ns/example/movie#code> "MP";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Northern Mariana Islands"@en .
+
+<http://semantics.id/ns/example#Norway> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Oslo"@en;
+  <http://semantics.id/ns/example/movie#code> "NO";
+  <http://semantics.id/ns/example/movie#currency> "NOK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Norway"@en .
+
+<http://semantics.id/ns/example#Oman> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Muscat"@en;
+  <http://semantics.id/ns/example/movie#code> "OM";
+  <http://semantics.id/ns/example/movie#currency> "OMR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Oman"@en .
+
+<http://semantics.id/ns/example#Pakistan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Islamabad"@en;
+  <http://semantics.id/ns/example/movie#code> "PK";
+  <http://semantics.id/ns/example/movie#currency> "PKR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Pakistan"@en .
+
+<http://semantics.id/ns/example#Palau> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Ngerulmud"@en;
+  <http://semantics.id/ns/example/movie#code> "PW";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Palau"@en .
+
+<http://semantics.id/ns/example#Palestine> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Ramallah"@en;
+  <http://semantics.id/ns/example/movie#code> "PS";
+  <http://semantics.id/ns/example/movie#currency> "ILS";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Palestine"@en .
+
+<http://semantics.id/ns/example#Panama> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Panama City"@en;
+  <http://semantics.id/ns/example/movie#code> "PA";
+  <http://semantics.id/ns/example/movie#currency> "PAB,USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Panama"@en .
+
+<http://semantics.id/ns/example#Papua%20New%20Guinea> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Port Moresby"@en;
+  <http://semantics.id/ns/example/movie#code> "PG";
+  <http://semantics.id/ns/example/movie#currency> "PGK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Papua New Guinea"@en .
+
+<http://semantics.id/ns/example#Paraguay> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "AsunciÃ³n"@en;
+  <http://semantics.id/ns/example/movie#code> "PY";
+  <http://semantics.id/ns/example/movie#currency> "PYG";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Paraguay"@en .
+
+<http://semantics.id/ns/example#Peru> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Lima"@en;
+  <http://semantics.id/ns/example/movie#code> "PE";
+  <http://semantics.id/ns/example/movie#currency> "PEN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Peru"@en .
+
+<http://semantics.id/ns/example#Philippines> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Manila"@en;
+  <http://semantics.id/ns/example/movie#code> "PH";
+  <http://semantics.id/ns/example/movie#currency> "PHP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Philippines"@en .
+
+<http://semantics.id/ns/example#Pitcairn%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Adamstown"@en;
+  <http://semantics.id/ns/example/movie#code> "PN";
+  <http://semantics.id/ns/example/movie#currency> "NZD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Pitcairn Islands"@en .
+
+<http://semantics.id/ns/example#Poland> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Warsaw"@en;
+  <http://semantics.id/ns/example/movie#code> "PL";
+  <http://semantics.id/ns/example/movie#currency> "PLN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Poland"@en .
+
+<http://semantics.id/ns/example#Portugal> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Lisbon"@en;
+  <http://semantics.id/ns/example/movie#code> "PT";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Portugal"@en .
+
+<http://semantics.id/ns/example#Puerto%20Rico> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "San Juan"@en;
+  <http://semantics.id/ns/example/movie#code> "PR";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Puerto Rico"@en .
+
+<http://semantics.id/ns/example#Qatar> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Doha"@en;
+  <http://semantics.id/ns/example/movie#code> "QA";
+  <http://semantics.id/ns/example/movie#currency> "QAR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Qatar"@en .
+
+<http://semantics.id/ns/example#Republic%20of%20the%20Congo> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Brazzaville"@en;
+  <http://semantics.id/ns/example/movie#code> "CG";
+  <http://semantics.id/ns/example/movie#currency> "XAF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Republic of the Congo"@en .
+
+<http://semantics.id/ns/example#Romania> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bucharest"@en;
+  <http://semantics.id/ns/example/movie#code> "RO";
+  <http://semantics.id/ns/example/movie#currency> "RON";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Romania"@en .
+
+<http://semantics.id/ns/example#Russia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Moscow"@en;
+  <http://semantics.id/ns/example/movie#code> "RU";
+  <http://semantics.id/ns/example/movie#currency> "RUB";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Russia"@en .
+
+<http://semantics.id/ns/example#Rwanda> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kigali"@en;
+  <http://semantics.id/ns/example/movie#code> "RW";
+  <http://semantics.id/ns/example/movie#currency> "RWF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rwanda"@en .
+
+<http://semantics.id/ns/example#RÃ©union> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Saint-Denis"@en;
+  <http://semantics.id/ns/example/movie#code> "RE";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "RÃ©union"@en .
+
+<http://semantics.id/ns/example#Saint%20BarthÃ©lemy> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Gustavia"@en;
+  <http://semantics.id/ns/example/movie#code> "BL";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Saint BarthÃ©lemy"@en .
+
+<http://semantics.id/ns/example#Saint%20Helena> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Jamestown"@en;
+  <http://semantics.id/ns/example/movie#code> "SH";
+  <http://semantics.id/ns/example/movie#currency> "SHP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Saint Helena"@en .
+
+<http://semantics.id/ns/example#Saint%20Kitts%20and%20Nevis> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Basseterre"@en;
+  <http://semantics.id/ns/example/movie#code> "KN";
+  <http://semantics.id/ns/example/movie#currency> "XCD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Saint Kitts and Nevis"@en .
+
+<http://semantics.id/ns/example#Saint%20Lucia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Castries"@en;
+  <http://semantics.id/ns/example/movie#code> "LC";
+  <http://semantics.id/ns/example/movie#currency> "XCD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Saint Lucia"@en .
+
+<http://semantics.id/ns/example#Saint%20Martin> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Marigot"@en;
+  <http://semantics.id/ns/example/movie#code> "MF";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Saint Martin"@en .
+
+<http://semantics.id/ns/example#Saint%20Pierre%20and%20Miquelon> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Saint-Pierre"@en;
+  <http://semantics.id/ns/example/movie#code> "PM";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Saint Pierre and Miquelon"@en .
+
+<http://semantics.id/ns/example#Saint%20Vincent%20and%20the%20Grenadines> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kingstown"@en;
+  <http://semantics.id/ns/example/movie#code> "VC";
+  <http://semantics.id/ns/example/movie#currency> "XCD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Saint Vincent and the Grenadines"@en .
+
+<http://semantics.id/ns/example#Samoa> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Apia"@en;
+  <http://semantics.id/ns/example/movie#code> "WS";
+  <http://semantics.id/ns/example/movie#currency> "WST";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Samoa"@en .
+
+<http://semantics.id/ns/example#San%20Marino> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "City of San Marino"@en;
+  <http://semantics.id/ns/example/movie#code> "SM";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "San Marino"@en .
+
+<http://semantics.id/ns/example#Saudi%20Arabia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Riyadh"@en;
+  <http://semantics.id/ns/example/movie#code> "SA";
+  <http://semantics.id/ns/example/movie#currency> "SAR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Saudi Arabia"@en .
+
+<http://semantics.id/ns/example#Senegal> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Dakar"@en;
+  <http://semantics.id/ns/example/movie#code> "SN";
+  <http://semantics.id/ns/example/movie#currency> "XOF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Senegal"@en .
+
+<http://semantics.id/ns/example#Serbia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Belgrade"@en;
+  <http://semantics.id/ns/example/movie#code> "RS";
+  <http://semantics.id/ns/example/movie#currency> "RSD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Serbia"@en .
+
+<http://semantics.id/ns/example#Seychelles> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Victoria"@en;
+  <http://semantics.id/ns/example/movie#code> "SC";
+  <http://semantics.id/ns/example/movie#currency> "SCR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Seychelles"@en .
+
+<http://semantics.id/ns/example#Sierra%20Leone> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Freetown"@en;
+  <http://semantics.id/ns/example/movie#code> "SL";
+  <http://semantics.id/ns/example/movie#currency> "SLL";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sierra Leone"@en .
+
+<http://semantics.id/ns/example#Singapore> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Singapore"@en;
+  <http://semantics.id/ns/example/movie#code> "SG";
+  <http://semantics.id/ns/example/movie#currency> "SGD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Singapore"@en .
+
+<http://semantics.id/ns/example#Sint%20Maarten> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Philipsburg"@en;
+  <http://semantics.id/ns/example/movie#code> "SX";
+  <http://semantics.id/ns/example/movie#currency> "ANG";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sint Maarten"@en .
+
+<http://semantics.id/ns/example#Slovakia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bratislava"@en;
+  <http://semantics.id/ns/example/movie#code> "SK";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Slovakia"@en .
+
+<http://semantics.id/ns/example#Slovenia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Ljubljana"@en;
+  <http://semantics.id/ns/example/movie#code> "SI";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Slovenia"@en .
+
+<http://semantics.id/ns/example#Solomon%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Honiara"@en;
+  <http://semantics.id/ns/example/movie#code> "SB";
+  <http://semantics.id/ns/example/movie#currency> "SBD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Solomon Islands"@en .
+
+<http://semantics.id/ns/example#Somalia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Mogadishu"@en;
+  <http://semantics.id/ns/example/movie#code> "SO";
+  <http://semantics.id/ns/example/movie#currency> "SOS";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Somalia"@en .
+
+<http://semantics.id/ns/example#South%20Africa> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Pretoria"@en;
+  <http://semantics.id/ns/example/movie#code> "ZA";
+  <http://semantics.id/ns/example/movie#currency> "ZAR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "South Africa"@en .
+
+<http://semantics.id/ns/example#South%20Georgia%20and%20the%20South%20Sandwich%20Islands>
+  a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "King Edward Point"@en;
+  <http://semantics.id/ns/example/movie#code> "GS";
+  <http://semantics.id/ns/example/movie#currency> "GBP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "South Georgia and the South Sandwich Islands"@en .
+
+<http://semantics.id/ns/example#South%20Korea> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Seoul"@en;
+  <http://semantics.id/ns/example/movie#code> "KR";
+  <http://semantics.id/ns/example/movie#currency> "KRW";
+  <http://www.w3.org/2000/01/rdf-schema#label> "South Korea"@en .
+
+<http://semantics.id/ns/example#South%20Sudan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Juba"@en;
+  <http://semantics.id/ns/example/movie#code> "SS";
+  <http://semantics.id/ns/example/movie#currency> "SSP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "South Sudan"@en .
+
+<http://semantics.id/ns/example#Spain> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Madrid"@en;
+  <http://semantics.id/ns/example/movie#code> "ES";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Spain"@en .
+
+<http://semantics.id/ns/example#Sri%20Lanka> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Colombo"@en;
+  <http://semantics.id/ns/example/movie#code> "LK";
+  <http://semantics.id/ns/example/movie#currency> "LKR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sri Lanka"@en .
+
+<http://semantics.id/ns/example#Sudan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Khartoum"@en;
+  <http://semantics.id/ns/example/movie#code> "SD";
+  <http://semantics.id/ns/example/movie#currency> "SDG";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sudan"@en .
+
+<http://semantics.id/ns/example#Suriname> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Paramaribo"@en;
+  <http://semantics.id/ns/example/movie#code> "SR";
+  <http://semantics.id/ns/example/movie#currency> "SRD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Suriname"@en .
+
+<http://semantics.id/ns/example#Svalbard%20and%20Jan%20Mayen> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Longyearbyen"@en;
+  <http://semantics.id/ns/example/movie#code> "SJ";
+  <http://semantics.id/ns/example/movie#currency> "NOK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Svalbard and Jan Mayen"@en .
+
+<http://semantics.id/ns/example#Swaziland> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Lobamba"@en;
+  <http://semantics.id/ns/example/movie#code> "SZ";
+  <http://semantics.id/ns/example/movie#currency> "SZL";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Swaziland"@en .
+
+<http://semantics.id/ns/example#Sweden> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Stockholm"@en;
+  <http://semantics.id/ns/example/movie#code> "SE";
+  <http://semantics.id/ns/example/movie#currency> "SEK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sweden"@en .
+
+<http://semantics.id/ns/example#Switzerland> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bern"@en;
+  <http://semantics.id/ns/example/movie#code> "CH";
+  <http://semantics.id/ns/example/movie#currency> "CHE,CHF,CHW";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Switzerland"@en .
+
+<http://semantics.id/ns/example#Syria> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Damascus"@en;
+  <http://semantics.id/ns/example/movie#code> "SY";
+  <http://semantics.id/ns/example/movie#currency> "SYP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Syria"@en .
+
+<http://semantics.id/ns/example#SÃ£o%20TomÃ©%20and%20PrÃ­ncipe> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "SÃ£o TomÃ©"@en;
+  <http://semantics.id/ns/example/movie#code> "ST";
+  <http://semantics.id/ns/example/movie#currency> "STN";
+  <http://www.w3.org/2000/01/rdf-schema#label> "SÃ£o TomÃ© and PrÃ­ncipe"@en .
+
+<http://semantics.id/ns/example#Taiwan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Taipei"@en;
+  <http://semantics.id/ns/example/movie#code> "TW";
+  <http://semantics.id/ns/example/movie#currency> "TWD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Taiwan"@en .
+
+<http://semantics.id/ns/example#Tajikistan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Dushanbe"@en;
+  <http://semantics.id/ns/example/movie#code> "TJ";
+  <http://semantics.id/ns/example/movie#currency> "TJS";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tajikistan"@en .
+
+<http://semantics.id/ns/example#Tanzania> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Dodoma"@en;
+  <http://semantics.id/ns/example/movie#code> "TZ";
+  <http://semantics.id/ns/example/movie#currency> "TZS";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tanzania"@en .
+
+<http://semantics.id/ns/example#Thailand> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Bangkok"@en;
+  <http://semantics.id/ns/example/movie#code> "TH";
+  <http://semantics.id/ns/example/movie#currency> "THB";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Thailand"@en .
+
+<http://semantics.id/ns/example#Togo> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "LomÃ©"@en;
+  <http://semantics.id/ns/example/movie#code> "TG";
+  <http://semantics.id/ns/example/movie#currency> "XOF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Togo"@en .
+
+<http://semantics.id/ns/example#Tokelau> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Fakaofo"@en;
+  <http://semantics.id/ns/example/movie#code> "TK";
+  <http://semantics.id/ns/example/movie#currency> "NZD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tokelau"@en .
+
+<http://semantics.id/ns/example#Tonga> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Nuku'alofa"@en;
+  <http://semantics.id/ns/example/movie#code> "TO";
+  <http://semantics.id/ns/example/movie#currency> "TOP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tonga"@en .
+
+<http://semantics.id/ns/example#Trinidad%20and%20Tobago> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Port of Spain"@en;
+  <http://semantics.id/ns/example/movie#code> "TT";
+  <http://semantics.id/ns/example/movie#currency> "TTD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Trinidad and Tobago"@en .
+
+<http://semantics.id/ns/example#Tunisia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Tunis"@en;
+  <http://semantics.id/ns/example/movie#code> "TN";
+  <http://semantics.id/ns/example/movie#currency> "TND";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tunisia"@en .
+
+<http://semantics.id/ns/example#Turkey> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Ankara"@en;
+  <http://semantics.id/ns/example/movie#code> "TR";
+  <http://semantics.id/ns/example/movie#currency> "TRY";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Turkey"@en .
+
+<http://semantics.id/ns/example#Turkmenistan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Ashgabat"@en;
+  <http://semantics.id/ns/example/movie#code> "TM";
+  <http://semantics.id/ns/example/movie#currency> "TMT";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Turkmenistan"@en .
+
+<http://semantics.id/ns/example#Turks%20and%20Caicos%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Cockburn Town"@en;
+  <http://semantics.id/ns/example/movie#code> "TC";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Turks and Caicos Islands"@en .
+
+<http://semantics.id/ns/example#Tuvalu> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Funafuti"@en;
+  <http://semantics.id/ns/example/movie#code> "TV";
+  <http://semantics.id/ns/example/movie#currency> "AUD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tuvalu"@en .
+
+<http://semantics.id/ns/example#U.S.%20Minor%20Outlying%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> ""@en;
+  <http://semantics.id/ns/example/movie#code> "UM";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "U.S. Minor Outlying Islands"@en .
+
+<http://semantics.id/ns/example#U.S.%20Virgin%20Islands> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Charlotte Amalie"@en;
+  <http://semantics.id/ns/example/movie#code> "VI";
+  <http://semantics.id/ns/example/movie#currency> "USD";
+  <http://www.w3.org/2000/01/rdf-schema#label> "U.S. Virgin Islands"@en .
+
+<http://semantics.id/ns/example#Uganda> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kampala"@en;
+  <http://semantics.id/ns/example/movie#code> "UG";
+  <http://semantics.id/ns/example/movie#currency> "UGX";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Uganda"@en .
+
+<http://semantics.id/ns/example#Ukraine> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Kyiv"@en;
+  <http://semantics.id/ns/example/movie#code> "UA";
+  <http://semantics.id/ns/example/movie#currency> "UAH";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ukraine"@en .
+
+<http://semantics.id/ns/example#United%20Arab%20Emirates> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Abu Dhabi"@en;
+  <http://semantics.id/ns/example/movie#code> "AE";
+  <http://semantics.id/ns/example/movie#currency> "AED";
+  <http://www.w3.org/2000/01/rdf-schema#label> "United Arab Emirates"@en .
+
+<http://semantics.id/ns/example#United%20Kingdom> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "London"@en;
+  <http://semantics.id/ns/example/movie#code> "GB";
+  <http://semantics.id/ns/example/movie#currency> "GBP";
+  <http://www.w3.org/2000/01/rdf-schema#label> "United Kingdom"@en .
+
+<http://semantics.id/ns/example#United%20States> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Washington D.C."@en;
+  <http://semantics.id/ns/example/movie#code> "US";
+  <http://semantics.id/ns/example/movie#currency> "USD,USN,USS";
+  <http://www.w3.org/2000/01/rdf-schema#label> "United States"@en .
+
+<http://semantics.id/ns/example#Uruguay> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Montevideo"@en;
+  <http://semantics.id/ns/example/movie#code> "UY";
+  <http://semantics.id/ns/example/movie#currency> "UYI,UYU";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Uruguay"@en .
+
+<http://semantics.id/ns/example#Uzbekistan> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Tashkent"@en;
+  <http://semantics.id/ns/example/movie#code> "UZ";
+  <http://semantics.id/ns/example/movie#currency> "UZS";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Uzbekistan"@en .
+
+<http://semantics.id/ns/example#Vanuatu> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Port Vila"@en;
+  <http://semantics.id/ns/example/movie#code> "VU";
+  <http://semantics.id/ns/example/movie#currency> "VUV";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vanuatu"@en .
+
+<http://semantics.id/ns/example#Vatican%20City> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Vatican City"@en;
+  <http://semantics.id/ns/example/movie#code> "VA";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vatican City"@en .
+
+<http://semantics.id/ns/example#Venezuela> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Caracas"@en;
+  <http://semantics.id/ns/example/movie#code> "VE";
+  <http://semantics.id/ns/example/movie#currency> "VES";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Venezuela"@en .
+
+<http://semantics.id/ns/example#Vietnam> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Hanoi"@en;
+  <http://semantics.id/ns/example/movie#code> "VN";
+  <http://semantics.id/ns/example/movie#currency> "VND";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vietnam"@en .
+
+<http://semantics.id/ns/example#Wallis%20and%20Futuna> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Mata-Utu"@en;
+  <http://semantics.id/ns/example/movie#code> "WF";
+  <http://semantics.id/ns/example/movie#currency> "XPF";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Wallis and Futuna"@en .
+
+<http://semantics.id/ns/example#Western%20Sahara> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "El AaiÃºn"@en;
+  <http://semantics.id/ns/example/movie#code> "EH";
+  <http://semantics.id/ns/example/movie#currency> "MAD,DZD,MRU";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Western Sahara"@en .
+
+<http://semantics.id/ns/example#Yemen> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Sana'a"@en;
+  <http://semantics.id/ns/example/movie#code> "YE";
+  <http://semantics.id/ns/example/movie#currency> "YER";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Yemen"@en .
+
+<http://semantics.id/ns/example#Zambia> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Lusaka"@en;
+  <http://semantics.id/ns/example/movie#code> "ZM";
+  <http://semantics.id/ns/example/movie#currency> "ZMK";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Zambia"@en .
+
+<http://semantics.id/ns/example#Zimbabwe> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Harare"@en;
+  <http://semantics.id/ns/example/movie#code> "ZW";
+  <http://semantics.id/ns/example/movie#currency> "USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Zimbabwe"@en .
+
+<http://semantics.id/ns/example#Ã…land> a <http://semantics.id/ns/example/movie#Location>;
+  <http://semantics.id/ns/example/movie#capital> "Mariehamn"@en;
+  <http://semantics.id/ns/example/movie#code> "AX";
+  <http://semantics.id/ns/example/movie#currency> "EUR";
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ã…land"@en .

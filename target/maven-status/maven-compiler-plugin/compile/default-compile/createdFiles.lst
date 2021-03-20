@@ -1,0 +1,7 @@
+id\semantics\carml\Main.class
+id\semantics\carml\carml\JSONParser.class
+id\semantics\carml\carml\CSVParser.class
+id\semantics\carml\carml\XMLParser.class
+id\semantics\carml\helper\CarmlFunctions.class
+id\semantics\carml\helper\Config$TRIPLESTORE.class
+id\semantics\carml\helper\Config.class

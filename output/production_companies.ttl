@@ -1,0 +1,2690 @@
+
+<http://semantics.id/ns/example#Aleph%20Producciones> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1990";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Argentina>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Aleph Producciones"@en .
+
+<http://semantics.id/ns/example#Argentina%20Sono%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1933";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Argentina>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Argentina Sono Film"@en .
+
+<http://semantics.id/ns/example#BD%20Cine> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Argentina>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "BD Cine"@en .
+
+<http://semantics.id/ns/example#Guacamole%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Argentina>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Guacamole Films"@en .
+
+<http://semantics.id/ns/example#Patagonik%20Film%20Group> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1996";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Argentina>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Patagonik Film Group"@en .
+
+<http://semantics.id/ns/example#Pol-ka> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1994";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Argentina>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Pol-ka"@en .
+
+<http://semantics.id/ns/example#Efftee%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1933";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Australia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Efftee Studios"@en .
+
+<http://semantics.id/ns/example#Fox%20Studios%20Australia> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1998";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Australia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fox Studios Australia"@en .
+
+<http://semantics.id/ns/example#Rising%20Sun%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Australia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rising Sun Pictures"@en .
+
+<http://semantics.id/ns/example#Village%20Roadshow> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1954";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Australia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Village Roadshow"@en .
+
+<http://semantics.id/ns/example#Village%20Roadshow%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1991";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Australia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Village Roadshow Studios"@en .
+
+<http://semantics.id/ns/example#Working%20Dog%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1993";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Australia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Working Dog Productions"@en .
+
+<http://semantics.id/ns/example#Jaaz%20Multimedia> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2011";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Bangladesh>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Jaaz Multimedia"@en .
+
+<http://semantics.id/ns/example#Monsoon%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2010";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Bangladesh>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Monsoon Films"@en .
+
+<http://semantics.id/ns/example#Impress%20Telefilm%20Limited> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1996";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Bangladesh>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Impress Telefilm Limited"@en .
+
+<http://semantics.id/ns/example#Belarusfilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1928";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Belarus>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Belarusfilm"@en .
+
+<http://semantics.id/ns/example#Studio%20100> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1996";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Belgium>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Studio 100"@en .
+
+<http://semantics.id/ns/example#Globo%20Filmes> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1998";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Brazil>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Globo Filmes"@en .
+
+<http://semantics.id/ns/example#Nu%20Boyana%20Film%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1962";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Bulgaria>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nu Boyana Film Studios"@en .
+
+<http://semantics.id/ns/example#Allude%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2012";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Allude Entertainment"@en .
+
+<http://semantics.id/ns/example#Atopia> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2000";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Atopia"@en .
+
+<http://semantics.id/ns/example#Bleeding%20Art%20Industries> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bleeding Art Industries"@en .
+
+<http://semantics.id/ns/example#Breakthrough%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1986";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Breakthrough Entertainment"@en .
+
+<http://semantics.id/ns/example#The%20Bridge%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1987";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "The Bridge Studios"@en .
+
+<http://semantics.id/ns/example#Brightlight%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Brightlight Pictures"@en .
+
+<http://semantics.id/ns/example#Cloud%20Ten%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1994";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cloud Ten Pictures"@en .
+
+<http://semantics.id/ns/example#DHX%20Media> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2006";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "DHX Media"@en .
+
+<http://semantics.id/ns/example#Entertainment%20One%20Films%20Canada> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Entertainment One Films Canada"@en .
+
+<http://semantics.id/ns/example#Image%20Diffusion%20International> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Image Diffusion International"@en .
+
+<http://semantics.id/ns/example#Leda%20Serene%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Leda Serene Films"@en .
+
+<http://semantics.id/ns/example#Malofilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1983";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Malofilm"@en .
+
+<http://semantics.id/ns/example#National%20Film%20Board%20of%20Canada> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1939";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "National Film Board of Canada"@en .
+
+<http://semantics.id/ns/example#Paperny%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1994";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Paperny Entertainment"@en .
+
+<http://semantics.id/ns/example#Shaftesbury%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1987";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shaftesbury Films"@en .
+
+<http://semantics.id/ns/example#Shavick%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1993";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shavick Entertainment"@en .
+
+<http://semantics.id/ns/example#sisu%20production> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2013";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "sisu production"@en .
+
+<http://semantics.id/ns/example#Suneeva> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Canada>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Suneeva"@en .
+
+<http://semantics.id/ns/example#Alibaba%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Alibaba Pictures"@en .
+
+<http://semantics.id/ns/example#Asia%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1909";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Asia Film Company"@en .
+
+<http://semantics.id/ns/example#Beijing%20Enlight%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2000";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Beijing Enlight Pictures"@en .
+
+<http://semantics.id/ns/example#Beijing%20Galloping%20Horse%20Group> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Beijing Galloping Horse Group"@en .
+
+<http://semantics.id/ns/example#Changchun%20Film%20Group%20Corporation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1950";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Changchun Film Group Corporation"@en .
+
+<http://semantics.id/ns/example#China%20Film%20Group%20Corporation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "China Film Group Corporation"@en .
+
+<http://semantics.id/ns/example#Cinema%20Popular> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2009";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cinema Popular"@en .
+
+<http://semantics.id/ns/example#Diantong%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1934";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Diantong Film Company"@en .
+
+<http://semantics.id/ns/example#DMG%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1993";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "DMG Entertainment"@en .
+
+<http://semantics.id/ns/example#Fantasy%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fantasy Pictures"@en .
+
+<http://semantics.id/ns/example#Film%20Workshop> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1984";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Film Workshop"@en .
+
+<http://semantics.id/ns/example#Fly%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2004";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fly Films"@en .
+
+<http://semantics.id/ns/example#Fundamental%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fundamental Films"@en .
+
+<http://semantics.id/ns/example#Golden%20Princess%20Film%20Production> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1987";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Golden Princess Film Production"@en .
+
+<http://semantics.id/ns/example#Great%20Wall%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1920";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Great Wall Film Company"@en .
+
+<http://semantics.id/ns/example#Hengdian%20World%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1996";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Hengdian World Studios"@en .
+
+<http://semantics.id/ns/example#Heyi%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Heyi Pictures"@en .
+
+<http://semantics.id/ns/example#Huayi%20Brothers> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1994";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Huayi Brothers"@en .
+
+<http://semantics.id/ns/example#Imar%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1997";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Imar Film Company"@en .
+
+<http://semantics.id/ns/example#L%27est%20Films%20Group> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "L'est Films Group"@en .
+
+<http://semantics.id/ns/example#Laurel%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2000";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Laurel Films"@en .
+
+<http://semantics.id/ns/example#Lianhua%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1930";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lianhua Film Company"@en .
+
+<http://semantics.id/ns/example#Mandarin%20Films%20Distribution%20Co.%20Ltd.> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1991";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mandarin Films Distribution Co. Ltd."@en .
+
+<http://semantics.id/ns/example#Media%20Asia%20Entertainment%20Group> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1994";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Media Asia Entertainment Group"@en .
+
+<http://semantics.id/ns/example#Mingxing%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1922";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mingxing Film Company"@en .
+
+<http://semantics.id/ns/example#China%20Sun%20Motion%20Picture%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1922";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "China Sun Motion Picture Company"@en .
+
+<http://semantics.id/ns/example#MZ%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2009";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "MZ Pictures"@en .
+
+<http://semantics.id/ns/example#Northeast%20Film%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1945";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Northeast Film Studio"@en .
+
+<http://semantics.id/ns/example#One%20Hundred%20Years%20of%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "One Hundred Years of Film"@en .
+
+<http://semantics.id/ns/example#Orange%20Sky%20Golden%20Harvest> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1970";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Orange Sky Golden Harvest"@en .
+
+<http://semantics.id/ns/example#Oriental%20DreamWorks> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2012";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Oriental DreamWorks"@en .
+
+<http://semantics.id/ns/example#Polybona%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Polybona Films"@en .
+
+<http://semantics.id/ns/example#Shanghai%20Animation%20Film%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1957";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shanghai Animation Film Studio"@en .
+
+<http://semantics.id/ns/example#Shanghai%20Film%20Group%20Corporation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shanghai Film Group Corporation"@en .
+
+<http://semantics.id/ns/example#Shanghai%20Film%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1949";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shanghai Film Studio"@en .
+
+<http://semantics.id/ns/example#Shaw%20Brothers> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1958";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shaw Brothers"@en .
+
+<http://semantics.id/ns/example#Sil-Metropole%20Organisation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1982";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sil-Metropole Organisation"@en .
+
+<http://semantics.id/ns/example#Sundream%20Motion%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sundream Motion Pictures"@en .
+
+<http://semantics.id/ns/example#Tianyi%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1925";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tianyi Film Company"@en .
+
+<http://semantics.id/ns/example#Wanda%20Media> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2010";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Wanda Media"@en .
+
+<http://semantics.id/ns/example#Wenhua%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1946";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Wenhua Film Company"@en .
+
+<http://semantics.id/ns/example#Win%27s%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1990";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Win's Entertainment"@en .
+
+<http://semantics.id/ns/example#Xinhua%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1934";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Xinhua Film Company"@en .
+
+<http://semantics.id/ns/example#Xstream%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#China>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Xstream Pictures"@en .
+
+<http://semantics.id/ns/example#Zagreb%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1953";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Croatia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Zagreb Film"@en .
+
+<http://semantics.id/ns/example#Jadran%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1946";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Croatia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Jadran Film"@en .
+
+<http://semantics.id/ns/example#Croatia%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1946";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Croatia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Croatia Film"@en .
+
+<http://semantics.id/ns/example#Barrandov%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1921";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Czech%20Republic>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Barrandov Studios"@en .
+
+<http://semantics.id/ns/example#HF%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2017";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Denmark>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "HF Productions"@en .
+
+<http://semantics.id/ns/example#Nordisk%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1906";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Denmark>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nordisk Film"@en .
+
+<http://semantics.id/ns/example#Saga%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1942";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Denmark>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Saga Studios"@en .
+
+<http://semantics.id/ns/example#Zentropa%20Entertainments> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Denmark>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Zentropa Entertainments"@en .
+
+<http://semantics.id/ns/example#ADASTRA%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "ADASTRA Films"@en .
+
+<http://semantics.id/ns/example#Advantage-studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1987";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Advantage-studio"@en .
+
+<http://semantics.id/ns/example#Disneynature> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Disneynature"@en .
+
+<http://semantics.id/ns/example#Les%20Films%20du%20Poisson> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Les Films du Poisson"@en .
+
+<http://semantics.id/ns/example#Gaumont%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1895";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gaumont Film Company"@en .
+
+<http://semantics.id/ns/example#Pathé> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1896";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Pathé"@en .
+
+<http://semantics.id/ns/example#StudioCanal> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1988";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#France>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "StudioCanal"@en .
+
+<http://semantics.id/ns/example#Bavaria%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1919";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bavaria Film"@en .
+
+<http://semantics.id/ns/example#Constantin%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1950";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Constantin Film"@en .
+
+<http://semantics.id/ns/example#DEFA> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1946";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "DEFA"@en .
+
+<http://semantics.id/ns/example#Neue%20deutsche%20Filmgesellschaft> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1947";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Neue deutsche Filmgesellschaft"@en .
+
+<http://semantics.id/ns/example#Rialto%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1897";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rialto Film"@en .
+
+<http://semantics.id/ns/example#Studio%20Babelsberg> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1912";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Studio Babelsberg"@en .
+
+<http://semantics.id/ns/example#Universum%20Film%20AG %28UFA%29> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1917";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Universum Film AG (UFA)"@en .
+
+<http://semantics.id/ns/example#Wild%20Bunch> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1979";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Germany>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Wild Bunch"@en .
+
+<http://semantics.id/ns/example#Finos%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1943";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Greece>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Finos Film"@en .
+
+<http://semantics.id/ns/example#Pannonia%20Film%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1956";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Hungary>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Pannonia Film Studio"@en .
+
+<http://semantics.id/ns/example#Blueeyes%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Iceland>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Blueeyes Productions"@en .
+
+<http://semantics.id/ns/example#RVK%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2013";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Iceland>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "RVK Studios"@en .
+
+<http://semantics.id/ns/example#True%20north> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Iceland>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "True north"@en .
+
+<http://semantics.id/ns/example#Sagafilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1978";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Iceland>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sagafilm"@en .
+
+<http://semantics.id/ns/example#14%20Reels%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2009";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "14 Reels Entertainment"@en .
+
+<http://semantics.id/ns/example#Aamir%20Khan%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Aamir Khan Productions"@en .
+
+<http://semantics.id/ns/example#Aashirvad%20Cinemas> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2000";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Aashirvad Cinemas"@en .
+
+<http://semantics.id/ns/example#Ajay%20Devgn%20FFilms> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ajay Devgn FFilms"@en .
+
+<http://semantics.id/ns/example#Annapurna%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1975";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Annapurna Studios"@en .
+
+<http://semantics.id/ns/example#Anurag%20Kashyap%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Anurag Kashyap Films"@en .
+
+<http://semantics.id/ns/example#AVM%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1945";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "AVM Productions"@en .
+
+<http://semantics.id/ns/example#Balaji%20Motion%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Balaji Motion Pictures"@en .
+
+<http://semantics.id/ns/example#Balaji%20Telefilms> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1994";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Balaji Telefilms"@en .
+
+<http://semantics.id/ns/example#Bombay%20Talkies> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1934";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bombay Talkies"@en .
+
+<http://semantics.id/ns/example#Chilsag%20Entertainment%20Network> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Chilsag Entertainment Network"@en .
+
+<http://semantics.id/ns/example#CineMan%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2010";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "CineMan Productions"@en .
+
+<http://semantics.id/ns/example#Clean%20Slate%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2014";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Clean Slate Films"@en .
+
+<http://semantics.id/ns/example#Cloud%20Nine%20Movies> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cloud Nine Movies"@en .
+
+<http://semantics.id/ns/example#DAR%20Motion%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2009";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "DAR Motion Pictures"@en .
+
+<http://semantics.id/ns/example#Dharma%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1976";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Dharma Productions"@en .
+
+<http://semantics.id/ns/example#Eros%20International> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1977";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Eros International"@en .
+
+<http://semantics.id/ns/example#Eskay%20Movies> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1988";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Eskay Movies"@en .
+
+<http://semantics.id/ns/example#Excel%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Excel Entertainment"@en .
+
+<http://semantics.id/ns/example#Felis%20Creations> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2006";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Felis Creations"@en .
+
+<http://semantics.id/ns/example#Fox%20Star%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fox Star Studios"@en .
+
+<http://semantics.id/ns/example#Gemini%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1940";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gemini Studios"@en .
+
+<http://semantics.id/ns/example#Geetha%20Arts> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1972";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Geetha Arts"@en .
+
+<http://semantics.id/ns/example#Hari%20Om%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Hari Om Entertainment"@en .
+
+<http://semantics.id/ns/example#Illuminati%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2009";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Illuminati Films"@en .
+
+<http://semantics.id/ns/example#Kanteerava%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1966";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kanteerava Studios"@en .
+
+<http://semantics.id/ns/example#Kavithalaya%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1981";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kavithalaya Productions"@en .
+
+<http://semantics.id/ns/example#Lyca%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2014";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lyca Productions"@en .
+
+<http://semantics.id/ns/example#Madras%20Talkies> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Madras Talkies"@en .
+
+<http://semantics.id/ns/example#Mukta%20Arts> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1978";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mukta Arts"@en .
+
+<http://semantics.id/ns/example#Nadiadwala%20Grandson%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1970";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nadiadwala Grandson Entertainment"@en .
+
+<http://semantics.id/ns/example#Padmalaya%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "Unknown";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Padmalaya Studios"@en .
+
+<http://semantics.id/ns/example#Percept%20Picture%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Percept Picture Company"@en .
+
+<http://semantics.id/ns/example#PVR%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1997";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "PVR Pictures"@en .
+
+<http://semantics.id/ns/example#Rajshri%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1947";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rajshri Productions"@en .
+
+<http://semantics.id/ns/example#Real%20Image%20Media%20Technologies> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1986";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Real Image Media Technologies"@en .
+
+<http://semantics.id/ns/example#Reliance%20Big%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Reliance Big Entertainment"@en .
+
+<http://semantics.id/ns/example#Red%20Chillies%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Red Chillies Entertainment"@en .
+
+<http://semantics.id/ns/example#R.K.%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1948";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "R.K. Films"@en .
+
+<http://semantics.id/ns/example#S%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "S Pictures"@en .
+
+<http://semantics.id/ns/example#Sahara%20One> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2000";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sahara One"@en .
+
+<http://semantics.id/ns/example#Shree%20Ashtavinayak%20Cine%20Vision%20Ltd> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shree Ashtavinayak Cine Vision Ltd"@en .
+
+<http://semantics.id/ns/example#Shree%20Venkatesh%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1996";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shree Venkatesh Films"@en .
+
+<http://semantics.id/ns/example#Sivaji%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1956";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sivaji Productions"@en .
+
+<http://semantics.id/ns/example#Studio%20Green> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2006";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Studio Green"@en .
+
+<http://semantics.id/ns/example#Sudha%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sudha Productions"@en .
+
+<http://semantics.id/ns/example#Sun%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sun Pictures"@en .
+
+<http://semantics.id/ns/example#Suresh%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1963";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Suresh Productions"@en .
+
+<http://semantics.id/ns/example#Surinder%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1970[1]";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Surinder Films"@en .
+
+<http://semantics.id/ns/example#T-Series> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "T-Series"@en .
+
+<http://semantics.id/ns/example#Tips%20Industries%20Limited> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1975";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tips Industries Limited"@en .
+
+<http://semantics.id/ns/example#Thenandal%20Studio%20Limited> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1976";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Thenandal Studio Limited"@en .
+
+<http://semantics.id/ns/example#Trimurti%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1970";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Trimurti Films"@en .
+
+<http://semantics.id/ns/example#UTV%20Motion%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2004";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "UTV Motion Pictures"@en .
+
+<http://semantics.id/ns/example#Viacom%2018%20Motion%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Viacom 18 Motion Pictures"@en .
+
+<http://semantics.id/ns/example#Vijaya%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1948";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vijaya Productions"@en .
+
+<http://semantics.id/ns/example#Vinod%20Chopra%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1985";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vinod Chopra Films"@en .
+
+<http://semantics.id/ns/example#Vishesh%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1986";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vishesh Films"@en .
+
+<http://semantics.id/ns/example#Yash%20Raj%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1970";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Yash Raj Films"@en .
+
+<http://semantics.id/ns/example#YNOT%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2010";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "YNOT Studios"@en .
+
+<http://semantics.id/ns/example#Zee%20Entertainment%20Enterprises> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#India>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Zee Entertainment Enterprises"@en .
+
+<http://semantics.id/ns/example#Rapi%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1968";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Indonesia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rapi Films"@en .
+
+<http://semantics.id/ns/example#Ardmore%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1958";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Ireland>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ardmore Studios"@en .
+
+<http://semantics.id/ns/example#Cinecittà> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1937";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Italy>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cinecittà"@en .
+
+<http://semantics.id/ns/example#Titanus> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1904";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Italy>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Titanus"@en .
+
+<http://semantics.id/ns/example#Eiken> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1969";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Eiken"@en .
+
+<http://semantics.id/ns/example#Enoki%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1975";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Enoki Films"@en .
+
+<http://semantics.id/ns/example#Kadokawa%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2007";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kadokawa Pictures"@en .
+
+<http://semantics.id/ns/example#Makino%20Film%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1923";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Makino Film Productions"@en .
+
+<http://semantics.id/ns/example#Nikkatsu> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1912";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nikkatsu"@en .
+
+<http://semantics.id/ns/example#Shintoho> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1947";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shintoho"@en .
+
+<http://semantics.id/ns/example#Shochiku> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1920";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shochiku"@en .
+
+<http://semantics.id/ns/example#Studio%20Ghibli> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1985";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Studio Ghibli"@en .
+
+<http://semantics.id/ns/example#Taish%3f%20Katsuei> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1920";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Taish? Katsuei"@en .
+
+<http://semantics.id/ns/example#Tennenshoku%20Katsud%3f%20Shashin> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1914";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tennenshoku Katsud? Shashin"@en .
+
+<http://semantics.id/ns/example#Toei%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1950";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Toei Company"@en .
+
+<http://semantics.id/ns/example#Toho> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1932";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Toho"@en .
+
+<http://semantics.id/ns/example#Yokota%20Sh%3fkai> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1901";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Yokota Sh?kai"@en .
+
+<http://semantics.id/ns/example#Yoshizawa%20Sh%3ften> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1897";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Japan>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Yoshizawa Sh?ten"@en .
+
+<http://semantics.id/ns/example#Astro%20Shaw> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Malaysia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Astro Shaw"@en .
+
+<http://semantics.id/ns/example#KRU%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Malaysia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "KRU Studios"@en .
+
+<http://semantics.id/ns/example#New%20Zealand%20Film%20Commission> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1978";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#New%20Zealand>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "New Zealand Film Commission"@en .
+
+<http://semantics.id/ns/example#New%20Zealand%20On%20Air> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1989";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#New%20Zealand>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "New Zealand On Air"@en .
+
+<http://semantics.id/ns/example#WingNut%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#New%20Zealand>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "WingNut Films"@en .
+
+<http://semantics.id/ns/example#Rok%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2013";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Nigeria>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rok Studios"@en .
+
+<http://semantics.id/ns/example#Silverbird%20Film%20Distribution> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2007";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Nigeria>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Silverbird Film Distribution"@en .
+
+<http://semantics.id/ns/example#Bug%20AS> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1994";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Norway>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bug AS"@en .
+
+<http://semantics.id/ns/example#Fuuse Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2010";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Norway>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fuuse Films"@en .
+
+<http://semantics.id/ns/example#GMA%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Philippines>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "GMA Films"@en .
+
+<http://semantics.id/ns/example#LVN%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1936";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Philippines>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "LVN Pictures"@en .
+
+<http://semantics.id/ns/example#OctoArts%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1989";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Philippines>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "OctoArts Films"@en .
+
+<http://semantics.id/ns/example#Regal%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1962";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Philippines>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Regal Films"@en .
+
+<http://semantics.id/ns/example#Reyna%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1991";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Philippines>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Reyna Films"@en .
+
+<http://semantics.id/ns/example#Sampaguita%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1937";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Philippines>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sampaguita Pictures"@en .
+
+<http://semantics.id/ns/example#Star%20Cinema> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1993";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Philippines>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Star Cinema"@en .
+
+<http://semantics.id/ns/example#Viva%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1981";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Philippines>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Viva Films"@en .
+
+<http://semantics.id/ns/example#Appetite%20Production> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Poland>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Appetite Production"@en .
+
+<http://semantics.id/ns/example#Se-ma-for> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1947";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Poland>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Se-ma-for"@en .
+
+<http://semantics.id/ns/example#Rosa%20Filmes> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1993";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Portugal>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rosa Filmes"@en .
+
+<http://semantics.id/ns/example#MediaPro%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1998";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Romania>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "MediaPro Pictures"@en .
+
+<http://semantics.id/ns/example#Castel%20Film%20Romania> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Romania>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Castel Film Romania"@en .
+
+<http://semantics.id/ns/example#Gorky%20Film%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1915";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gorky Film Studio"@en .
+
+<http://semantics.id/ns/example#Lenfilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1918";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lenfilm"@en .
+
+<http://semantics.id/ns/example#Petersburg%20Animation%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Petersburg Animation Studio"@en .
+
+<http://semantics.id/ns/example#Wizart%20Animation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2007";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Wizart Animation"@en .
+
+<http://semantics.id/ns/example#InlayFilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2007";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "InlayFilm"@en .
+
+<http://semantics.id/ns/example#Animaccord%20Animation%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Animaccord Animation Studio"@en .
+
+<http://semantics.id/ns/example#Melnitsa%20Animation%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Melnitsa Animation Studio"@en .
+
+<http://semantics.id/ns/example#Mosfilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1920";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mosfilm"@en .
+
+<http://semantics.id/ns/example#Soyuzmultfilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1936";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Soyuzmultfilm"@en .
+
+<http://semantics.id/ns/example#Sverdlovsk%20Film%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1943";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sverdlovsk Film Studio"@en .
+
+<http://semantics.id/ns/example#Lesta%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1991";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lesta Studio"@en .
+
+<http://semantics.id/ns/example#Toondra> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Toondra"@en .
+
+<http://semantics.id/ns/example#Art%20Pictures%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Art Pictures Studio"@en .
+
+<http://semantics.id/ns/example#Non-Stop%20Production> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Non-Stop Production"@en .
+
+<http://semantics.id/ns/example#Bazelevs%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1991";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Bazelevs Company"@en .
+
+<http://semantics.id/ns/example#Russian%20World%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1998";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Russian World Studios"@en .
+
+<http://semantics.id/ns/example#Central%20Partnership> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1996";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Central Partnership"@en .
+
+<http://semantics.id/ns/example#Enjoy%20Movies> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2010";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Enjoy Movies"@en .
+
+<http://semantics.id/ns/example#Glavkino> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Glavkino"@en .
+
+<http://semantics.id/ns/example#Lennauchfilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1933";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lennauchfilm"@en .
+
+<http://semantics.id/ns/example#Central%20Studio%20for%20Documentary%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1927";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Central Studio for Documentary Film"@en .
+
+<http://semantics.id/ns/example#Nevafilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nevafilm"@en .
+
+<http://semantics.id/ns/example#Proline%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2004";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Proline Film"@en .
+
+<http://semantics.id/ns/example#Svarog%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1998";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Svarog Films"@en .
+
+<http://semantics.id/ns/example#Soho%20Media> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1993";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Russia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Soho Media"@en .
+
+<http://semantics.id/ns/example#Pink%20International%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1998";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Serbia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Pink International Company"@en .
+
+<http://semantics.id/ns/example#Triglav%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1947";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Slovenia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Triglav Film"@en .
+
+<http://semantics.id/ns/example#Triggerfish%20Animation%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1996";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Africa>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Triggerfish Animation Studios"@en .
+
+<http://semantics.id/ns/example#Cinema%20Service> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cinema Service"@en .
+
+<http://semantics.id/ns/example#CJ%20E%26M%20Film%20Division> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1993";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "CJ E&M Film Division"@en .
+
+<http://semantics.id/ns/example#Coridel%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2015";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Coridel Entertainment"@en .
+
+<http://semantics.id/ns/example#DSP> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1991";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "DSP"@en .
+
+<http://semantics.id/ns/example#I%20Star%20Cinema> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "I Star Cinema"@en .
+
+<http://semantics.id/ns/example#LOEN%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1978";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "LOEN Entertainment"@en .
+
+<http://semantics.id/ns/example#Lotte%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lotte Entertainment"@en .
+
+<http://semantics.id/ns/example#Myung%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Myung Films"@en .
+
+<http://semantics.id/ns/example#Next%20Entertainment%20World> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Next Entertainment World"@en .
+
+<http://semantics.id/ns/example#Showbox> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2016";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Showbox"@en .
+
+<http://semantics.id/ns/example#Sidus%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#South%20Korea>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sidus Pictures"@en .
+
+<http://semantics.id/ns/example#Europafilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1929";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Sweden>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Europafilm"@en .
+
+<http://semantics.id/ns/example#Film%20i%20Väst> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Sweden>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Film i Väst"@en .
+
+<http://semantics.id/ns/example#Sonet%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1984";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Sweden>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sonet Film"@en .
+
+<http://semantics.id/ns/example#AB%20Svensk%20Filmindustri> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1919";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Sweden>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "AB Svensk Filmindustri"@en .
+
+<http://semantics.id/ns/example#Benetone%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Thailand>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Benetone Films"@en .
+
+<http://semantics.id/ns/example#Five%20Star%20Production> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1973";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Thailand>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Five Star Production"@en .
+
+<http://semantics.id/ns/example#GDH%20559> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2016";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Thailand>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "GDH 559"@en .
+
+<http://semantics.id/ns/example#GMM%20Tai%20Hub> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Thailand>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "GMM Tai Hub"@en .
+
+<http://semantics.id/ns/example#Kantana%20Group> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1951";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Thailand>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kantana Group"@en .
+
+<http://semantics.id/ns/example#Phranakorn%20film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Thailand>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Phranakorn film"@en .
+
+<http://semantics.id/ns/example#Sahamongkol%20Film%20International> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1970";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Thailand>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sahamongkol Film International"@en .
+
+<http://semantics.id/ns/example#Star%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1989";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Turkey>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Star Films"@en .
+
+<http://semantics.id/ns/example#Dovzhenko%20Film%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1927";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Ukraine>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Dovzhenko Film Studio"@en .
+
+<http://semantics.id/ns/example#Anglo-Amalgamated%20Productions%20Ltd.> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1945";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Anglo-Amalgamated Productions Ltd."@en .
+
+<http://semantics.id/ns/example#Aura%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2011";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Aura Films"@en .
+
+<http://semantics.id/ns/example#BBC%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1990";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "BBC Films"@en .
+
+<http://semantics.id/ns/example#British%20Lion%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1919";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "British Lion Films"@en .
+
+<http://semantics.id/ns/example#DNA%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1997";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "DNA Films"@en .
+
+<http://semantics.id/ns/example#Dragon%20International%20Film%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2006";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Dragon International Film Studios"@en .
+
+<http://semantics.id/ns/example#Ealing%20Films%20Ltd.> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1931";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Ealing Films Ltd."@en .
+
+<http://semantics.id/ns/example#Elstree%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1914";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Elstree Studios"@en .
+
+<http://semantics.id/ns/example#Eon%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1961";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Eon Productions"@en .
+
+<http://semantics.id/ns/example#Film%20Tank> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2009";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Film Tank"@en .
+
+<http://semantics.id/ns/example#Film4%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1982";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Film4 Productions"@en .
+
+<http://semantics.id/ns/example#Fingercuff%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2000";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fingercuff Productions"@en .
+
+<http://semantics.id/ns/example#Gainsborough%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1924";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gainsborough Pictures"@en .
+
+<http://semantics.id/ns/example#Gate%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1928";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gate Studios"@en .
+
+<http://semantics.id/ns/example#Hammer%20Film%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1934";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Hammer Film Productions"@en .
+
+<http://semantics.id/ns/example#Heyday%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1997";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Heyday Films"@en .
+
+<http://semantics.id/ns/example#Intermedia> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Intermedia"@en .
+
+<http://semantics.id/ns/example#ITC%20Entertainment Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1958";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "ITC Entertainment Productions"@en .
+
+<http://semantics.id/ns/example#Magma%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2004";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Magma Pictures"@en .
+
+<http://semantics.id/ns/example#Marv%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2004";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Marv Films"@en .
+
+<http://semantics.id/ns/example#Merton%20Park%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1930";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Merton Park Studios"@en .
+
+<http://semantics.id/ns/example#MGM-British%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1936";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "MGM-British Studios"@en .
+
+<http://semantics.id/ns/example#Pinewood%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1935";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Pinewood Studios"@en .
+
+<http://semantics.id/ns/example#PolyGram%20Filmed%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1979";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "PolyGram Filmed Entertainment"@en .
+
+<http://semantics.id/ns/example#Rank%20Organisation%20Film%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1937";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rank Organisation Film Productions"@en .
+
+<http://semantics.id/ns/example#Shepperton%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1931";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Shepperton Studios"@en .
+
+<http://semantics.id/ns/example#Syncopy%20Inc.> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Syncopy Inc."@en .
+
+<http://semantics.id/ns/example#Teddington%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1910";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Teddington Studios"@en .
+
+<http://semantics.id/ns/example#Three%20Mills%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1990";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Three Mills Studios"@en .
+
+<http://semantics.id/ns/example#Twickenham%20Film%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1913";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Twickenham Film Studios"@en .
+
+<http://semantics.id/ns/example#Vertigo%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vertigo Films"@en .
+
+<http://semantics.id/ns/example#Warp%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Warp Films"@en .
+
+<http://semantics.id/ns/example#Working%20Title%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1983";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20Kingdom>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Working Title Films"@en .
+
+<http://semantics.id/ns/example#40%20Acres%20and%20a%20Mule%20Filmworks> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1986";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "40 Acres and a Mule Filmworks"@en .
+
+<http://semantics.id/ns/example#606%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2014";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "606 Films"@en .
+
+<http://semantics.id/ns/example#2929%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "2929 Productions"@en .
+
+<http://semantics.id/ns/example#Allied%20Artists%20Pictures%20Corporation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1931";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Allied Artists Pictures Corporation"@en .
+
+<http://semantics.id/ns/example#Amblin%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1981";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Amblin Entertainment"@en .
+
+<http://semantics.id/ns/example#Amblin%20Partners> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2015";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Amblin Partners"@en .
+
+<http://semantics.id/ns/example#American%20International%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1956";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "American International Pictures"@en .
+
+<http://semantics.id/ns/example#American%20Zoetrope> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1969";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "American Zoetrope"@en .
+
+<http://semantics.id/ns/example#Artisan%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1982";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Artisan Entertainment"@en .
+
+<http://semantics.id/ns/example#Batjac%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1952";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Batjac Productions"@en .
+
+<http://semantics.id/ns/example#Blinding%20Edge%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2000";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Blinding Edge Pictures"@en .
+
+<http://semantics.id/ns/example#Blue%20Sky%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1987";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Blue Sky Studios"@en .
+
+<http://semantics.id/ns/example#Capitol%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Capitol Films"@en .
+
+<http://semantics.id/ns/example#Caravan%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Caravan Pictures"@en .
+
+<http://semantics.id/ns/example#Carolco%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1976";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Carolco Pictures"@en .
+
+<http://semantics.id/ns/example#Castle%20Rock%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1987";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Castle Rock Entertainment"@en .
+
+<http://semantics.id/ns/example#CBS%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2007";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "CBS Films"@en .
+
+<http://semantics.id/ns/example#Cedar%20Grove%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1996";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cedar Grove Productions"@en .
+
+<http://semantics.id/ns/example#Christie%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1916";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Christie Film Company"@en .
+
+<http://semantics.id/ns/example#Cinemation%20Industries> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1965";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cinemation Industries"@en .
+
+<http://semantics.id/ns/example#Cinergi%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1989";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Cinergi Pictures"@en .
+
+<http://semantics.id/ns/example#Columbia%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1924";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Columbia Pictures"@en .
+
+<http://semantics.id/ns/example#Compass%20International%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1977";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Compass International Pictures"@en .
+
+<http://semantics.id/ns/example#Davis%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1984";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Davis Entertainment"@en .
+
+<http://semantics.id/ns/example#Destination%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1993";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Destination Films"@en .
+
+<http://semantics.id/ns/example#Dimension%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Dimension Films"@en .
+
+<http://semantics.id/ns/example#DreamWorks> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1994";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "DreamWorks"@en .
+
+<http://semantics.id/ns/example#DreamWorks%20Animation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2004";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "DreamWorks Animation"@en .
+
+<http://semantics.id/ns/example#E1%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1987";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "E1 Entertainment"@en .
+
+<http://semantics.id/ns/example#Edison%27s%20Black%20Maria> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1893";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Edison's Black Maria"@en .
+
+<http://semantics.id/ns/example#Electric%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Electric Entertainment"@en .
+
+<http://semantics.id/ns/example#Elevating%20Entertainment%20Motion%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2007";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Elevating Entertainment Motion Pictures"@en .
+
+<http://semantics.id/ns/example#Embassy%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1942";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Embassy Pictures"@en .
+
+<http://semantics.id/ns/example#Esperanto%20Filmoj> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2004";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Esperanto Filmoj"@en .
+
+<http://semantics.id/ns/example#Essanay%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1907";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Essanay Studios"@en .
+
+<http://semantics.id/ns/example#Famous%20Players%20Film%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1912";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Famous Players Film Company"@en .
+
+<http://semantics.id/ns/example#Famous%20Players-Lasky> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1914";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Famous Players-Lasky"@en .
+
+<http://semantics.id/ns/example#Film%20Booking%20Offices%20of%20America> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1919";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Film Booking Offices of America"@en .
+
+<http://semantics.id/ns/example#Filmways> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1958";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Filmways"@en .
+
+<http://semantics.id/ns/example#Fine%20Line%20Features> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1990";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fine Line Features"@en .
+
+<http://semantics.id/ns/example#First%20Look%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1993";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "First Look Studios"@en .
+
+<http://semantics.id/ns/example#First%20National> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1917";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "First National"@en .
+
+<http://semantics.id/ns/example#Five%20%26%20Two%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Five & Two Pictures"@en .
+
+<http://semantics.id/ns/example#Flavor%20Unit%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Flavor Unit Entertainment"@en .
+
+<http://semantics.id/ns/example#Focus%20Features> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Focus Features"@en .
+
+<http://semantics.id/ns/example#Four%20Star%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1952";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Four Star Productions"@en .
+
+<http://semantics.id/ns/example#Fox%20Atomic> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2006";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fox Atomic"@en .
+
+<http://semantics.id/ns/example#Fox%20Film%20Corporation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1915";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fox Film Corporation"@en .
+
+<http://semantics.id/ns/example#20th%20Century%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1933";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "20th Century Pictures"@en .
+
+<http://semantics.id/ns/example#Fox%20Searchlight%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1994";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Fox Searchlight Pictures"@en .
+
+<http://semantics.id/ns/example#Gener8Xion%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gener8Xion Entertainment"@en .
+
+<http://semantics.id/ns/example#Gnome%20Motion%20Picture%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1910";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Gnome Motion Picture Company"@en .
+
+<http://semantics.id/ns/example#Golan-Globus> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1967";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Golan-Globus"@en .
+
+<http://semantics.id/ns/example#Goldwyn%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1916";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Goldwyn Pictures"@en .
+
+<http://semantics.id/ns/example#Samuel%20Goldwyn%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1923";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Goldwyn Productions"@en .
+
+<http://semantics.id/ns/example#Hallmark%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Hallmark Productions"@en .
+
+<http://semantics.id/ns/example#Hannover%20House> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1993";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Hannover House"@en .
+
+<http://semantics.id/ns/example#Happy%20Madison%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Happy Madison Productions"@en .
+
+<http://semantics.id/ns/example#Heritage%20Film%20Project> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2008";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Heritage Film Project"@en .
+
+<http://semantics.id/ns/example#Hollywood%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1989";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Hollywood Pictures"@en .
+
+<http://semantics.id/ns/example#IFC%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1999";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "IFC Films"@en .
+
+<http://semantics.id/ns/example#Image%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1981";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Image Entertainment"@en .
+
+<http://semantics.id/ns/example#Interscope%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1982";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Interscope Pictures"@en .
+
+<http://semantics.id/ns/example#Kalem%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1907";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Kalem Company"@en .
+
+<http://semantics.id/ns/example#Keystone%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1912";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Keystone Studios"@en .
+
+<http://semantics.id/ns/example#Legendary%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2000";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Legendary Pictures"@en .
+
+<http://semantics.id/ns/example#Liberty%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1945";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Liberty Films"@en .
+
+<http://semantics.id/ns/example#Lightstorm%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1990";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lightstorm Entertainment"@en .
+
+<http://semantics.id/ns/example#Lightyear%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1987";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lightyear Entertainment"@en .
+
+<http://semantics.id/ns/example#Limelight%20Department> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1898";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#Australia>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Limelight Department"@en .
+
+<http://semantics.id/ns/example#Lions%20Gate%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1995";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lions Gate Entertainment"@en .
+
+<http://semantics.id/ns/example#Lubin%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1896";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lubin Studios"@en .
+
+<http://semantics.id/ns/example#Lucasfilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1971";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Lucasfilm"@en .
+
+<http://semantics.id/ns/example#Magnolia%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Magnolia Pictures"@en .
+
+<http://semantics.id/ns/example#Marvel%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2007";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Marvel Studios"@en .
+
+<http://semantics.id/ns/example#Mascot%20Pictures%20Corporation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1927";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mascot Pictures Corporation"@en .
+
+<http://semantics.id/ns/example#Mercury%20Radio%20Arts> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mercury Radio Arts"@en .
+
+<http://semantics.id/ns/example#Metro%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1915";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Metro Pictures"@en .
+
+<http://semantics.id/ns/example#Metro-Goldwyn-Mayer> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1924";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Metro-Goldwyn-Mayer"@en .
+
+<http://semantics.id/ns/example#Miramax%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1979";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Miramax Films"@en .
+
+<http://semantics.id/ns/example#Mutual%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1912";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Mutual Film"@en .
+
+<http://semantics.id/ns/example#Newmarket%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1989";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Newmarket Films"@en .
+
+<http://semantics.id/ns/example#Nestor%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1909";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Nestor Studios"@en .
+
+<http://semantics.id/ns/example#New%20Line%20Cinema> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1967";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "New Line Cinema"@en .
+
+<http://semantics.id/ns/example#Original%20Film> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1997";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Original Film"@en .
+
+<http://semantics.id/ns/example#Orion%20Pictures%20Corporation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1978";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Orion Pictures Corporation"@en .
+
+<http://semantics.id/ns/example#Overture%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2006";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Overture Films"@en .
+
+<http://semantics.id/ns/example#Pacific%20International%20Enterprises> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1952";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Pacific International Enterprises"@en .
+
+<http://semantics.id/ns/example#Paramount%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1912";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Paramount Pictures"@en .
+
+<http://semantics.id/ns/example#Paramount%20Vantage> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1996";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Paramount Vantage"@en .
+
+<http://semantics.id/ns/example#Picturehouse> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Picturehouse"@en .
+
+<http://semantics.id/ns/example#Possibility%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Possibility Pictures"@en .
+
+<http://semantics.id/ns/example#Praise%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2007";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Praise Pictures"@en .
+
+<http://semantics.id/ns/example#Premium%20Picture%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1921";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Premium Picture Productions"@en .
+
+<http://semantics.id/ns/example#Producers%20Releasing%20Corporation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1939";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Producers Releasing Corporation"@en .
+
+<http://semantics.id/ns/example#Pure%20Flix%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Pure Flix Entertainment"@en .
+
+<http://semantics.id/ns/example#Reliance-Majestic%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1914";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Reliance-Majestic Studios"@en .
+
+<http://semantics.id/ns/example#Republic%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1935";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Republic Pictures"@en .
+
+<http://semantics.id/ns/example#RKO%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1928";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "RKO Pictures"@en .
+
+<http://semantics.id/ns/example#Rogue%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1992";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rogue Pictures"@en .
+
+<http://semantics.id/ns/example#Rolfe%20Photoplays> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1915";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rolfe Photoplays"@en .
+
+<http://semantics.id/ns/example#Rooster%20Teeth%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Rooster Teeth Productions"@en .
+
+<http://semantics.id/ns/example#Samuel%20Goldwyn%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1979";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Goldwyn Films"@en .
+
+<http://semantics.id/ns/example#Scott%20Free> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1970";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Scott Free"@en .
+
+<http://semantics.id/ns/example#Screen%20Gems> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1940";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Screen Gems"@en .
+
+<http://semantics.id/ns/example#Screen%20Media%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Screen Media Films"@en .
+
+<http://semantics.id/ns/example#Seen%20by%20Scene%20Communications> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1947";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Seen by Scene Communications"@en .
+
+<http://semantics.id/ns/example#Selig%20Polyscope%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1896";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Selig Polyscope Company"@en .
+
+<http://semantics.id/ns/example#Selznick%20International%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1935";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Selznick International Pictures"@en .
+
+<http://semantics.id/ns/example#Sherwood%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sherwood Pictures"@en .
+
+<http://semantics.id/ns/example#Silver%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1985";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Silver Pictures"@en .
+
+<http://semantics.id/ns/example#Skydance%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2010";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Skydance Productions"@en .
+
+<http://semantics.id/ns/example#Solax%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1910";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Solax Studios"@en .
+
+<http://semantics.id/ns/example#Sony%20Pictures%20Classics> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1991";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sony Pictures Classics"@en .
+
+<http://semantics.id/ns/example#Sony%20Pictures%20Motion%20Picture%20Group> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1998";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sony Pictures Motion Picture Group"@en .
+
+<http://semantics.id/ns/example#Spyglass%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1988";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Spyglass Entertainment"@en .
+
+<http://semantics.id/ns/example#Strand%20Releasing> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1989";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Strand Releasing"@en .
+
+<http://semantics.id/ns/example#Sun%20Haven%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1932";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Sun Haven Studios"@en .
+
+<http://semantics.id/ns/example#Summit%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1996";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Summit Entertainment"@en .
+
+<http://semantics.id/ns/example#Temple%20Hill%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2006";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Temple Hill Entertainment"@en .
+
+<http://semantics.id/ns/example#Thanhouser%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1909";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Thanhouser Company"@en .
+
+<http://semantics.id/ns/example#The%20Samuel%20Goldwyn%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1979";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "The Samuel Goldwyn Company"@en .
+
+<http://semantics.id/ns/example#THINKFilm> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "THINKFilm"@en .
+
+<http://semantics.id/ns/example#Through%20A%20Glass%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Through A Glass Productions"@en .
+
+<http://semantics.id/ns/example#Tiffany%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1921";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tiffany Pictures"@en .
+
+<http://semantics.id/ns/example#Touchstone%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1984";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Touchstone Pictures"@en .
+
+<http://semantics.id/ns/example#Trimark%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1985";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Trimark Pictures"@en .
+
+<http://semantics.id/ns/example#TriStar%20Pictures%2c%20Inc.> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "TriStar Pictures, Inc."@en .
+
+<http://semantics.id/ns/example#TriStar%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1982";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "TriStar Pictures"@en .
+
+<http://semantics.id/ns/example#Troma%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1974";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Troma Entertainment"@en .
+
+<http://semantics.id/ns/example#20th%20Century%20Fox> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1935";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "20th Century Fox"@en .
+
+<http://semantics.id/ns/example#20th%20Century%20Fox%20Animation> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1997";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "20th Century Fox Animation"@en .
+
+<http://semantics.id/ns/example#Uncommon%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2000";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Uncommon Productions"@en .
+
+<http://semantics.id/ns/example#United%20Artists Entertainment%2c%20LLC> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1919";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "United Artists Entertainment, LLC"@en .
+
+<http://semantics.id/ns/example#United%20States%20Productions> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1946";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "United States Productions"@en .
+
+<http://semantics.id/ns/example#Universal%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1912";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Universal Studios"@en .
+
+<http://semantics.id/ns/example#Victor%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1912";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Victor Studios"@en .
+
+<http://semantics.id/ns/example#Vitagraph%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1897";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vitagraph Studios"@en .
+
+<http://semantics.id/ns/example#Vivendi%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2000";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Vivendi Entertainment"@en .
+
+<http://semantics.id/ns/example#Walden%20Media> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2001";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Walden Media"@en .
+
+<http://semantics.id/ns/example#The%20Walt%20Disney%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1923";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "The Walt Disney Studios"@en .
+
+<http://semantics.id/ns/example#Walt%20Disney%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1923";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Walt Disney Pictures"@en .
+
+<http://semantics.id/ns/example#Warner%20Bros.> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1918";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Warner Bros."@en .
+
+<http://semantics.id/ns/example#Warner%20Independent%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2003";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Warner Independent Pictures"@en .
+
+<http://semantics.id/ns/example#The%20Weinstein%20Company> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2005";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "The Weinstein Company"@en .
+
+<http://semantics.id/ns/example#Tyler%20Perry%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2006";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Tyler Perry Studios"@en .
+
+<http://semantics.id/ns/example#Welling%20Films> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2006";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Welling Films"@en .
+
+<http://semantics.id/ns/example#Western%20Film%20Exchange> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1906";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Western Film Exchange"@en .
+
+<http://semantics.id/ns/example#The%20Whartons%20Studio> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1914";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "The Whartons Studio"@en .
+
+<http://semantics.id/ns/example#World%20Wide%20Pictures> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "1951";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "World Wide Pictures"@en .
+
+<http://semantics.id/ns/example#Worldview%20Entertainment> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2007";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Worldview Entertainment"@en .
+
+<http://semantics.id/ns/example#WWE%20Studios> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2002";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "WWE Studios"@en .
+
+<http://semantics.id/ns/example#Yari%20Film%20Group> a <http://semantics.id/ns/example/movie#FilmStudio>,
+    <http://www.w3.org/2002/07/owl#NamedIndividual>;
+  <http://semantics.id/ns/example/movie#hasEstablishedDate> "2006";
+  <http://semantics.id/ns/example/movie#locatedIn> <http://semantics.id/ns/example#United%20States>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Yari Film Group"@en .
